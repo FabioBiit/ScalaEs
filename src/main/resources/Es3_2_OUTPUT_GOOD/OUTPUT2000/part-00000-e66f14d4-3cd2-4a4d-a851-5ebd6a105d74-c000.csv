@@ -1,0 +1,374 @@
+Anno,2000
+Small Narrowbodies,2646.0
+(Ex Fuel),1977.0
+Pilots,670.0
+Salaries and Wages,484.0
+Pilot Training,20.0
+Benefits and Payroll Taxes,115.0
+Per Diem/ Personnel,51.0
+Purchased Goods,769.0
+Fuel/Oil,669.0
+Insurance,2.0
+Other (inc. Tax),97.0
+Maintenance,757.0
+Labor,133.0
+Materials,141.0
+Third Party,125.0
+Total Direct,393.0
+Burden,364.0
+Aircraft Ownership,444.0
+Rentals,252.0
+Depreciation and Amortization,192.0
+Other,6.0
+Aircraft In Fleet,347.0
+Seats Per Departure,128.0
+Average Stage Length,767.0
+Gallons of Fuel Per Block Hour,910.0
+Load Factor,1.0
+Block Hours,10.0
+Airborne Hours,8.0
+Departures,5.0
+Large Narrowbodies,2939.0
+(Ex Fuel),2178.0
+Pilots,800.0
+Salaries and Wages,585.0
+Pilot Training,23.0
+Benefits and Payroll Taxes,141.0
+Per Diem/ Personnel,51.0
+Purchased Goods,864.0
+Fuel/Oil,761.0
+Insurance,5.0
+Other (inc. Tax),99.0
+Maintenance,734.0
+Labor,121.0
+Materials,156.0
+Third Party,75.0
+Total Direct,352.0
+Burden,382.0
+Aircraft Ownership,581.0
+Rentals,397.0
+Depreciation and Amortization,184.0
+Other,-41.0
+Aircraft In Fleet,98.0
+Seats Per Departure,182.0
+Average Stage Length,1365.0
+Gallons of Fuel Per Block Hour,1073.0
+Load Factor,1.0
+Block Hours,11.0
+Airborne Hours,9.0
+Departures,3.0
+Widebodies,5631.0
+(Ex Fuel),3886.0
+Pilots,1343.0
+Salaries and Wages,994.0
+Pilot Training,38.0
+Benefits and Payroll Taxes,244.0
+Per Diem/ Personnel,66.0
+Purchased Goods,1815.0
+Fuel/Oil,1745.0
+Insurance,9.0
+Other (inc. Tax),61.0
+Maintenance,1225.0
+Labor,217.0
+Materials,197.0
+Third Party,222.0
+Total Direct,635.0
+Burden,590.0
+Aircraft Ownership,1235.0
+Rentals,669.0
+Depreciation and Amortization,566.0
+Other,13.0
+Aircraft In Fleet,156.0
+Seats Per Departure,280.0
+Average Stage Length,2890.0
+Gallons of Fuel Per Block Hour,2280.0
+Load Factor,1.0
+Block Hours,12.0
+Airborne Hours,11.0
+Departures,2.0
+Total Fleet,3568.0
+(Ex Fuel),2569.0
+Pilots,889.0
+Salaries and Wages,650.0
+Pilot Training,26.0
+Benefits and Payroll Taxes,157.0
+Per Diem/ Personnel,56.0
+Purchased Goods,1091.0
+Fuel/Oil,999.0
+Insurance,5.0
+Other (inc. Tax),87.0
+Maintenance,890.0
+Labor,156.0
+Materials,160.0
+Third Party,145.0
+Total Direct,457.0
+Burden,433.0
+Aircraft Ownership,698.0
+Rentals,398.0
+Depreciation and Amortization,300.0
+Other,0.0
+Aircraft In Fleet,601.0
+Seats Per Departure,190.0
+Average Stage Length,1145.0
+Gallons of Fuel Per Block Hour,1338.0
+Load Factor,1.0
+Block Hours,11.0
+Airborne Hours,9.0
+Departures,4.0
+Small Narrowbodies,3312501.0
+Pilots (000),838740.0
+Salaries and Wages (000),605325.0
+Pilot Training (000),25163.0
+Benefits and Payroll Taxes (000),143949.0
+Per Diem/ Personnel (000),64303.0
+Purchased Goods (000),962185.0
+Fuel/Oil (000),837938.0
+Insurance (000),2851.0
+Other (inc. Tax) (000),121396.0
+Maintenance (000),947817.0
+Labor (000),166942.0
+Materials (000),175974.0
+Third Party (000),156635.0
+Total Direct (000),491585.0
+Burden (000),456232.0
+Aircraft Ownership (000),555950.0
+Rentals (000),315140.0
+Depreciation and Amortization (000),240810.0
+Other (000),7809.0
+Aircraft In Fleet,347.0
+Seats Per Departure,128.0
+Average Stage Length,767.0
+Gallons of Fuel Per Block Hour,910.0
+Load Factor,1.0
+Block Hours,10.0
+Airborne Hours,8.0
+Departures,5.0
+Block Hours,1251742.0
+Airborne Hours,1028648.0
+Departures,580104.0
+RPMs,3.9508133E10
+ASMs,5.6753139E10
+Miles,4.44981631E8
+Gallons,1.138703961E9
+Aircraft Days,127052.0
+Large Narrowbodies,1141806.0
+Pilots (000),310944.0
+Salaries and Wages (000),227228.0
+Pilot Training (000),8862.0
+Benefits and Payroll Taxes (000),54893.0
+Per Diem/ Personnel (000),19961.0
+Purchased Goods (000),335824.0
+Fuel/Oil (000),295505.0
+Insurance (000),1783.0
+Other (inc. Tax) (000),38536.0
+Maintenance (000),285199.0
+Labor (000),46835.0
+Materials (000),60512.0
+Third Party (000),29264.0
+Total Direct (000),136611.0
+Burden (000),148588.0
+Aircraft Ownership (000),225576.0
+Rentals (000),154276.0
+Depreciation and Amortization (000),71300.0
+Other (000),-15737.0
+Aircraft In Fleet,98.0
+Seats Per Departure,182.0
+Average Stage Length,1365.0
+Gallons of Fuel Per Block Hour,1073.0
+Load Factor,1.0
+Block Hours,11.0
+Airborne Hours,9.0
+Departures,3.0
+Block Hours,388551.0
+Airborne Hours,337909.0
+Departures,116787.0
+RPMs,2.1052472E10
+ASMs,2.9013961E10
+Miles,1.59443655E8
+Gallons,4.16847296E8
+Aircraft Days,35868.0
+Widebodies,3817373.0
+Pilots (000),910212.0
+Salaries and Wages (000),674209.0
+Pilot Training (000),25804.0
+Benefits and Payroll Taxes (000),165391.0
+Per Diem/ Personnel (000),44808.0
+Purchased Goods (000),1230348.0
+Fuel/Oil (000),1183038.0
+Insurance (000),5966.0
+Other (inc. Tax) (000),41344.0
+Maintenance (000),830565.0
+Labor (000),147000.0
+Materials (000),133518.0
+Third Party (000),150197.0
+Total Direct (000),430474.0
+Burden (000),400091.0
+Aircraft Ownership (000),837304.0
+Rentals (000),453795.0
+Depreciation and Amortization (000),383509.0
+Other (000),8944.0
+Aircraft In Fleet,156.0
+Seats Per Departure,280.0
+Average Stage Length,2890.0
+Gallons of Fuel Per Block Hour,2280.0
+Load Factor,1.0
+Block Hours,12.0
+Airborne Hours,11.0
+Departures,2.0
+Block Hours,677976.0
+Airborne Hours,622759.0
+Departures,111037.0
+RPMs,6.6373269E10
+ASMs,8.972543E10
+Miles,3.20851359E8
+Gallons,1.54567791E9
+Aircraft Days,57157.0
+Total Fleet,8271680.0
+Pilots (000),2059896.0
+Salaries and Wages (000),1506762.0
+Pilot Training (000),59829.0
+Benefits and Payroll Taxes (000),364233.0
+Per Diem/ Personnel (000),129072.0
+Purchased Goods (000),2528357.0
+Fuel/Oil (000),2316481.0
+Insurance (000),10600.0
+Other (inc. Tax) (000),201276.0
+Maintenance (000),2063581.0
+Labor (000),360777.0
+Materials (000),370004.0
+Third Party (000),336096.0
+Total Direct (000),1058670.0
+Burden (000),1004911.0
+Aircraft Ownership (000),1618830.0
+Rentals (000),923211.0
+Depreciation and Amortization (000),695619.0
+Other (000),1016.0
+Aircraft In Fleet,601.0
+Seats Per Departure,190.0
+Average Stage Length,1145.0
+Gallons of Fuel Per Block Hour,1338.0
+Load Factor,1.0
+Block Hours,11.0
+Airborne Hours,9.0
+Departures,4.0
+Block Hours,2318269.0
+Airborne Hours,1989316.0
+Departures,807928.0
+RPMs,1.26933874E11
+ASMs,1.7549253E11
+Miles,9.25276645E8
+Gallons,3.101229167E9
+Aircraft Days,220077.0
+Number of Days,366.0
+Sum of Block Hours,1251742.0
+Sum of Airborne Hours,1028648.0
+Sum of Departures,580104.0
+Sum of RPMs,3.9508133E10
+Sum of ASMs,5.6753139E10
+Sum of Miles,4.44981631E8
+Sum of Gallons,1.138703961E9
+Sum of ACFleet,127052.0
+Sum of Total AC Op,3312501.0
+Sum of Pilots,838740.0
+Sum of Salaries and Wages,605325.0
+Sum of Pilot Training,25163.0
+Sum of Benefits and Payroll Taxes,143949.0
+Sum of Per Diem/ Personnel,64303.0
+Sum of Purchased Goods,962185.0
+Sum of Fuel/Oil,837938.0
+Sum of Insurance,2851.0
+Sum of Other (inc. Tax),121396.0
+Sum of MX,947817.0
+Sum of Labor,166942.0
+Sum of Materials,175974.0
+Sum of Third Party,156635.0
+Sum of Total Direct,491585.0
+Sum of Burden,456232.0
+Sum of Aircraft Ownership,555950.0
+Sum of Rentals,315140.0
+Sum of Depreciation and Amortization,240810.0
+Sum of Other,7492.0
+Sum of Block Hours,388551.0
+Sum of Airborne Hours,337909.0
+Sum of Departures,116787.0
+Sum of RPMs,2.1052472E10
+Sum of ASMs,2.9013961E10
+Sum of Miles,1.59443655E8
+Sum of Gallons,4.16847296E8
+Sum of ACFleet,35868.0
+Sum of Total AC Op,1141806.0
+Sum of Pilots,310944.0
+Sum of Salaries and Wages,227228.0
+Sum of Pilot Training,8862.0
+Sum of Benefits and Payroll Taxes,54893.0
+Sum of Per Diem/ Personnel,19961.0
+Sum of Purchased Goods,335824.0
+Sum of Fuel/Oil,295505.0
+Sum of Insurance,1783.0
+Sum of Other (inc. Tax),38536.0
+Sum of MX,285199.0
+Sum of Labor,46835.0
+Sum of Materials,60512.0
+Sum of Third Party,29264.0
+Sum of Total Direct,136611.0
+Sum of Burden,148588.0
+Sum of Aircraft Ownership,225576.0
+Sum of Rentals,154276.0
+Sum of Depreciation and Amortization,71300.0
+Sum of Other,2980.0
+Sum of Block Hours,677976.0
+Sum of Airborne Hours,622759.0
+Sum of Departures,111037.0
+Sum of RPMs,6.6373269E10
+Sum of ASMs,8.972543E10
+Sum of Miles,3.20851359E8
+Sum of Gallons,1.54567791E9
+Sum of ACFleet,57157.0
+Sum of Total AC Op,3817373.0
+Sum of Pilots,910212.0
+Sum of Salaries and Wages,674209.0
+Sum of Pilot Training,25804.0
+Sum of Benefits and Payroll Taxes,165391.0
+Sum of Per Diem/ Personnel,44808.0
+Sum of Purchased Goods,1230348.0
+Sum of Fuel/Oil,1183038.0
+Sum of Insurance,5966.0
+Sum of Other (inc. Tax),41344.0
+Sum of MX,830565.0
+Sum of Labor,147000.0
+Sum of Materials,133518.0
+Sum of Third Party,150197.0
+Sum of Total Direct,430474.0
+Sum of Burden,400091.0
+Sum of Aircraft Ownership,837304.0
+Sum of Rentals,453795.0
+Sum of Depreciation and Amortization,383509.0
+Sum of Other,8708.0
+Sum of Block Hours,2318269.0
+Sum of Airborne Hours,1989316.0
+Sum of Departures,807928.0
+Sum of RPMs,1.26933874E11
+Sum of ASMs,1.7549253E11
+Sum of Miles,9.25276645E8
+Sum of Gallons,3.101229167E9
+Sum of ACFleet,220077.0
+Sum of Total AC Op,8271680.0
+Sum of Pilots,2059896.0
+Sum of Salaries and Wages,1506762.0
+Sum of Pilot Training,59829.0
+Sum of Benefits and Payroll Taxes,364233.0
+Sum of Per Diem/ Personnel,129072.0
+Sum of Purchased Goods,2528357.0
+Sum of Fuel/Oil,2316481.0
+Sum of Insurance,10600.0
+Sum of Other (inc. Tax),201276.0
+Sum of MX,2063581.0
+Sum of Labor,360777.0
+Sum of Materials,370004.0
+Sum of Third Party,336096.0
+Sum of Total Direct,1058670.0
+Sum of Burden,1004911.0
+Sum of Aircraft Ownership,1618830.0
+Sum of Rentals,923211.0
+Sum of Depreciation and Amortization,695619.0
+Sum of Other,19180.0

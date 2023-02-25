@@ -1,0 +1,37 @@
+country,player_id,player_name,lineups_type,match_id,phase,eta_gol,eta_attuale,esito
+Spain,183857,Iniesta,sub,300061509,Final,26,38,Vittoria
+Italy,184451,Marco Materazzi,sub,97410064,Final,33,49,Righori
+Brazil,92699,Ronaldo,sub,43950064,Final,26,46,Vittoria
+France,163331,Zinedine Zidane,sub,8788,Final,26,50,Vittoria
+France,95448,Emmanuel Petit,sub,8788,Final,28,52,Vittoria
+Argentina,44707,Jorge Valdano,sub,393,Final,31,67,Vittoria
+Argentina,174434,Jose Brown,sub,393,Final,30,66,Vittoria
+Argentina,174440,Jorge Burruchaga,sub,393,Final,24,60,Vittoria
+Italy,44684,Marco Tardelli,sub,923,Final,28,68,Vittoria
+Italy,44582,Paolo Rossi,sub,923,Final,26,66,Vittoria
+Italy,174342,Alessandro Altobelli,sub,923,Final,27,67,Vittoria
+Argentina,174658,Mario Kempes,sub,2198,Final,24,68,Vittoria
+Argentina,174395,Daniel Bertoni,sub,2198,Final,23,67,Vittoria
+Germany FR,174790,Gerd Mueller,sub,2063,Final,29,77,Vittoria
+Brazil,63869,Pelé,sub,1765,Final,30,82,Vittoria
+Brazil,63880,Gerson,sub,1765,Final,29,81,Vittoria
+Brazil,63879,Jairzinho,sub,1765,Final,26,78,Vittoria
+Brazil,63891,Carlos Alberto,sub,1765,Final,26,78,Vittoria
+England,174623,Geoff Hurst,sub,1633,Final,25,81,Vittoria
+England,174852,Martin Peters,sub,1633,Final,23,79,Vittoria
+Brazil,63867,Zito,sub,1463,Final,30,90,Vittoria
+Brazil,63866,Vava,sub,1463,Final,28,88,Vittoria
+Brazil,63873,Amarildo,sub,1463,Final,23,83,Vittoria
+Brazil,61571,Mario Zagallo,sub,1343,Final,27,91,Vittoria
+Brazil,63869,Pelé,sub,1343,Final,18,82,Vittoria
+Brazil,63866,Vava,sub,1343,Final,24,88,Vittoria
+Germany FR,44545,Helmut Rahn,sub,1278,Final,25,93,Vittoria
+Germany FR,174784,Max Morlock,sub,1278,Final,29,97,Vittoria
+Italy,174474,Gino Colaussi,sub,1174,Final,24,108,Vittoria
+Italy,174862,Silvio Piola,sub,1174,Final,25,109,Vittoria
+Italy,44610,Angelo Schiavio,sub,1134,Final,29,117,Vittoria
+Italy,174825,Raimundo Orsi,sub,1134,Final,33,121,Vittoria
+Uruguay,47398,Hector Castro,sub,1087,Final,26,118,Vittoria
+Uruguay,48687,Pablo Dorado,sub,1087,Final,22,114,Vittoria
+Uruguay,47419,Pedro Cea,sub,1087,Final,30,122,Vittoria
+Uruguay,51279,Victoriano Iriarte,sub,1087,Final,28,120,Vittoria

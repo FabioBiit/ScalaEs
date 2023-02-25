@@ -1,0 +1,1970 @@
+player_id,player_name,position,lineups_type,goal_type,team,match_id,GK_id,GK_name,GK,teams,id_match
+215002,Wesley Sneijder,MF,starting,goal,home,300111117,198117,Eiji Kawashima,GK,away,300111117
+312546,Cacau,FW,sub,goal,home,300111116,94497,Mark Schwarzer,GK,away,300111116
+321722,Thomas Mueller,MF,starting,goal,home,300111116,94497,Mark Schwarzer,GK,away,300111116
+196789,Lukas Podolski,FW,starting,goal,home,300111116,94497,Mark Schwarzer,GK,away,300111116
+182206,Miroslav Klose,FW,starting,goal,home,300111116,94497,Mark Schwarzer,GK,away,300111116
+207761,Park Chuyoung,FW,starting,goal,away,300111115,189300,Vincent Enyeama,GK,home,300111115
+178738,Kalu Uche,MF,starting,goal,home,300111115,198546,Jung Sungryong,GK,away,300111115
+3989,Yakubu Ayegbeni,FW,starting,penalty,home,300111115,198546,Jung Sungryong,GK,away,300111115
+296013,Lee Jung Soo,DF,starting,goal,away,300111115,189300,Vincent Enyeama,GK,home,300111115
+177914,Carles Puyol,DF,starting,goal,away,300111114,228912,Manuel Neuer,GK,home,300111114
+184410,Robert Vittek,FW,starting,goal,away,300111113,184599,Maarten Stekelenburg,GK,home,300111113
+184616,Arjen Robben,FW,starting,goal,home,300111113,299802,Jan Mucha,GK,away,300111113
+215002,Wesley Sneijder,MF,starting,goal,home,300111113,299802,Jan Mucha,GK,away,300111113
+216650,Gelson Fernandes,MF,starting,goal,away,300111112,176644,Iker Casillas,GK,home,300111112
+189259,Diego Forlan,FW,starting,goal,home,300061512,184599,Maarten Stekelenburg,GK,away,300061512
+286481,Maximiliano Pereira,DF,starting,goal,home,300061512,184599,Maarten Stekelenburg,GK,away,300061512
+155679,Giovanni Van Bronckhorst,DF,starting,goal,away,300061512,229498,Fernando Muslera,GK,home,300061512
+215002,Wesley Sneijder,MF,starting,goal,away,300061512,229498,Fernando Muslera,GK,home,300061512
+184616,Arjen Robben,FW,starting,goal,away,300061512,229498,Fernando Muslera,GK,home,300061512
+155679,Giovanni Van Bronckhorst,MF,starting,goal,away,300061512,229498,Fernando Muslera,GK,home,300061512
+321722,Thomas Mueller,MF,starting,goal,away,300061510,229498,Fernando Muslera,GK,home,300061510
+196791,Marcell Jansen,MF,starting,goal,away,300061510,229498,Fernando Muslera,GK,home,300061510
+267834,Edinson Cavani,FW,starting,goal,home,300061510,177669,Hans Joerg Butt,GK,away,300061510
+189259,Diego Forlan,FW,starting,goal,home,300061510,177669,Hans Joerg Butt,GK,away,300061510
+196791,Marcell Jansen,DF,starting,goal,away,300061510,229498,Fernando Muslera,GK,home,300061510
+196900,Sami Khedira,MF,starting,goal,away,300061510,229498,Fernando Muslera,GK,home,300061510
+183857,Iniesta,MF,starting,goal,away,300061509,184599,Maarten Stekelenburg,GK,home,300061509
+189259,Diego Forlan,FW,starting,goal,home,300061508,170232,Richard Kingson,GK,away,300061508
+183000,Sulley Muntari,MF,starting,goal,away,300061508,229498,Fernando Muslera,GK,home,300061508
+215002,Wesley Sneijder,MF,starting,goal,home,300061507,179038,Julio Cesar,GK,away,300061507
+194815,Robinho,FW,starting,goal,away,300061507,184599,Maarten Stekelenburg,GK,home,300061507
+229884,David Villa,FW,starting,goal,away,300061506,185338,Justo Villar,GK,home,300061506
+182206,Miroslav Klose,FW,starting,goal,away,300061505,266783,Sergio Romero,GK,home,300061505
+191178,Arne Friedrich,DF,starting,goal,away,300061505,266783,Sergio Romero,GK,home,300061505
+321722,Thomas Mueller,MF,starting,goal,away,300061505,266783,Sergio Romero,GK,home,300061505
+270775,Luis Suarez,FW,starting,goal,home,300061504,198546,Jung Sungryong,GK,away,300061504
+268414,Lee Chung Yong,MF,starting,goal,away,300061504,229498,Fernando Muslera,GK,home,300061504
+196897,Kevin Prince Boateng,FW,starting,goal,away,300061503,178420,Tim Howard,GK,home,300061503
+175507,Landon Donovan,MF,starting,penalty,home,300061503,170232,Richard Kingson,GK,away,300061503
+208353,Asamoah Gyan,FW,starting,goal,away,300061503,178420,Tim Howard,GK,home,300061503
+182373,Carlos Tevez,FW,starting,goal,home,300061502,170808,Oscar Perez,GK,away,300061502
+228599,Javier Hernandez,FW,starting,goal,away,300061502,266783,Sergio Romero,GK,home,300061502
+271550,Gonzalo Higuain,FW,starting,goal,home,300061502,170808,Oscar Perez,GK,away,300061502
+321722,Thomas Mueller,MF,starting,goal,home,300061501,62210,David James,GK,away,300061501
+196789,Lukas Podolski,FW,starting,goal,home,300061501,62210,David James,GK,away,300061501
+195763,Matt Upson,DF,starting,goal,away,300061501,228912,Manuel Neuer,GK,home,300061501
+182206,Miroslav Klose,FW,starting,goal,home,300061501,62210,David James,GK,away,300061501
+185324,Juan,DF,starting,goal,home,300061500,202650,Claudio Bravo,GK,away,300061500
+200158,Luis Fabiano,FW,starting,goal,home,300061500,202650,Claudio Bravo,GK,away,300061500
+194815,Robinho,FW,starting,goal,home,300061500,202650,Claudio Bravo,GK,away,300061500
+229884,David Villa,FW,starting,goal,home,300061498,299066,Eduardo,GK,away,300061498
+209502,Jean Beausejour,FW,starting,goal,away,300061495,178185,Noel Valladares,GK,home,300061495
+229884,David Villa,FW,starting,goal,home,300061494,178185,Noel Valladares,GK,away,300061494
+201785,Mark Gonzalez,FW,sub,goal,home,300061493,196633,Diego Benaglio,GK,away,300061493
+183857,Iniesta,MF,starting,goal,away,300061491,202650,Claudio Bravo,GK,home,300061491
+229884,David Villa,FW,starting,goal,away,300061491,202650,Claudio Bravo,GK,home,300061491
+181603,Rodrigo Millar,MF,sub,goal,home,300061491,176644,Iker Casillas,GK,away,300061491
+210106,Ji Yun Nam,DF,starting,goal,away,300061490,179038,Julio Cesar,GK,home,300061490
+202076,Elano,MF,starting,goal,home,300061490,279084,Ri Myong Guk,GK,away,300061490
+181406,Maicon,DF,starting,goal,home,300061490,279084,Ri Myong Guk,GK,away,300061490
+202076,Elano,MF,starting,goal,home,300061488,178958,Boubacar Barry,GK,away,300061488
+200158,Luis Fabiano,FW,starting,goal,home,300061488,178958,Boubacar Barry,GK,away,300061488
+313541,Liedson,FW,sub,goal,home,300061487,279084,Ri Myong Guk,GK,away,300061487
+210214,Raul Meireles,MF,starting,goal,home,300061487,279084,Ri Myong Guk,GK,away,300061487
+179159,Simao,FW,starting,goal,home,300061487,279084,Ri Myong Guk,GK,away,300061487
+214410,Hugo Almeida,FW,starting,goal,home,300061487,279084,Ri Myong Guk,GK,away,300061487
+201200,Cristiano Ronaldo,FW,starting,goal,home,300061487,279084,Ri Myong Guk,GK,away,300061487
+187199,Tiago,MF,starting,goal,home,300061487,279084,Ri Myong Guk,GK,away,300061487
+198111,Romaric,MF,starting,goal,away,300061486,279084,Ri Myong Guk,GK,home,300061486
+198106,Yaya Toure,MF,starting,goal,away,300061486,279084,Ri Myong Guk,GK,home,300061486
+216970,Salomon Kalou,FW,sub,goal,away,300061486,279084,Ri Myong Guk,GK,home,300061486
+209119,Daniele De Rossi,MF,starting,goal,home,300061484,185338,Justo Villar,GK,away,300061484
+313535,Antolin Alcaraz,DF,starting,goal,away,300061484,159304,Gianluigi Buffon,GK,home,300061484
+184410,Robert Vittek,FW,starting,goal,away,300061483,157045,Mark Paston,GK,home,300061483
+318470,Winston Reid,DF,starting,goal,home,300061483,299802,Jan Mucha,GK,away,300061483
+198161,Shane Smeltz,FW,starting,goal,away,300061482,313831,Federico Marchetti,GK,home,300061482
+234927,Vincenzo Iaquinta,FW,starting,penalty,home,300061482,157045,Mark Paston,GK,away,300061482
+276117,Enrique Vera,MF,starting,goal,away,300061481,299802,Jan Mucha,GK,home,300061481
+253460,Cristian Riveros,MF,starting,goal,away,300061481,299802,Jan Mucha,GK,home,300061481
+207956,Kamil Kopunek,MF,sub,goal,home,300061480,313831,Federico Marchetti,GK,away,300061480
+184410,Robert Vittek,FW,starting,goal,home,300061480,313831,Federico Marchetti,GK,away,300061480
+297409,Fabio Quagliarella,FW,sub,goal,away,300061480,299802,Jan Mucha,GK,home,300061480
+196699,Antonio Di Natale,FW,starting,goal,away,300061480,299802,Jan Mucha,GK,home,300061480
+217313,Dirk Kuyt,FW,starting,goal,home,300061478,177825,Thomas Sorensen,GK,away,300061478
+233500,Keisuke Honda,MF,starting,goal,home,300061477,3369,Hamidou Souleymanou,GK,away,300061477
+170667,Samuel Etoo,FW,starting,goal,home,300061475,177825,Thomas Sorensen,GK,away,300061475
+254120,Nicklas Bendtner,FW,starting,goal,away,300061475,3369,Hamidou Souleymanou,GK,home,300061475
+179027,Dennis Rommedahl,FW,starting,goal,away,300061475,3369,Hamidou Souleymanou,GK,home,300061475
+233500,Keisuke Honda,MF,starting,goal,away,300061474,177825,Thomas Sorensen,GK,home,300061474
+177768,Yasuhito Endo,MF,starting,goal,away,300061474,177825,Thomas Sorensen,GK,home,300061474
+154949,Jon Dahl Tomasson,FW,starting,goal,home,300061474,198117,Eiji Kawashima,GK,away,300061474
+286278,Shinji Okazaki,FW,sub,goal,away,300061474,177825,Thomas Sorensen,GK,home,300061474
+184615,Klaas Jan Huntelaar,FW,sub,goal,away,300061473,3369,Hamidou Souleymanou,GK,home,300061473
+170667,Samuel Etoo,FW,starting,penalty,home,300061473,184599,Maarten Stekelenburg,GK,away,300061473
+217315,Robin Van Persie,FW,starting,goal,away,300061473,3369,Hamidou Souleymanou,GK,home,300061473
+208353,Asamoah Gyan,FW,starting,penalty,away,300061471,214386,Vladimir Stojkovic,GK,home,300061471
+298885,Milan Jovanovic,MF,starting,goal,away,300061470,228912,Manuel Neuer,GK,home,300061470
+208353,Asamoah Gyan,FW,starting,penalty,home,300061469,94497,Mark Schwarzer,GK,away,300061469
+182606,Brett Holman,FW,starting,goal,away,300061469,170232,Richard Kingson,GK,home,300061469
+305036,Mesut Oezil,MF,starting,goal,away,300061468,170232,Richard Kingson,GK,home,300061468
+217019,Marko Pantelic,FW,sub,goal,away,300061467,94497,Mark Schwarzer,GK,home,300061467
+182606,Brett Holman,FW,sub,goal,home,300061467,214386,Vladimir Stojkovic,GK,away,300061467
+213001,Tim Cahill,FW,starting,goal,home,300061467,214386,Vladimir Stojkovic,GK,away,300061467
+213001,Tim Cahill,MF,starting,goal,home,300061467,214386,Vladimir Stojkovic,GK,away,300061467
+214961,Steven Gerrard,MF,starting,goal,home,300061466,178420,Tim Howard,GK,away,300061466
+207851,Clint Dempsey,MF,starting,goal,away,300061466,217336,Robert Green,GK,home,300061466
+187539,Robert Koren,MF,starting,goal,away,300061465,296819,Faouzi Chaouchi,GK,home,300061465
+175507,Landon Donovan,MF,starting,goal,away,300061463,217488,Samir Handanovic,GK,home,300061463
+299703,Valter Birsa,MF,starting,goal,home,300061463,178420,Tim Howard,GK,away,300061463
+299706,Zlatan Ljubijankic,FW,starting,goal,home,300061463,178420,Tim Howard,GK,away,300061463
+233531,Michael Bradley,MF,starting,goal,away,300061463,217488,Samir Handanovic,GK,home,300061463
+186453,Jermain Defoe,FW,starting,goal,away,300061462,217488,Samir Handanovic,GK,home,300061462
+175507,Landon Donovan,MF,starting,goal,home,300061461,323326,Adi Mbolhi,GK,away,300061461
+201964,Gabriel Heinze,DF,starting,goal,home,300061460,189300,Vincent Enyeama,GK,away,300061460
+296013,Lee Jung Soo,DF,starting,goal,home,300061459,209121,Alexandros Tzorvas,GK,away,300061459
+177788,Park Ji Sung,MF,starting,goal,home,300061459,209121,Alexandros Tzorvas,GK,away,300061459
+271550,Gonzalo Higuain,FW,starting,goal,home,300061458,198546,Jung Sungryong,GK,away,300061458
+268414,Lee Chung Yong,MF,starting,goal,away,300061458,266783,Sergio Romero,GK,home,300061458
+178738,Kalu Uche,MF,starting,goal,away,300061457,209121,Alexandros Tzorvas,GK,home,300061457
+215513,Dimitrios Salpingidis,FW,starting,goal,home,300061457,189300,Vincent Enyeama,GK,away,300061457
+228336,Vasileios Torosidis,DF,starting,goal,home,300061457,189300,Vincent Enyeama,GK,away,300061457
+233703,Martin Demichelis,DF,starting,goal,away,300061455,209121,Alexandros Tzorvas,GK,home,300061455
+180583,Martin Palermo,FW,sub,goal,away,300061455,209121,Alexandros Tzorvas,GK,home,300061455
+178119,Rafael Marquez,MF,starting,goal,away,300061454,294665,Itumeleng Khune,GK,home,300061454
+178119,Rafael Marquez,DF,starting,goal,away,300061454,294665,Itumeleng Khune,GK,home,300061454
+249477,Siphiwe Tshabalala,MF,starting,goal,home,300061454,170808,Oscar Perez,GK,away,300061454
+229502,Alvaro Pereira,MF,starting,goal,away,300061452,294665,Itumeleng Khune,GK,home,300061452
+189259,Diego Forlan,FW,starting,goal,away,300061452,294665,Itumeleng Khune,GK,home,300061452
+162580,Cuauhtemoc Blanco,FW,sub,penalty,away,300061451,297105,Hugo Lloris,GK,home,300061451
+228599,Javier Hernandez,FW,sub,goal,away,300061451,297105,Hugo Lloris,GK,home,300061451
+270775,Luis Suarez,FW,starting,goal,away,300061450,170808,Oscar Perez,GK,home,300061450
+225204,Florent Malouda,MF,sub,goal,home,300061449,214464,Moneeb Josephs,GK,away,300061449
+297811,Bongani Khumalo,DF,starting,goal,away,300061449,297105,Hugo Lloris,GK,home,300061449
+230776,Katlego Mphela,FW,starting,goal,away,300061449,297105,Hugo Lloris,GK,home,300061449
+163331,Zinedine Zidane,MF,starting,penalty,away,97410064,159304,Gianluigi Buffon,GK,home,97410064
+184451,Marco Materazzi,DF,starting,goal,home,97410064,96075,Fabien Barthez,GK,away,97410064
+196752,Bastian Schweinsteiger,MF,starting,goal,home,97410063,182194,Ricardo,GK,away,97410063
+165260,Nuno Gomes,FW,sub,goal,away,97410063,78091,Oliver Kahn,GK,home,97410063
+163331,Zinedine Zidane,MF,starting,penalty,away,97410062,182194,Ricardo,GK,home,97410062
+155963,Alessandro Del Piero,FW,sub,goal,away,97410061,166921,Jens Lehmann,GK,home,97410061
+230756,Fabio Grosso,DF,starting,goal,away,97410061,166921,Jens Lehmann,GK,home,97410061
+170711,Thierry Henry,FW,starting,goal,away,97410060,48549,Dida,GK,home,97410060
+217882,Luca Toni,FW,starting,goal,home,97410058,158389,Oleksandr Shovkovskyi,GK,away,97410058
+177655,Gianluca Zambrotta,MF,starting,goal,home,97410058,158389,Oleksandr Shovkovskyi,GK,away,97410058
+177655,Gianluca Zambrotta,DF,starting,goal,home,97410058,158389,Oleksandr Shovkovskyi,GK,away,97410058
+153933,Roberto Ayala,DF,starting,goal,away,97410057,166921,Jens Lehmann,GK,home,97410057
+182206,Miroslav Klose,FW,starting,goal,home,97410057,153929,Roberto Abbondanzieri,GK,away,97410057
+248373,Franck Ribery,MF,starting,goal,away,97410056,176644,Iker Casillas,GK,home,97410056
+229884,David Villa,FW,starting,penalty,home,97410056,96075,Fabien Barthez,GK,away,97410056
+163331,Zinedine Zidane,MF,starting,goal,away,97410056,176644,Iker Casillas,GK,home,97410056
+170707,Patrick Vieira,MF,starting,goal,away,97410056,176644,Iker Casillas,GK,home,97410056
+248373,Franck Ribery,FW,starting,goal,away,97410056,176644,Iker Casillas,GK,home,97410056
+92699,Ronaldo,FW,starting,goal,home,97410055,170232,Richard Kingson,GK,away,97410055
+170687,Ze Roberto,MF,starting,goal,home,97410055,170232,Richard Kingson,GK,away,97410055
+175683,Adriano,FW,starting,goal,home,97410055,170232,Richard Kingson,GK,away,97410055
+165247,Francesco Totti,MF,sub,penalty,home,97410053,94497,Mark Schwarzer,GK,away,97410053
+165247,Francesco Totti,FW,sub,penalty,home,97410053,94497,Mark Schwarzer,GK,away,97410053
+214964,Maniche,MF,starting,goal,home,97410052,113570,Edwin Van Der Sar,GK,away,97410052
+161454,David Beckham,MF,starting,goal,home,97410051,235273,Cristian Mora,GK,away,97410051
+162680,Hernan Crespo,FW,starting,goal,home,97410050,156624,Oswaldo Sanchez,GK,away,97410050
+178119,Rafael Marquez,DF,starting,goal,away,97410050,153929,Roberto Abbondanzieri,GK,home,97410050
+184291,Maxi Rodriguez,MF,starting,goal,home,97410050,156624,Oswaldo Sanchez,GK,away,97410050
+178119,Rafael Marquez,MF,starting,goal,away,97410050,153929,Roberto Abbondanzieri,GK,home,97410050
+196789,Lukas Podolski,FW,starting,goal,home,97410049,186287,Andreas Isaksson,GK,away,97410049
+158386,Andriy Shevchenko,FW,starting,penalty,home,97410048,93581,Ali Boumnijel,GK,away,97410048
+198446,Juanito,DF,starting,goal,away,97410047,190000,Mabrouk Zaid,GK,home,97410047
+209989,Philippe Senderos,DF,starting,goal,home,97410046,77937,Lee Woon Jae,GK,away,97410046
+182647,Alexander Frei,FW,starting,goal,home,97410046,77937,Lee Woon Jae,GK,away,97410046
+170711,Thierry Henry,FW,starting,goal,away,97410045,4299,Kossi Agassa,GK,home,97410045
+170707,Patrick Vieira,MF,starting,goal,away,97410045,4299,Kossi Agassa,GK,home,97410045
+154061,Craig Moore,DF,starting,penalty,away,97410044,179048,Stipe Pletikosa,GK,home,97410044
+159069,Harry Kewell,FW,starting,goal,away,97410044,179048,Stipe Pletikosa,GK,home,97410044
+210704,Darijo Srna,MF,starting,goal,home,97410044,154059,Zeljko Kalac,GK,away,97410044
+155696,Niko Kovac,MF,starting,goal,home,97410044,154059,Zeljko Kalac,GK,away,97410044
+176534,Gilberto Melo,DF,starting,goal,away,97410043,156047,Yoshikatsu Kawaguchi,GK,home,97410043
+92699,Ronaldo,FW,starting,goal,away,97410043,156047,Yoshikatsu Kawaguchi,GK,home,97410043
+176530,Juninho Pernambucano,MF,starting,goal,away,97410043,156047,Yoshikatsu Kawaguchi,GK,home,97410043
+211976,Keiji Tamada,FW,starting,goal,home,97410043,48549,Dida,GK,away,97410043
+155382,Stephen Appiah,MF,starting,penalty,home,97410042,174656,Kasey Keller,GK,away,97410042
+235367,Haminu Draman,MF,starting,goal,home,97410042,174656,Kasey Keller,GK,away,97410042
+207851,Clint Dempsey,MF,starting,goal,away,97410042,170232,Richard Kingson,GK,home,97410042
+155969,Filippo Inzaghi,FW,sub,goal,away,97410041,178406,Petr Cech,GK,home,97410041
+184451,Marco Materazzi,DF,sub,goal,away,97410041,178406,Petr Cech,GK,home,97410041
+159284,Sohrab Bakhtiarizadeh,DF,starting,goal,home,97410040,162685,Joao Ricardo,GK,away,97410040
+176991,Abou Tarika,FW,sub,goal,away,97410040,185639,Ebrahim Mirzapour,GK,home,97410040
+214964,Maniche,MF,starting,goal,home,97410039,156624,Oswaldo Sanchez,GK,away,97410039
+214012,Jose Fonseca,FW,starting,goal,away,97410039,182194,Ricardo,GK,home,97410039
+179159,Simao,FW,starting,penalty,home,97410039,156624,Oswaldo Sanchez,GK,away,97410039
+216929,Nikola Zigic,FW,starting,goal,away,97410038,178958,Boubacar Barry,GK,home,97410038
+176984,Aruna Dindane,FW,starting,goal,home,97410038,170748,Dragoslav Jevric,GK,away,97410038
+176984,Aruna Dindane,FW,starting,penalty,home,97410038,170748,Dragoslav Jevric,GK,away,97410038
+177615,Bonaventure Kalou,FW,sub,penalty,home,97410038,170748,Dragoslav Jevric,GK,away,97410038
+182783,Nelson Cuevas,FW,sub,goal,home,97410036,186591,Kelvin Jack,GK,away,97410036
+177703,Marcus Allback,FW,starting,goal,home,97410035,214963,Paul Robinson,GK,away,97410035
+214961,Steven Gerrard,MF,sub,goal,away,97410035,186287,Andreas Isaksson,GK,home,97410035
+77995,Henrik Larsson,FW,starting,goal,home,97410035,214963,Paul Robinson,GK,away,97410035
+179662,Joe Cole,MF,starting,goal,away,97410035,186287,Andreas Isaksson,GK,home,97410035
+216135,Bartosz Bosacki,DF,starting,goal,away,97410034,195809,Jose Porras,GK,home,97410034
+170167,Ronald Gomez,FW,starting,goal,home,97410034,216129,Artur Boruc,GK,away,97410034
+182206,Miroslav Klose,FW,starting,goal,away,97410033,235273,Cristian Mora,GK,home,97410033
+196789,Lukas Podolski,FW,starting,goal,away,97410033,235273,Cristian Mora,GK,home,97410033
+216226,Maksym Kalinichenko,MF,starting,goal,away,97410032,190000,Mabrouk Zaid,GK,home,97410032
+216223,Andriy Rusol,DF,starting,goal,away,97410032,190000,Mabrouk Zaid,GK,home,97410032
+158385,Serhiy Rebrov,MF,starting,goal,away,97410032,190000,Mabrouk Zaid,GK,home,97410032
+158386,Andriy Shevchenko,FW,starting,goal,away,97410032,190000,Mabrouk Zaid,GK,home,97410032
+183864,Fernando Torres,FW,starting,penalty,home,97410031,93581,Ali Boumnijel,GK,away,97410031
+213369,Jaouhar Mnari,MF,starting,goal,away,97410031,176644,Iker Casillas,GK,home,97410031
+155148,Raul,FW,sub,goal,home,97410031,93581,Ali Boumnijel,GK,away,97410031
+183864,Fernando Torres,FW,starting,goal,home,97410031,93581,Ali Boumnijel,GK,away,97410031
+182647,Alexander Frei,FW,starting,goal,away,97410030,4299,Kossi Agassa,GK,home,97410030
+209979,Tranquillo Barnetta,MF,starting,goal,away,97410030,4299,Kossi Agassa,GK,home,97410030
+177788,Park Ji Sung,MF,starting,goal,away,97410029,96075,Fabien Barthez,GK,home,97410029
+170711,Thierry Henry,FW,starting,goal,home,97410029,77937,Lee Woon Jae,GK,away,97410029
+233952,Fred,FW,sub,goal,home,97410027,94497,Mark Schwarzer,GK,away,97410027
+175683,Adriano,FW,starting,goal,home,97410027,94497,Mark Schwarzer,GK,away,97410027
+183000,Sulley Muntari,MF,starting,goal,away,97410026,178406,Petr Cech,GK,home,97410026
+208353,Asamoah Gyan,FW,starting,goal,away,97410026,178406,Petr Cech,GK,home,97410026
+210205,Alberto Gilardino,FW,starting,goal,home,97410025,174656,Kasey Keller,GK,away,97410025
+199026,Deco,MF,starting,goal,home,97410024,185639,Ebrahim Mirzapour,GK,away,97410024
+201200,Cristiano Ronaldo,FW,starting,penalty,home,97410024,185639,Ebrahim Mirzapour,GK,away,97410024
+217315,Robin Van Persie,FW,starting,goal,home,97410022,3356,Jean-jacques Tizie,GK,away,97410022
+183576,Ruud Van Nistelrooij,FW,starting,goal,home,97410022,3356,Jean-jacques Tizie,GK,away,97410022
+211352,Bakary Kone,FW,starting,goal,away,97410022,113570,Edwin Van Der Sar,GK,home,97410022
+183574,Esteban Cambiasso,MF,sub,goal,home,97410021,170748,Dragoslav Jevric,GK,away,97410021
+182373,Carlos Tevez,FW,sub,goal,home,97410021,170748,Dragoslav Jevric,GK,away,97410021
+184291,Maxi Rodriguez,MF,starting,goal,home,97410021,170748,Dragoslav Jevric,GK,away,97410021
+229397,Lionel Messi,FW,sub,goal,home,97410021,170748,Dragoslav Jevric,GK,away,97410021
+162680,Hernan Crespo,FW,starting,goal,home,97410021,170748,Dragoslav Jevric,GK,away,97410021
+169551,Fredrik Ljungberg,MF,starting,goal,home,97410020,178051,Aldo Bobadilla,GK,away,97410020
+214961,Steven Gerrard,MF,starting,goal,home,97410019,180648,Shaka Hislop,GK,away,97410019
+194176,Peter Crouch,FW,starting,goal,home,97410019,180648,Shaka Hislop,GK,away,97410019
+3508,Ivan Kaviedes,FW,sub,goal,home,97410018,195809,Jose Porras,GK,away,97410018
+155011,Agustin Delgado,FW,starting,goal,home,97410018,195809,Jose Porras,GK,away,97410018
+187434,Carlos Tenorio,FW,starting,goal,home,97410018,195809,Jose Porras,GK,away,97410018
+179558,Oliver Neuville,FW,sub,goal,home,97410017,216129,Artur Boruc,GK,away,97410017
+176953,Zied Jaziri,FW,starting,goal,home,97410016,190000,Mabrouk Zaid,GK,away,97410016
+77503,Sami Al Jaber,FW,sub,goal,away,97410016,93581,Ali Boumnijel,GK,home,97410016
+210439,Yasser Al Kahtani,FW,starting,goal,away,97410016,93581,Ali Boumnijel,GK,home,97410016
+158268,Radhi Jaidi,DF,starting,goal,home,97410016,190000,Mabrouk Zaid,GK,away,97410016
+183864,Fernando Torres,FW,starting,goal,home,97410015,158389,Oleksandr Shovkovskyi,GK,away,97410015
+229884,David Villa,FW,starting,goal,home,97410015,158389,Oleksandr Shovkovskyi,GK,away,97410015
+229884,David Villa,FW,starting,penalty,home,97410015,158389,Oleksandr Shovkovskyi,GK,away,97410015
+207528,Xabi Alonso,MF,starting,goal,home,97410015,158389,Oleksandr Shovkovskyi,GK,away,97410015
+178469,Lee Chun Soo,FW,starting,goal,home,97410014,4299,Kossi Agassa,GK,away,97410014
+156216,Ahn Jung Hwan,FW,sub,goal,home,97410014,4299,Kossi Agassa,GK,away,97410014
+156216,Ahn Jung Hwan,MF,sub,goal,home,97410014,4299,Kossi Agassa,GK,away,97410014
+154050,John Aloisi,FW,sub,goal,home,97410012,156047,Yoshikatsu Kawaguchi,GK,away,97410012
+213001,Tim Cahill,FW,sub,goal,home,97410012,156047,Yoshikatsu Kawaguchi,GK,away,97410012
+177773,Shunsuke Nakamura,MF,starting,goal,away,97410012,94497,Mark Schwarzer,GK,home,97410012
+213001,Tim Cahill,MF,sub,goal,home,97410012,156047,Yoshikatsu Kawaguchi,GK,away,97410012
+184312,Kaka,FW,starting,goal,home,97410011,179048,Stipe Pletikosa,GK,away,97410011
+184312,Kaka,MF,starting,goal,home,97410011,179048,Stipe Pletikosa,GK,away,97410011
+177823,Tomas Rosicky,MF,starting,goal,away,97410010,174656,Kasey Keller,GK,home,97410010
+177712,Jan Koller,FW,starting,goal,away,97410010,174656,Kasey Keller,GK,home,97410010
+234927,Vincenzo Iaquinta,FW,sub,goal,home,97410009,170232,Richard Kingson,GK,away,97410009
+177876,Andrea Pirlo,MF,starting,goal,home,97410009,170232,Richard Kingson,GK,away,97410009
+166375,Pauleta,FW,starting,goal,away,97410008,162685,Joao Ricardo,GK,home,97410008
+155851,Yahya Golmohammadi,DF,starting,goal,away,97410007,156624,Oswaldo Sanchez,GK,home,97410007
+214007,Omar Bravo,FW,starting,goal,home,97410007,185639,Ebrahim Mirzapour,GK,away,97410007
+218252,Zinha,MF,sub,goal,home,97410007,185639,Ebrahim Mirzapour,GK,away,97410007
+184616,Arjen Robben,FW,starting,goal,away,97410006,170748,Dragoslav Jevric,GK,home,97410006
+178837,Javier Saviola,FW,starting,goal,home,97410005,3356,Jean-jacques Tizie,GK,away,97410005
+162680,Hernan Crespo,FW,starting,goal,home,97410005,3356,Jean-jacques Tizie,GK,away,97410005
+155011,Agustin Delgado,FW,starting,goal,away,97410002,216129,Artur Boruc,GK,home,97410002
+187434,Carlos Tenorio,FW,starting,goal,away,97410002,216129,Artur Boruc,GK,home,97410002
+182206,Miroslav Klose,FW,starting,goal,home,97410001,195809,Jose Porras,GK,away,97410001
+182207,Torsten Frings,MF,starting,goal,home,97410001,195809,Jose Porras,GK,away,97410001
+154799,Paulo Wanchope,FW,starting,goal,away,97410001,166921,Jens Lehmann,GK,home,97410001
+196748,Philipp Lahm,DF,starting,goal,home,97410001,195809,Jose Porras,GK,away,97410001
+92699,Ronaldo,FW,starting,goal,away,43950064,78091,Oliver Kahn,GK,home,43950064
+163107,Hakan Sukur,FW,starting,goal,away,43950063,77937,Lee Woon Jae,GK,home,43950063
+179025,Song Chong Gug,MF,starting,goal,home,43950063,95586,Rustu Recber,GK,away,43950063
+189571,Lee Eul Yong,MF,starting,goal,home,43950063,95586,Rustu Recber,GK,away,43950063
+186677,Ilhan Mansiz,FW,starting,goal,away,43950063,77937,Lee Woon Jae,GK,home,43950063
+179025,Song Chong Gug,DF,starting,goal,home,43950063,95586,Rustu Recber,GK,away,43950063
+92699,Ronaldo,FW,starting,goal,home,43950062,95586,Rustu Recber,GK,away,43950062
+177667,Michael Ballack,MF,starting,goal,home,43950061,77937,Lee Woon Jae,GK,away,43950061
+186677,Ilhan Mansiz,FW,sub,goal,away,43950060,182142,Tony Sylva,GK,home,43950060
+177667,Michael Ballack,MF,starting,goal,home,43950058,77525,Brad Friedel,GK,away,43950058
+170722,Michael Owen,FW,starting,goal,home,43950057,183588,Marcos,GK,away,43950057
+3243,Ronaldinho,MF,starting,goal,away,43950057,44621,David Seaman,GK,home,43950057
+170691,Rivaldo,MF,starting,goal,away,43950057,44621,David Seaman,GK,home,43950057
+155979,Christian Vieri,FW,starting,goal,away,43950056,77937,Lee Woon Jae,GK,home,43950056
+156216,Ahn Jung Hwan,MF,starting,goal,home,43950056,159304,Gianluigi Buffon,GK,away,43950056
+177806,Seol Ki Hyeon,FW,starting,goal,home,43950056,159304,Gianluigi Buffon,GK,away,43950056
+156216,Ahn Jung Hwan,FW,starting,goal,home,43950056,159304,Gianluigi Buffon,GK,away,43950056
+177734,Umit Davala,MF,starting,goal,away,43950055,159481,Seigo Narazaki,GK,home,43950055
+92699,Ronaldo,FW,starting,goal,home,43950054,177687,Geert De Vlieger,GK,away,43950054
+170691,Rivaldo,MF,starting,goal,home,43950054,177687,Geert De Vlieger,GK,away,43950054
+158471,Brian Mcbride,FW,starting,goal,away,43950053,170808,Oscar Perez,GK,home,43950053
+175507,Landon Donovan,MF,starting,goal,away,43950053,170808,Oscar Perez,GK,home,43950053
+170678,Fernando Morientes,FW,starting,goal,home,43950052,155823,Shay Given,GK,away,43950052
+179102,Robbie Keane,FW,starting,penalty,away,43950052,176644,Iker Casillas,GK,home,43950052
+4102,Henri Camara,FW,starting,goal,away,43950051,118288,Magnus Hedman,GK,home,43950051
+77995,Henrik Larsson,FW,starting,goal,home,43950051,182142,Tony Sylva,GK,away,43950051
+170721,Rio Ferdinand,DF,starting,goal,away,43950050,177825,Thomas Sorensen,GK,home,43950050
+177656,Emile Heskey,FW,starting,goal,away,43950050,177825,Thomas Sorensen,GK,home,43950050
+170722,Michael Owen,FW,starting,goal,away,43950050,177825,Thomas Sorensen,GK,home,43950050
+179558,Oliver Neuville,FW,starting,goal,home,43950049,160374,Jose Luis Chilavert,GK,away,43950049
+178975,Emmanuel Olisadebe,FW,starting,goal,home,43950048,77525,Brad Friedel,GK,away,43950048
+178968,Marcin Zewlakow,FW,sub,goal,home,43950048,77525,Brad Friedel,GK,away,43950048
+178976,Pawel Kryszalowicz,FW,starting,goal,home,43950048,77525,Brad Friedel,GK,away,43950048
+175507,Landon Donovan,MF,starting,goal,away,43950048,166751,Radoslaw Majdan,GK,home,43950048
+177788,Park Ji Sung,MF,starting,goal,away,43950047,160197,Vitor Baia,GK,home,43950047
+76144,Johan Walem,MF,starting,goal,home,43950046,178830,Ruslan Nigmatullin,GK,away,43950046
+189214,Dmitri Sychev,FW,sub,goal,away,43950046,177687,Geert De Vlieger,GK,home,43950046
+184587,Wesley Sonck,FW,sub,goal,home,43950046,178830,Ruslan Nigmatullin,GK,away,43950046
+44755,Marc Wilmots,MF,starting,goal,home,43950046,178830,Ruslan Nigmatullin,GK,away,43950046
+77512,Vladimir Beschastnykh,FW,starting,goal,away,43950046,177687,Geert De Vlieger,GK,home,43950046
+44755,Marc Wilmots,FW,starting,goal,home,43950046,178830,Ruslan Nigmatullin,GK,away,43950046
+156053,Hiroaki Morishima,MF,sub,goal,away,43950045,93581,Ali Boumnijel,GK,home,43950045
+156055,Hidetoshi Nakata,MF,starting,goal,away,43950045,93581,Ali Boumnijel,GK,home,43950045
+178842,Edison Mendez,MF,starting,goal,home,43950044,179048,Stipe Pletikosa,GK,away,43950044
+155963,Alessandro Del Piero,FW,sub,goal,away,43950043,170808,Oscar Perez,GK,home,43950043
+185038,Jared Borgetti,FW,starting,goal,home,43950043,159304,Gianluigi Buffon,GK,away,43950043
+166347,Hasan Sas,FW,starting,goal,home,43950042,154574,Jiang Jin,GK,away,43950042
+167060,Bulent Korkmaz,DF,starting,goal,home,43950042,154574,Jiang Jin,GK,away,43950042
+177734,Umit Davala,MF,starting,goal,home,43950042,154574,Jiang Jin,GK,away,43950042
+178116,Edmilson,DF,starting,goal,away,43950041,169703,Erick Lonnis,GK,home,43950041
+178112,Junior,DF,starting,goal,away,43950041,169703,Erick Lonnis,GK,home,43950041
+170167,Ronald Gomez,FW,starting,goal,home,43950041,183588,Marcos,GK,away,43950041
+154799,Paulo Wanchope,FW,starting,goal,home,43950041,183588,Marcos,GK,away,43950041
+92699,Ronaldo,FW,starting,goal,away,43950041,169703,Erick Lonnis,GK,home,43950041
+170691,Rivaldo,MF,starting,goal,away,43950041,169703,Erick Lonnis,GK,home,43950041
+182783,Nelson Cuevas,FW,sub,goal,away,43950040,157898,Mladen Dabanovic,GK,home,43950040
+177700,Milenko Acimovic,MF,starting,goal,home,43950040,160374,Jose Luis Chilavert,GK,away,43950040
+162013,Jorge Campos,FW,sub,goal,away,43950040,157898,Mladen Dabanovic,GK,home,43950040
+168776,Gaizka Mendieta,MF,starting,goal,away,43950039,162188,Andre Arendse,GK,home,43950039
+170650,Benni Mccarthy,FW,starting,goal,home,43950039,176644,Iker Casillas,GK,away,43950039
+155148,Raul,FW,starting,goal,away,43950039,162188,Andre Arendse,GK,home,43950039
+93410,Lucas Radebe,DF,starting,goal,home,43950039,176644,Iker Casillas,GK,away,43950039
+162680,Hernan Crespo,FW,sub,goal,away,43950037,118288,Magnus Hedman,GK,home,43950037
+179023,Anders Svensson,MF,starting,goal,home,43950037,153951,Pablo Cavallero,GK,away,43950037
+179102,Robbie Keane,FW,starting,goal,away,43950036,92722,Mohammed Al Deayea,GK,home,43950036
+179104,Damien Duff,FW,starting,goal,away,43950036,92722,Mohammed Al Deayea,GK,home,43950036
+155818,Gary Breen,DF,starting,goal,away,43950036,92722,Mohammed Al Deayea,GK,home,43950036
+155336,Marco Bode,FW,sub,goal,away,43950035,93224,Alioum Boukar,GK,home,43950035
+182206,Miroslav Klose,FW,starting,goal,away,43950035,93224,Alioum Boukar,GK,home,43950035
+185142,Bouba Diop,MF,starting,goal,home,43950034,4373,Fabian Carini,GK,away,43950034
+158435,Alvaro Recoba,FW,starting,penalty,away,43950034,182142,Tony Sylva,GK,home,43950034
+185368,Richard Morales,FW,sub,goal,away,43950034,182142,Tony Sylva,GK,home,43950034
+4108,Khalilou Fadiga,MF,starting,penalty,home,43950034,4373,Fabian Carini,GK,away,43950034
+189259,Diego Forlan,FW,sub,goal,away,43950034,182142,Tony Sylva,GK,home,43950034
+154949,Jon Dahl Tomasson,FW,starting,goal,home,43950033,96075,Fabien Barthez,GK,away,43950033
+179027,Dennis Rommedahl,FW,starting,goal,home,43950033,96075,Fabien Barthez,GK,away,43950033
+166375,Pauleta,FW,starting,goal,home,43950032,178965,Jerzy Dudek,GK,away,43950032
+161070,Rui Costa,MF,sub,goal,home,43950032,178965,Jerzy Dudek,GK,away,43950032
+44755,Marc Wilmots,MF,starting,goal,away,43950031,93581,Ali Boumnijel,GK,home,43950031
+44755,Marc Wilmots,FW,starting,goal,away,43950031,93581,Ali Boumnijel,GK,home,43950031
+4339,Raouf Bouzaiene,DF,starting,goal,home,43950031,177687,Geert De Vlieger,GK,away,43950031
+178091,Clint Mathis,FW,starting,goal,away,43950030,77937,Lee Woon Jae,GK,home,43950030
+156216,Ahn Jung Hwan,MF,sub,goal,home,43950030,77525,Brad Friedel,GK,away,43950030
+156216,Ahn Jung Hwan,FW,sub,goal,home,43950030,77525,Brad Friedel,GK,away,43950030
+177771,Junichi Inamoto,MF,starting,goal,home,43950029,178830,Ruslan Nigmatullin,GK,away,43950029
+182590,Winston Parks,FW,sub,goal,home,43950028,95586,Rustu Recber,GK,away,43950028
+70097,Gerardo Torrado,MF,starting,goal,home,43950027,155002,Jose Cevallos,GK,away,43950027
+185038,Jared Borgetti,FW,starting,goal,home,43950027,155002,Jose Cevallos,GK,away,43950027
+155011,Agustin Delgado,FW,starting,goal,away,43950027,170808,Oscar Perez,GK,home,43950027
+170688,Roberto Carlos,DF,starting,goal,home,43950026,154574,Jiang Jin,GK,away,43950026
+3243,Ronaldinho,MF,starting,penalty,home,43950026,154574,Jiang Jin,GK,away,43950026
+92699,Ronaldo,FW,starting,goal,home,43950026,154574,Jiang Jin,GK,away,43950026
+170691,Rivaldo,MF,starting,goal,home,43950026,154574,Jiang Jin,GK,away,43950026
+164496,Milan Rapaic,MF,starting,goal,away,43950025,159304,Gianluigi Buffon,GK,home,43950025
+155979,Christian Vieri,FW,starting,goal,home,43950025,179048,Stipe Pletikosa,GK,away,43950025
+187258,Ivica Olic,FW,sub,goal,away,43950025,159304,Gianluigi Buffon,GK,home,43950025
+4078,Siyabonga Nomvethe,FW,starting,goal,home,43950024,159552,Marko Simeunovic,GK,away,43950024
+161454,David Beckham,MF,starting,penalty,away,43950023,153951,Pablo Cavallero,GK,home,43950023
+174605,Fernando Hierro,DF,starting,penalty,home,43950022,160374,Jose Luis Chilavert,GK,away,43950022
+170678,Fernando Morientes,FW,sub,goal,home,43950022,160374,Jose Luis Chilavert,GK,away,43950022
+77995,Henrik Larsson,FW,starting,penalty,home,43950021,93398,Ibrahim Shorunmu,GK,away,43950021
+77995,Henrik Larsson,FW,starting,goal,home,43950021,93398,Ibrahim Shorunmu,GK,away,43950021
+178390,Julius Aghahowa,FW,starting,goal,away,43950021,118288,Magnus Hedman,GK,home,43950021
+182157,Salif Diao,MF,starting,goal,away,43950020,177825,Thomas Sorensen,GK,home,43950020
+154949,Jon Dahl Tomasson,FW,starting,penalty,home,43950020,182142,Tony Sylva,GK,away,43950020
+170667,Samuel Etoo,FW,starting,goal,home,43950019,92722,Mohammed Al Deayea,GK,away,43950019
+179102,Robbie Keane,FW,starting,goal,away,43950017,78091,Oliver Kahn,GK,home,43950017
+182206,Miroslav Klose,FW,starting,goal,home,43950017,155823,Shay Given,GK,away,43950017
+178412,John O Brien,MF,starting,goal,home,43950016,160197,Vitor Baia,GK,away,43950016
+158471,Brian Mcbride,FW,starting,goal,home,43950016,160197,Vitor Baia,GK,away,43950016
+159294,Beto,DF,starting,goal,away,43950016,77525,Brad Friedel,GK,home,43950016
+178833,Egor Titov,MF,starting,goal,home,43950015,93581,Ali Boumnijel,GK,away,43950015
+77516,Valeri Karpin,MF,starting,penalty,home,43950015,93581,Ali Boumnijel,GK,away,43950015
+156242,Yoo Sang Chul,DF,starting,goal,home,43950014,178965,Jerzy Dudek,GK,away,43950014
+174626,Hwang Sun Hong,FW,starting,goal,home,43950014,178965,Jerzy Dudek,GK,away,43950014
+156242,Yoo Sang Chul,MF,starting,goal,home,43950014,178965,Jerzy Dudek,GK,away,43950014
+184585,Peter Van Der Heyden,DF,starting,goal,away,43950013,159481,Seigo Narazaki,GK,home,43950013
+182445,Takayuki Suzuki,FW,starting,goal,home,43950013,177687,Geert De Vlieger,GK,away,43950013
+44755,Marc Wilmots,FW,starting,goal,away,43950013,159481,Seigo Narazaki,GK,home,43950013
+177771,Junichi Inamoto,MF,starting,goal,home,43950013,177687,Geert De Vlieger,GK,away,43950013
+44755,Marc Wilmots,MF,starting,goal,away,43950013,159481,Seigo Narazaki,GK,home,43950013
+170167,Ronald Gomez,FW,starting,goal,away,43950012,154574,Jiang Jin,GK,home,43950012
+154801,Mauricio Wright,DF,starting,goal,away,43950012,154574,Jiang Jin,GK,home,43950012
+155979,Christian Vieri,FW,starting,goal,home,43950011,155002,Jose Cevallos,GK,away,43950011
+170691,Rivaldo,MF,starting,penalty,home,43950010,95586,Rustu Recber,GK,away,43950010
+166347,Hasan Sas,FW,starting,goal,away,43950010,183588,Marcos,GK,home,43950010
+92699,Ronaldo,FW,starting,goal,home,43950010,95586,Rustu Recber,GK,away,43950010
+162580,Cuauhtemoc Blanco,FW,starting,penalty,away,43950009,179048,Stipe Pletikosa,GK,home,43950009
+174605,Fernando Hierro,DF,starting,penalty,home,43950008,159552,Marko Simeunovic,GK,away,43950008
+183383,Juan Carlos Valeron,MF,starting,goal,home,43950008,159552,Marko Simeunovic,GK,away,43950008
+157897,Sebastijan Cimirotic,FW,sub,goal,away,43950008,176644,Iker Casillas,GK,home,43950008
+155148,Raul,FW,starting,goal,home,43950008,159552,Marko Simeunovic,GK,away,43950008
+75952,Gabriel Batistuta,FW,starting,goal,home,43950007,93398,Ibrahim Shorunmu,GK,away,43950007
+181632,Teboho Mokoena,MF,starting,goal,away,43950006,178244,Ricardo Tavarelli,GK,home,43950006
+170647,Quinton Fortune,MF,starting,penalty,away,43950006,178244,Ricardo Tavarelli,GK,home,43950006
+162012,Francisco Arce,DF,starting,goal,home,43950006,162188,Andre Arendse,GK,away,43950006
+4039,Roque Santa Cruz,FW,starting,goal,home,43950006,162188,Andre Arendse,GK,away,43950006
+95673,Niclas Alexandersson,MF,starting,goal,away,43950005,44621,David Seaman,GK,home,43950005
+161455,Sol Campbell,DF,starting,goal,home,43950005,118288,Magnus Hedman,GK,away,43950005
+155334,Oliver Bierhoff,FW,sub,goal,home,43950004,92722,Mohammed Al Deayea,GK,away,43950004
+164548,Bernd Schneider,MF,starting,goal,home,43950004,92722,Mohammed Al Deayea,GK,away,43950004
+155354,Thomas Linke,DF,starting,goal,home,43950004,92722,Mohammed Al Deayea,GK,away,43950004
+177667,Michael Ballack,MF,starting,goal,home,43950004,92722,Mohammed Al Deayea,GK,away,43950004
+168509,Carsten Jancker,FW,starting,goal,home,43950004,92722,Mohammed Al Deayea,GK,away,43950004
+182206,Miroslav Klose,FW,starting,goal,home,43950004,92722,Mohammed Al Deayea,GK,away,43950004
+154949,Jon Dahl Tomasson,FW,starting,goal,away,43950003,4373,Fabian Carini,GK,home,43950003
+4388,Dario Rodriguez,DF,starting,goal,home,43950003,177825,Thomas Sorensen,GK,away,43950003
+154626,Patrick Mboma,FW,starting,goal,away,43950002,155823,Shay Given,GK,home,43950002
+179619,Matt Holland,MF,starting,goal,home,43950002,93224,Alioum Boukar,GK,away,43950002
+185142,Bouba Diop,MF,starting,goal,away,43950001,96075,Fabien Barthez,GK,home,43950001
+163331,Zinedine Zidane,MF,starting,goal,away,8788,63514,Taffarel,GK,home,8788
+95448,Emmanuel Petit,MF,starting,goal,away,8788,63514,Taffarel,GK,home,8788
+155685,Boudewijn Zenden,MF,starting,goal,home,8787,155697,Drazen Ladic,GK,away,8787
+174882,Robert Prosinecki,MF,starting,goal,away,8787,113570,Edwin Van Der Sar,GK,home,8787
+155711,Davor Suker,FW,starting,goal,away,8787,113570,Edwin Van Der Sar,GK,home,8787
+163666,Lilian Thuram,DF,starting,goal,home,8786,155697,Drazen Ladic,GK,away,8786
+155711,Davor Suker,FW,starting,goal,away,8786,96075,Fabien Barthez,GK,home,8786
+155670,Patrick Kluivert,FW,starting,goal,away,8785,63514,Taffarel,GK,home,8785
+92699,Ronaldo,FW,starting,goal,home,8785,113570,Edwin Van Der Sar,GK,away,8785
+77376,Dennis Bergkamp,FW,starting,goal,home,8784,153972,Carlos Roa,GK,away,8784
+170102,Claudio Lopez,FW,starting,goal,away,8784,113570,Edwin Van Der Sar,GK,home,8784
+155670,Patrick Kluivert,FW,starting,goal,home,8784,153972,Carlos Roa,GK,away,8784
+155713,Goran Vlaovic,FW,starting,goal,away,8783,174672,Andreas Koepke,GK,home,8783
+174637,Robert Jarni,DF,starting,goal,away,8783,174672,Andreas Koepke,GK,home,8783
+174637,Robert Jarni,MF,starting,goal,away,8783,174672,Andreas Koepke,GK,home,8783
+155711,Davor Suker,FW,starting,goal,away,8783,174672,Andreas Koepke,GK,home,8783
+96461,Bebeto,FW,starting,goal,home,8782,57693,Peter Schmeichel,GK,away,8782
+168837,Martin Jorgensen,MF,starting,goal,away,8782,63514,Taffarel,GK,home,8782
+52802,Brian Laudrup,FW,starting,goal,away,8782,63514,Taffarel,GK,home,8782
+168837,Martin Jorgensen,FW,starting,goal,away,8782,63514,Taffarel,GK,home,8782
+170691,Rivaldo,MF,starting,goal,home,8782,57693,Peter Schmeichel,GK,away,8782
+155711,Davor Suker,FW,starting,penalty,away,8780,44661,Bogdan Stelea,GK,home,8780
+95571,Alan Shearer,FW,starting,penalty,away,8779,153972,Carlos Roa,GK,home,8779
+170722,Michael Owen,FW,starting,goal,away,8779,153972,Carlos Roa,GK,home,8779
+153980,Javier Zanetti,DF,starting,goal,home,8779,44621,David Seaman,GK,away,8779
+153980,Javier Zanetti,MF,starting,goal,home,8779,44621,David Seaman,GK,away,8779
+75952,Gabriel Batistuta,FW,starting,penalty,home,8779,44621,David Seaman,GK,away,8779
+160385,Edgar Davids,MF,starting,goal,home,8778,158768,Ivica Kralj,GK,away,8778
+77376,Dennis Bergkamp,FW,starting,goal,home,8778,158768,Ivica Kralj,GK,away,8778
+170749,Slobodan Komljenovic,DF,starting,goal,away,8778,113570,Edwin Van Der Sar,GK,home,8778
+155334,Oliver Bierhoff,FW,starting,goal,home,8777,47245,Jorge Campos,GK,away,8777
+174666,Juergen Klinsmann,FW,starting,goal,home,8777,47245,Jorge Campos,GK,away,8777
+170333,Luis Hernandez,FW,starting,goal,away,8777,174672,Andreas Koepke,GK,home,8777
+46662,Laurent Blanc,DF,starting,goal,home,8776,160374,Jose Luis Chilavert,GK,away,8776
+95261,Peter Moller,FW,starting,goal,away,8775,57197,Peter Rufai,GK,home,8775
+154928,Thomas Helveg,DF,starting,goal,away,8775,57197,Peter Rufai,GK,home,8775
+171139,Ebbe Sand,FW,sub,goal,away,8775,57197,Peter Rufai,GK,home,8775
+156902,Tijani Babangida,FW,sub,goal,home,8775,57693,Peter Schmeichel,GK,away,8775
+52802,Brian Laudrup,FW,starting,goal,away,8775,57197,Peter Rufai,GK,home,8775
+155979,Christian Vieri,FW,starting,goal,home,8774,77411,Frode Grodas,GK,away,8774
+92699,Ronaldo,FW,starting,goal,home,8773,154560,Nelson Tapia,GK,away,8773
+154557,Marcelo Salas,FW,starting,goal,away,8773,63514,Taffarel,GK,home,8773
+92699,Ronaldo,FW,starting,penalty,home,8773,154560,Nelson Tapia,GK,away,8773
+3242,Cesar Sampaio,MF,starting,goal,home,8773,154560,Nelson Tapia,GK,away,8773
+153970,Mauricio Pineda,DF,starting,goal,home,8772,155697,Drazen Ladic,GK,away,8772
+156015,Theodore Whitmore,MF,starting,goal,away,8771,156047,Yoshikatsu Kawaguchi,GK,home,8771
+94407,Masashi Nakayama,FW,starting,goal,home,8771,156002,Aaron Lawrence,GK,away,8771
+161454,David Beckham,MF,starting,goal,away,8770,94918,Faryd Mondragon,GK,home,8770
+161516,Darren Anderton,MF,starting,goal,away,8770,94918,Faryd Mondragon,GK,home,8770
+158279,Skander Souayeh,MF,starting,penalty,away,8769,44661,Bogdan Stelea,GK,home,8769
+123663,Viorel Moldovan,FW,sub,goal,home,8769,93554,Choukri El Ouaer,GK,away,8769
+170749,Slobodan Komljenovic,DF,starting,goal,away,8768,77525,Brad Friedel,GK,home,8768
+174666,Juergen Klinsmann,FW,starting,goal,home,8767,97252,Ahmed Abedzadeh,GK,away,8767
+155334,Oliver Bierhoff,FW,starting,goal,home,8767,97252,Ahmed Abedzadeh,GK,away,8767
+161077,Phillip Cocu,MF,starting,goal,home,8766,47245,Jorge Campos,GK,away,8766
+95564,Ronald De Boer,MF,starting,goal,home,8766,47245,Jorge Campos,GK,away,8766
+77290,Ricardo Pelaez Linares,FW,sub,goal,away,8766,113570,Edwin Van Der Sar,GK,home,8766
+170333,Luis Hernandez,FW,starting,goal,away,8766,113570,Edwin Van Der Sar,GK,home,8766
+156242,Yoo Sang Chul,MF,starting,goal,away,8765,154198,Philippe Vande Walle,GK,home,8765
+55176,Luc Nilis,FW,starting,goal,home,8765,170329,Kim Byung Ji,GK,away,8765
+156242,Yoo Sang Chul,DF,starting,goal,away,8765,154198,Philippe Vande Walle,GK,home,8765
+159267,Youssef Al Tunayan,FW,starting,penalty,away,8764,163966,Hans Vonk,GK,home,8764
+157429,Shaun Bartlett,FW,starting,goal,home,8764,92722,Mohammed Al Deayea,GK,away,8764
+157429,Shaun Bartlett,FW,starting,penalty,home,8764,92722,Mohammed Al Deayea,GK,away,8764
+77503,Sami Al Jaber,FW,starting,penalty,away,8764,163966,Hans Vonk,GK,home,8764
+162752,Miguel Benitez,FW,starting,goal,away,8763,57197,Peter Rufai,GK,home,8763
+156922,Wilson Oruma,MF,starting,goal,home,8763,160374,Jose Luis Chilavert,GK,away,8763
+162010,Jose Cardozo,FW,starting,goal,away,8763,57197,Peter Rufai,GK,home,8763
+162008,Celso Ayala,DF,starting,goal,away,8763,57197,Peter Rufai,GK,home,8763
+44298,Michael Laudrup,MF,starting,penalty,away,8762,96075,Fabien Barthez,GK,home,8762
+95448,Emmanuel Petit,MF,starting,goal,home,8762,57693,Peter Schmeichel,GK,away,8762
+95664,Youri Djorkaeff,MF,starting,penalty,home,8762,57693,Peter Schmeichel,GK,away,8762
+174605,Fernando Hierro,DF,starting,penalty,home,8761,154303,Zdravko Zdravkov,GK,away,8761
+77892,Luis Enrique,MF,starting,goal,home,8761,154303,Zdravko Zdravkov,GK,away,8761
+155142,Kiko,FW,sub,goal,home,8761,154303,Zdravko Zdravkov,GK,away,8761
+52406,Emil Kostadinov,FW,starting,goal,away,8761,44789,Andoni Zubizarreta,GK,home,8761
+170678,Fernando Morientes,FW,starting,goal,home,8761,154303,Zdravko Zdravkov,GK,away,8761
+154559,Jose Sierra,MF,starting,goal,home,8760,154644,Jacques Songoo,GK,away,8760
+154626,Patrick Mboma,FW,starting,goal,away,8760,154560,Nelson Tapia,GK,home,8760
+96461,Bebeto,FW,starting,goal,home,8759,77411,Frode Grodas,GK,away,8759
+156982,Tore Andre Flo,FW,starting,goal,away,8759,63514,Taffarel,GK,home,8759
+56798,Kjetil Rekdal,MF,starting,penalty,away,8759,63514,Taffarel,GK,home,8759
+156732,Salaheddine Bassir,FW,starting,goal,away,8758,174701,Jim Leighton,GK,home,8758
+156741,Abdeljalil Hadda,FW,starting,goal,away,8758,174701,Jim Leighton,GK,home,8758
+155979,Christian Vieri,FW,starting,goal,home,8757,174676,Michael Konsel,GK,away,8757
+174602,Andreas Herzog,MF,sub,penalty,away,8757,77257,Gianluca Pagliuca,GK,home,8757
+174363,Roberto Baggio,FW,sub,goal,home,8757,174676,Michael Konsel,GK,away,8757
+170722,Michael Owen,FW,sub,goal,away,8756,44661,Bogdan Stelea,GK,home,8756
+123663,Viorel Moldovan,FW,starting,goal,home,8756,44621,David Seaman,GK,away,8756
+56197,Dan Petrescu,DF,starting,goal,home,8756,44621,David Seaman,GK,away,8756
+170713,Leider Preciado,FW,sub,goal,home,8755,93554,Choukri El Ouaer,GK,away,8755
+155853,Mehdi Mahdavikia,MF,starting,goal,away,8754,174656,Kasey Keller,GK,home,8754
+94088,Hamid Estili,MF,starting,goal,away,8754,174656,Kasey Keller,GK,home,8754
+158471,Brian Mcbride,FW,starting,goal,home,8754,97252,Ahmed Abedzadeh,GK,away,8754
+54219,Predrag Mijatovic,FW,starting,goal,away,8753,174672,Andreas Koepke,GK,home,8753
+44667,Dragan Stojkovic,MF,starting,goal,away,8753,174672,Andreas Koepke,GK,home,8753
+155334,Oliver Bierhoff,FW,starting,goal,home,8753,158768,Ivica Kralj,GK,away,8753
+75952,Gabriel Batistuta,FW,starting,penalty,home,8752,94638,Warren Barrett,GK,away,8752
+75952,Gabriel Batistuta,FW,starting,goal,home,8752,94638,Warren Barrett,GK,away,8752
+78384,Ariel Ortega,MF,starting,goal,home,8752,94638,Warren Barrett,GK,away,8752
+78384,Ariel Ortega,FW,starting,goal,home,8752,94638,Warren Barrett,GK,away,8752
+155711,Davor Suker,FW,starting,goal,away,8751,156047,Yoshikatsu Kawaguchi,GK,home,8751
+44755,Marc Wilmots,FW,starting,goal,home,8750,47245,Jorge Campos,GK,away,8750
+162580,Cuauhtemoc Blanco,FW,starting,goal,away,8750,174495,Filip De Wilde,GK,home,8750
+44755,Marc Wilmots,MF,starting,goal,home,8750,47245,Jorge Campos,GK,away,8750
+77275,Alberto Garcia Aspe,MF,starting,penalty,away,8750,174495,Filip De Wilde,GK,home,8750
+77376,Dennis Bergkamp,FW,starting,goal,home,8749,170329,Kim Byung Ji,GK,away,8749
+91967,Marc Overmars,FW,starting,goal,home,8749,170329,Kim Byung Ji,GK,away,8749
+95564,Ronald De Boer,MF,starting,goal,home,8749,170329,Kim Byung Ji,GK,away,8749
+155681,Pierre Van Hooijdonk,FW,sub,goal,home,8749,170329,Kim Byung Ji,GK,away,8749
+161077,Phillip Cocu,MF,starting,goal,home,8749,170329,Kim Byung Ji,GK,away,8749
+77325,Victor Ikpeba,FW,starting,goal,home,8747,154303,Zdravko Zdravkov,GK,away,8747
+170650,Benni Mccarthy,FW,starting,goal,home,8746,57693,Peter Schmeichel,GK,away,8746
+24456,Allan Nielsen,MF,starting,goal,away,8746,163966,Hans Vonk,GK,home,8746
+166722,Bixente Lizarazu,DF,starting,goal,home,8745,92722,Mohammed Al Deayea,GK,away,8745
+170709,David Trezeguet,FW,sub,goal,home,8745,92722,Mohammed Al Deayea,GK,away,8745
+170711,Thierry Henry,FW,starting,goal,home,8745,92722,Mohammed Al Deayea,GK,away,8745
+155979,Christian Vieri,FW,starting,goal,home,8744,154644,Jacques Songoo,GK,away,8744
+170774,Luigi Di Biagio,MF,starting,goal,home,8744,154644,Jacques Songoo,GK,away,8744
+154102,Ivica Vastic,FW,sub,goal,away,8743,154560,Nelson Tapia,GK,home,8743
+154557,Marcelo Salas,FW,starting,goal,home,8743,174676,Michael Konsel,GK,away,8743
+92699,Ronaldo,FW,starting,goal,home,8742,159293,Driss Ben Zekri,GK,away,8742
+96461,Bebeto,FW,starting,goal,home,8742,159293,Driss Ben Zekri,GK,away,8742
+170691,Rivaldo,MF,starting,goal,home,8742,159293,Driss Ben Zekri,GK,away,8742
+157525,Craig Burley,MF,starting,goal,home,8741,77411,Frode Grodas,GK,away,8741
+156980,Havard Flo,FW,starting,goal,away,8741,174701,Jim Leighton,GK,home,8741
+95571,Alan Shearer,FW,starting,goal,home,8740,93554,Choukri El Ouaer,GK,away,8740
+155117,Paul Scholes,MF,starting,goal,home,8740,93554,Choukri El Ouaer,GK,away,8740
+157403,Adrian Ilie,FW,starting,goal,home,8739,94918,Faryd Mondragon,GK,away,8739
+155355,Andreas Moeller,MF,starting,goal,home,8738,174656,Kasey Keller,GK,away,8738
+174666,Juergen Klinsmann,FW,starting,goal,home,8738,174656,Kasey Keller,GK,away,8738
+155711,Davor Suker,FW,starting,goal,away,8736,94638,Warren Barrett,GK,home,8736
+174882,Robert Prosinecki,MF,starting,goal,away,8736,94638,Warren Barrett,GK,home,8736
+159172,Mario Stanic,MF,starting,goal,away,8736,94638,Warren Barrett,GK,home,8736
+159346,Robert Earle,MF,starting,goal,home,8736,155697,Drazen Ladic,GK,away,8736
+158770,Sinisa Mihajlovic,DF,starting,goal,home,8735,159480,Nima Nakisa,GK,away,8735
+75952,Gabriel Batistuta,FW,starting,goal,home,8734,156047,Yoshikatsu Kawaguchi,GK,away,8734
+77290,Ricardo Pelaez Linares,FW,sub,goal,away,8732,170329,Kim Byung Ji,GK,home,8732
+77929,Ha Seok Ju,MF,starting,goal,home,8732,47245,Jorge Campos,GK,away,8732
+170333,Luis Hernandez,FW,starting,goal,away,8732,170329,Kim Byung Ji,GK,home,8732
+174605,Fernando Hierro,DF,starting,goal,home,8731,57197,Peter Rufai,GK,away,8731
+106557,Sunday Oliseh,MF,starting,goal,away,8731,44789,Andoni Zubizarreta,GK,home,8731
+155148,Raul,FW,starting,goal,home,8731,57197,Peter Rufai,GK,away,8731
+93446,Mutiu Adepoju,MF,starting,goal,away,8731,44789,Andoni Zubizarreta,GK,home,8731
+170711,Thierry Henry,FW,starting,goal,home,8730,163966,Hans Vonk,GK,away,8730
+160559,Christophe Dugarry,FW,sub,goal,home,8730,163966,Hans Vonk,GK,away,8730
+95166,Marc Rieper,DF,starting,goal,away,8729,92722,Mohammed Al Deayea,GK,home,8729
+171398,Pierre Njanka,DF,starting,goal,home,8727,174676,Michael Konsel,GK,away,8727
+174872,Toni Polster,FW,starting,goal,away,8727,154644,Jacques Songoo,GK,home,8727
+155979,Christian Vieri,FW,starting,goal,home,8726,154560,Nelson Tapia,GK,away,8726
+174363,Roberto Baggio,FW,starting,penalty,home,8726,154560,Nelson Tapia,GK,away,8726
+154557,Marcelo Salas,FW,starting,goal,away,8726,77257,Gianluca Pagliuca,GK,home,8726
+76948,Mustafa El Hadji,MF,starting,goal,home,8725,77411,Frode Grodas,GK,away,8725
+156741,Abdeljalil Hadda,FW,starting,goal,home,8725,77411,Frode Grodas,GK,away,8725
+129893,Dan Eggen,DF,starting,goal,away,8725,159293,Driss Ben Zekri,GK,home,8725
+95068,John Collins,MF,starting,penalty,away,4000,63514,Taffarel,GK,home,4000
+3242,Cesar Sampaio,MF,starting,goal,home,4000,174701,Jim Leighton,GK,away,4000
+58455,Hristo Stoichkov,FW,starting,penalty,home,3100,77257,Gianluca Pagliuca,GK,away,3100
+63547,Romário,FW,starting,goal,away,3099,44554,Thomas Ravelli,GK,home,3099
+77376,Dennis Bergkamp,FW,starting,goal,home,3098,63514,Taffarel,GK,away,3098
+63517,Branco,DF,starting,goal,away,3098,155667,Ed De Goey,GK,home,3098
+44759,Aron Winter,MF,starting,goal,home,3098,63514,Taffarel,GK,away,3098
+96461,Bebeto,FW,starting,goal,away,3098,155667,Ed De Goey,GK,home,3098
+63547,Romário,FW,starting,goal,away,3098,155667,Ed De Goey,GK,home,3098
+77240,Dino Baggio,MF,starting,goal,home,3097,44789,Andoni Zubizarreta,GK,away,3097
+160368,Jose Luis Caminero,MF,starting,goal,away,3097,77257,Gianluca Pagliuca,GK,home,3097
+174363,Roberto Baggio,FW,starting,goal,home,3097,44789,Andoni Zubizarreta,GK,away,3097
+58455,Hristo Stoichkov,FW,starting,goal,home,3096,174631,Bodo Illgner,GK,away,3096
+52856,Iordan Letchkov,MF,starting,goal,home,3096,174631,Bodo Illgner,GK,away,3096
+157927,Kennet Andersson,FW,starting,goal,away,3095,77472,Florin Prunea,GK,home,3095
+174431,Tomas Brolin,FW,starting,goal,away,3095,77472,Florin Prunea,GK,home,3095
+44543,Florin Raducioiu,FW,starting,goal,home,3095,44554,Thomas Ravelli,GK,away,3095
+58455,Hristo Stoichkov,FW,starting,goal,away,3092,47245,Jorge Campos,GK,home,3092
+174363,Roberto Baggio,FW,starting,penalty,away,3091,57197,Peter Rufai,GK,home,3091
+93859,Emmanuel Amunike,MF,starting,goal,home,3091,77250,Luca Marchegiani,GK,away,3091
+174363,Roberto Baggio,FW,starting,goal,away,3091,57197,Peter Rufai,GK,home,3091
+96461,Bebeto,FW,starting,goal,home,3090,174765,Tony Meola,GK,away,3090
+77409,Wim Jonk,MF,starting,goal,home,3089,174418,Pat Bonner,GK,away,3089
+77376,Dennis Bergkamp,FW,starting,goal,home,3089,174418,Pat Bonner,GK,away,3089
+2354,Gheorghe Hagi,MF,starting,goal,home,3088,51311,Luis Islas,GK,away,3088
+75952,Gabriel Batistuta,FW,starting,penalty,away,3088,77472,Florin Prunea,GK,home,3088
+174512,Ilie Dumitrescu,FW,starting,goal,home,3088,51311,Luis Islas,GK,away,3088
+174364,Abel Balbo,FW,starting,goal,away,3088,77472,Florin Prunea,GK,home,3088
+94332,Fahad Al Ghesheyan,FW,sub,goal,home,3087,44554,Thomas Ravelli,GK,away,3087
+48179,Martin Dahlin,FW,starting,goal,away,3087,92722,Mohammed Al Deayea,GK,home,3087
+157927,Kennet Andersson,FW,starting,goal,away,3087,92722,Mohammed Al Deayea,GK,home,3087
+174605,Fernando Hierro,DF,starting,goal,home,3086,78038,Marco Pascolo,GK,away,3086
+77892,Luis Enrique,MF,starting,goal,home,3086,78038,Marco Pascolo,GK,away,3086
+46358,Txiki Beguiristain,FW,sub,penalty,home,3086,78038,Marco Pascolo,GK,away,3086
+174331,Philippe Albert,DF,starting,goal,away,3085,174631,Bodo Illgner,GK,home,3085
+44739,Rudi Voeller,FW,starting,goal,home,3085,174880,Michel Preudhomme,GK,away,3085
+174666,Juergen Klinsmann,FW,starting,goal,home,3085,174880,Michel Preudhomme,GK,away,3085
+166579,Georges Grun,DF,starting,goal,away,3085,174631,Bodo Illgner,GK,home,3085
+58455,Hristo Stoichkov,FW,starting,goal,away,3084,51311,Luis Islas,GK,home,3084
+58105,Nasko Sirakov,MF,starting,goal,away,3084,51311,Luis Islas,GK,home,3084
+58105,Nasko Sirakov,FW,starting,goal,away,3084,51311,Luis Islas,GK,home,3084
+77322,Finidi George,MF,starting,goal,away,3083,76333,Christos Karkamanis,GK,home,3083
+77322,Finidi George,FW,starting,goal,away,3083,76333,Christos Karkamanis,GK,home,3083
+77319,Daniel Amokachi,FW,starting,goal,away,3083,76333,Christos Karkamanis,GK,home,3083
+77510,Said Al Owairan,FW,starting,goal,away,3082,174880,Michel Preudhomme,GK,home,3082
+44584,Bryan Roy,FW,sub,goal,away,3081,111362,Zakaria El Achraf,GK,home,3081
+77376,Dennis Bergkamp,FW,starting,goal,away,3081,111362,Zakaria El Achraf,GK,home,3081
+54895,Hassan Nader,FW,starting,goal,home,3081,155667,Ed De Goey,GK,away,3081
+63547,Romário,FW,starting,goal,home,3080,44554,Thomas Ravelli,GK,away,3080
+157927,Kennet Andersson,FW,starting,goal,away,3080,63514,Taffarel,GK,home,3080
+95648,Oleg Salenko,FW,starting,penalty,home,3079,154644,Jacques Songoo,GK,away,3079
+79318,Roger Milla,FW,sub,goal,away,3079,77514,Stanislav Cherchesov,GK,home,3079
+81831,Dmitri Radchenko,FW,sub,goal,home,3079,154644,Jacques Songoo,GK,away,3079
+95648,Oleg Salenko,FW,starting,goal,home,3079,154644,Jacques Songoo,GK,away,3079
+106610,Daniele Massaro,FW,sub,goal,home,3078,47245,Jorge Campos,GK,away,3078
+106610,Daniele Massaro,MF,sub,goal,home,3078,47245,Jorge Campos,GK,away,3078
+77263,Marcelino Bernal,MF,starting,goal,away,3078,77250,Luca Marchegiani,GK,home,3078
+174626,Hwang Sun Hong,FW,starting,goal,away,3076,174631,Bodo Illgner,GK,home,3076
+2188,Hong Myung Bo,DF,starting,goal,away,3076,174631,Bodo Illgner,GK,home,3076
+44565,Karlheinz Riedle,FW,starting,goal,home,3076,174468,Choi In Young,GK,away,3076
+174666,Juergen Klinsmann,FW,starting,goal,home,3076,174468,Choi In Young,GK,away,3076
+57487,Erwin Sanchez,MF,starting,goal,home,3075,44789,Andoni Zubizarreta,GK,away,3075
+160368,Jose Luis Caminero,MF,starting,goal,away,3075,154460,Carlos Trucco,GK,home,3075
+77901,Pep Guardiola,MF,starting,penalty,away,3075,154460,Carlos Trucco,GK,home,3075
+76751,Herman Gaviria,MF,starting,goal,away,3074,78038,Marco Pascolo,GK,home,3074
+76756,Harold Lozano,MF,sub,goal,away,3074,78038,Marco Pascolo,GK,home,3074
+56197,Dan Petrescu,DF,starting,goal,away,3073,174765,Tony Meola,GK,home,3073
+52856,Iordan Letchkov,MF,starting,goal,home,3072,122190,Elias Atmatzidis,GK,away,3072
+58455,Hristo Stoichkov,FW,starting,penalty,home,3072,122190,Elias Atmatzidis,GK,away,3072
+81634,Daniel Borimirov,MF,sub,goal,home,3072,122190,Elias Atmatzidis,GK,away,3072
+174454,Claudio Caniggia,FW,starting,goal,home,3071,57197,Peter Rufai,GK,away,3071
+57981,Samson Siasia,FW,starting,goal,away,3071,51311,Luis Islas,GK,home,3071
+47461,Mohammed Chaouch,FW,starting,goal,away,3070,92722,Mohammed Al Deayea,GK,home,3070
+92775,Fuad Amin,MF,starting,goal,home,3070,92720,Khalil Azmi,GK,away,3070
+77503,Sami Al Jaber,FW,starting,penalty,home,3070,92720,Khalil Azmi,GK,away,3070
+174331,Philippe Albert,DF,starting,goal,home,3069,155667,Ed De Goey,GK,away,3069
+174431,Tomas Brolin,FW,starting,penalty,home,3068,52106,Dmitri Kharin,GK,away,3068
+95648,Oleg Salenko,FW,starting,penalty,away,3068,44554,Thomas Ravelli,GK,home,3068
+48179,Martin Dahlin,FW,starting,goal,home,3068,52106,Dmitri Kharin,GK,away,3068
+92624,Marcio Santos,DF,starting,goal,home,3067,174387,Joseph Antoine Bell,GK,away,3067
+96461,Bebeto,FW,starting,goal,home,3067,174387,Joseph Antoine Bell,GK,away,3067
+63547,Romário,FW,starting,goal,home,3067,174387,Joseph Antoine Bell,GK,away,3067
+174333,John Aldridge,FW,sub,goal,away,3066,47245,Jorge Campos,GK,home,3066
+77278,Luis Garcia,FW,starting,goal,home,3066,174418,Pat Bonner,GK,away,3066
+77240,Dino Baggio,MF,starting,goal,home,3064,58950,Erik Thorstvedt,GK,away,3064
+77535,Earnie Stewart,FW,starting,goal,home,3063,170712,Oscar Cordoba,GK,away,3063
+77535,Earnie Stewart,MF,starting,goal,home,3063,170712,Oscar Cordoba,GK,away,3063
+76774,Adolfo Valencia,FW,sub,goal,away,3063,174765,Tony Meola,GK,home,3063
+58605,Alain Sutter,MF,starting,goal,away,3062,44661,Bogdan Stelea,GK,home,3062
+52293,Adrian Knup,FW,starting,goal,away,3062,44661,Bogdan Stelea,GK,home,3062
+2354,Gheorghe Hagi,MF,starting,goal,home,3062,78038,Marco Pascolo,GK,away,3062
+157814,Stephane Chapuisat,FW,starting,goal,away,3062,44661,Bogdan Stelea,GK,home,3062
+174666,Juergen Klinsmann,FW,starting,goal,home,3060,44789,Andoni Zubizarreta,GK,away,3060
+50025,Goikoetxea,MF,starting,goal,away,3060,174631,Bodo Illgner,GK,home,3060
+174732,Diego Maradona,MF,starting,goal,home,3059,76345,Antonis Minou,GK,away,3059
+75952,Gabriel Batistuta,FW,starting,goal,home,3059,76345,Antonis Minou,GK,away,3059
+75952,Gabriel Batistuta,FW,starting,penalty,home,3059,76345,Antonis Minou,GK,away,3059
+77409,Wim Jonk,MF,starting,goal,home,3058,92722,Mohammed Al Deayea,GK,away,3058
+92775,Fuad Amin,MF,starting,goal,away,3058,155667,Ed De Goey,GK,home,3058
+77435,Gaston Taument,FW,sub,goal,home,3058,92722,Mohammed Al Deayea,GK,away,3058
+76828,Rai,MF,starting,penalty,home,3057,52106,Dmitri Kharin,GK,away,3057
+63547,Romário,FW,starting,goal,home,3057,52106,Dmitri Kharin,GK,away,3057
+44320,Roger Ljung,DF,starting,goal,away,3056,174387,Joseph Antoine Bell,GK,home,3056
+48179,Martin Dahlin,FW,starting,goal,away,3056,174387,Joseph Antoine Bell,GK,home,3056
+174820,Francois Omam-biyik,FW,starting,goal,home,3056,44554,Thomas Ravelli,GK,away,3056
+76750,David Embe,FW,starting,goal,home,3056,44554,Thomas Ravelli,GK,away,3056
+56798,Kjetil Rekdal,MF,sub,goal,home,3055,47245,Jorge Campos,GK,away,3055
+174490,Marc De Grijse,FW,starting,goal,home,3054,92720,Khalil Azmi,GK,away,3054
+76774,Adolfo Valencia,FW,starting,goal,home,3053,44661,Bogdan Stelea,GK,away,3053
+2354,Gheorghe Hagi,MF,starting,goal,away,3053,170712,Oscar Cordoba,GK,home,3053
+44543,Florin Raducioiu,FW,starting,goal,away,3053,170712,Oscar Cordoba,GK,home,3053
+174616,Ray Houghton,MF,starting,goal,away,3052,77257,Gianluca Pagliuca,GK,home,3052
+44766,Eric Wynalda,FW,starting,goal,home,3051,78038,Marco Pascolo,GK,away,3051
+46931,Georges Bregy,MF,starting,goal,away,3051,174765,Tony Meola,GK,home,3051
+50025,Goikoetxea,MF,starting,goal,home,3050,174468,Choi In Young,GK,away,3050
+44594,Julio Salinas,FW,starting,goal,home,3050,174468,Choi In Young,GK,away,3050
+77942,Seo Jung Won,FW,sub,goal,away,3050,83431,Santiago Canizares,GK,home,3050
+2188,Hong Myung Bo,DF,starting,goal,away,3050,83431,Santiago Canizares,GK,home,3050
+174666,Juergen Klinsmann,FW,starting,goal,home,3049,154460,Carlos Trucco,GK,away,3049
+174694,Grzegorz Lato,FW,starting,goal,home,2454,54917,Mokhtar Naili,GK,away,2454
+174483,Teofilo Cubillas,MF,starting,goal,home,2451,57159,Alan Rough,GK,away,2451
+174483,Teofilo Cubillas,FW,starting,goal,home,2451,57159,Alan Rough,GK,away,2451
+174645,Joe Jordan,FW,starting,goal,away,2451,44542,Ramon Quiroga,GK,home,2451
+48106,Cesar Cueto,MF,starting,goal,home,2451,57159,Alan Rough,GK,away,2451
+44679,Andrzej Szarmach,FW,starting,goal,home,2450,44542,Ramon Quiroga,GK,away,2450
+48489,Mokhtar Douieb,DF,starting,goal,home,2433,56841,Jose Reyes,GK,away,2433
+51726,Ali Kaabi,DF,starting,goal,home,2433,56841,Jose Reyes,GK,away,2433
+49925,Nejib Ghommidh,MF,starting,goal,home,2433,56841,Jose Reyes,GK,away,2433
+59492,Arturo Vazquez,DF,starting,penalty,away,2433,54917,Mokhtar Naili,GK,home,2433
+56684,Victor Rangel,FW,starting,goal,away,2431,44695,Jan Tomaszewski,GK,home,2431
+44043,Kazimierz Deyna,MF,starting,goal,home,2431,58293,Pedro Soto,GK,away,2431
+160825,Zbigniew Boniek,FW,starting,goal,home,2431,58293,Pedro Soto,GK,away,2431
+48213,Iraj Danayfar,MF,starting,goal,away,2408,57159,Alan Rough,GK,home,2408
+57171,Hassan Rowshan,FW,starting,goal,away,2405,44542,Ramon Quiroga,GK,home,2405
+174483,Teofilo Cubillas,FW,starting,goal,home,2405,50743,Nasser Hejazi,GK,away,2405
+174483,Teofilo Cubillas,MF,starting,penalty,home,2405,50743,Nasser Hejazi,GK,away,2405
+59530,Jose Velasquez,MF,starting,goal,home,2405,50743,Nasser Hejazi,GK,away,2405
+174483,Teofilo Cubillas,FW,starting,penalty,home,2405,50743,Nasser Hejazi,GK,away,2405
+174483,Teofilo Cubillas,MF,starting,goal,home,2405,50743,Nasser Hejazi,GK,away,2405
+44582,Paolo Rossi,FW,starting,goal,home,2396,54153,Ferenc Meszaros,GK,away,2396
+59086,Andras Toth,FW,sub,penalty,away,2396,44786,Dino Zoff,GK,home,2396
+174398,Roberto Bettega,FW,starting,goal,home,2396,54153,Ferenc Meszaros,GK,away,2396
+174389,Romeo Benetti,MF,starting,goal,home,2396,54153,Ferenc Meszaros,GK,away,2396
+49863,Archie Gemmill,MF,starting,goal,home,2395,174643,Jan Jongbloed,GK,away,2395
+174486,Kenny Dalglish,FW,starting,goal,home,2395,174643,Jan Jongbloed,GK,away,2395
+44560,Johnny Rep,FW,starting,goal,away,2395,57159,Alan Rough,GK,home,2395
+49863,Archie Gemmill,MF,starting,penalty,home,2395,174643,Jan Jongbloed,GK,away,2395
+44559,Rob Rensenbrink,FW,starting,penalty,away,2395,57159,Alan Rough,GK,home,2395
+174426,Ernie Brandts,DF,starting,goal,home,2391,44786,Dino Zoff,GK,away,2391
+174586,Arie Haan,MF,starting,goal,home,2391,44786,Dino Zoff,GK,away,2391
+44559,Rob Rensenbrink,FW,starting,goal,home,2388,50743,Nasser Hejazi,GK,away,2388
+44559,Rob Rensenbrink,FW,starting,penalty,home,2388,50743,Nasser Hejazi,GK,away,2388
+174791,Hansi Mueller,MF,starting,goal,home,2350,56841,Jose Reyes,GK,away,2350
+54656,Dieter Mueller,FW,starting,goal,home,2350,56841,Jose Reyes,GK,away,2350
+44587,Karl-heinz Rummenigge,FW,starting,goal,home,2350,56841,Jose Reyes,GK,away,2350
+49470,Heinz Flohe,MF,starting,goal,home,2350,56841,Jose Reyes,GK,away,2350
+54656,Dieter Mueller,FW,starting,goal,home,2348,44614,Piet Schrijvers,GK,away,2348
+44714,Rene Van De Kerkhof,FW,starting,goal,away,2348,37989,Sepp Maier,GK,home,2348
+44922,Ruediger Abramczik,FW,starting,goal,home,2348,44614,Piet Schrijvers,GK,away,2348
+174586,Arie Haan,MF,starting,goal,away,2348,37989,Sepp Maier,GK,home,2348
+174688,Bernard Lacombe,FW,starting,goal,away,2347,44786,Dino Zoff,GK,home,2347
+44582,Paolo Rossi,FW,starting,goal,home,2347,46537,Jean Paul Bertrand Demanes,GK,away,2347
+44773,Renato Zaccarelli,MF,sub,goal,home,2347,46537,Jean Paul Bertrand Demanes,GK,away,2347
+46475,Marc Berdoll,FW,starting,goal,home,2344,50391,Sandor Gujdar,GK,away,2344
+53164,Christian Lopez,DF,starting,goal,home,2344,50391,Sandor Gujdar,GK,away,2344
+44577,Dominique Rocheteau,FW,starting,goal,home,2344,50391,Sandor Gujdar,GK,away,2344
+60386,Sandor Zombori,MF,starting,goal,away,2344,48737,Dominique Dropsy,GK,home,2344
+45845,Juan Manuel Asensi,MF,starting,goal,home,2337,174597,Ronnie Hellstrom,GK,away,2337
+63748,Reinaldo,FW,starting,goal,away,2253,174597,Ronnie Hellstrom,GK,home,2253
+58120,Thomas Sjoberg,FW,starting,goal,home,2253,63902,Leao,GK,away,2253
+63908,Nelinho,DF,starting,goal,home,2252,52566,Zygmunt Kukla,GK,away,2252
+174694,Grzegorz Lato,FW,starting,goal,away,2252,63902,Leao,GK,home,2252
+63914,Roberto Dinamite,FW,starting,goal,home,2252,52566,Zygmunt Kukla,GK,away,2252
+63751,Dirceu,FW,starting,goal,home,2251,44542,Ramon Quiroga,GK,away,2251
+63751,Dirceu,MF,starting,goal,home,2251,44542,Ramon Quiroga,GK,away,2251
+63650,Zico,MF,sub,penalty,home,2251,44542,Ramon Quiroga,GK,away,2251
+63751,Dirceu,FW,starting,goal,home,2247,44786,Dino Zoff,GK,away,2247
+63751,Dirceu,MF,starting,goal,home,2247,44786,Dino Zoff,GK,away,2247
+174462,Franco Causio,MF,starting,goal,away,2247,63902,Leao,GK,home,2247
+63908,Nelinho,DF,starting,goal,home,2247,44786,Dino Zoff,GK,away,2247
+52483,Hans Krankl,FW,starting,penalty,home,2224,174597,Ronnie Hellstrom,GK,away,2224
+44582,Paolo Rossi,FW,starting,goal,home,2221,174674,Friedl Koncilia,GK,away,2221
+174426,Ernie Brandts,DF,starting,goal,home,2220,174674,Friedl Koncilia,GK,away,2220
+44560,Johnny Rep,FW,starting,goal,home,2220,174674,Friedl Koncilia,GK,away,2220
+55413,Erich Obermayer,DF,starting,goal,away,2220,44614,Piet Schrijvers,GK,home,2220
+59385,Willy Van De Kerkhof,MF,starting,goal,home,2220,174674,Friedl Koncilia,GK,away,2220
+44559,Rob Rensenbrink,FW,starting,penalty,home,2220,174674,Friedl Koncilia,GK,away,2220
+44587,Karl-heinz Rummenigge,FW,starting,goal,away,2217,174674,Friedl Koncilia,GK,home,2217
+52483,Hans Krankl,FW,starting,goal,home,2217,37989,Sepp Maier,GK,away,2217
+174610,Bernd Hoelzenbein,FW,starting,goal,away,2217,174674,Friedl Koncilia,GK,home,2217
+52483,Hans Krankl,FW,starting,goal,home,2216,50096,Miguel Angel,GK,away,2216
+57211,Dani,FW,starting,goal,away,2216,174674,Friedl Koncilia,GK,home,2216
+44607,Walter Schachner,FW,starting,goal,home,2216,50096,Miguel Angel,GK,away,2216
+63914,Roberto Dinamite,FW,starting,goal,home,2215,174674,Friedl Koncilia,GK,away,2215
+174658,Mario Kempes,FW,starting,goal,home,2202,44695,Jan Tomaszewski,GK,away,2202
+44683,Alberto Tarantini,DF,starting,goal,home,2201,44542,Ramon Quiroga,GK,away,2201
+174722,Leopoldo Luque,FW,starting,goal,home,2201,44542,Ramon Quiroga,GK,away,2201
+174658,Mario Kempes,FW,starting,goal,home,2201,44542,Ramon Quiroga,GK,away,2201
+174617,Rene Houseman,FW,sub,goal,home,2201,44542,Ramon Quiroga,GK,away,2201
+174617,Rene Houseman,MF,sub,goal,home,2201,44542,Ramon Quiroga,GK,away,2201
+174398,Roberto Bettega,FW,starting,goal,home,2200,44105,Ubaldo Fillol,GK,away,2200
+174722,Leopoldo Luque,FW,starting,goal,home,2199,50391,Sandor Gujdar,GK,away,2199
+174395,Daniel Bertoni,FW,sub,goal,home,2199,50391,Sandor Gujdar,GK,away,2199
+48090,Karoly Csapo,MF,starting,goal,away,2199,44105,Ubaldo Fillol,GK,home,2199
+174658,Mario Kempes,FW,starting,goal,home,2198,174643,Jan Jongbloed,GK,away,2198
+174395,Daniel Bertoni,FW,starting,goal,home,2198,174643,Jan Jongbloed,GK,away,2198
+54939,Dick Nanninga,MF,sub,goal,away,2198,44105,Ubaldo Fillol,GK,home,2198
+28528,Michel Platini,MF,starting,goal,away,2197,44105,Ubaldo Fillol,GK,home,2197
+174840,Daniel Passarella,DF,starting,penalty,home,2197,46537,Jean Paul Bertrand Demanes,GK,away,2197
+174722,Leopoldo Luque,FW,starting,goal,home,2197,46537,Jean Paul Bertrand Demanes,GK,away,2197
+174514,Dragan Dzajic,FW,starting,goal,home,2186,51986,Kazadi Muamba,GK,away,2186
+55418,Branko Oblak,MF,starting,goal,home,2186,51986,Kazadi Muamba,GK,away,2186
+58597,Ivica Surjak,FW,starting,goal,home,2186,51986,Kazadi Muamba,GK,away,2186
+46091,Dusan Bajevic,FW,starting,goal,home,2186,51986,Kazadi Muamba,GK,away,2186
+51943,Josip Katalinski,DF,starting,goal,home,2186,51986,Kazadi Muamba,GK,away,2186
+56194,Ilija Petkovic,MF,starting,goal,home,2186,51986,Kazadi Muamba,GK,away,2186
+59079,Conny Torstensson,FW,starting,goal,home,2182,53642,Enver Maric,GK,away,2182
+58597,Ivica Surjak,FW,starting,goal,away,2182,174597,Ronnie Hellstrom,GK,home,2182
+174515,Ralf Edstrom,FW,starting,goal,home,2182,53642,Enver Maric,GK,away,2182
+174515,Ralf Edstrom,FW,starting,goal,home,2181,174744,Ladislao Mazurkiewicz,GK,away,2181
+57506,Roland Sandberg,FW,starting,goal,home,2181,174744,Ladislao Mazurkiewicz,GK,away,2181
+53200,Peter Lorimer,FW,starting,goal,away,2176,51986,Kazadi Muamba,GK,home,2176
+174645,Joe Jordan,FW,starting,goal,away,2176,51986,Kazadi Muamba,GK,home,2176
+174645,Joe Jordan,FW,starting,goal,home,2175,53642,Enver Maric,GK,away,2175
+51873,Stanislav Karasi,FW,sub,goal,away,2175,50635,David Harvey,GK,home,2175
+51873,Stanislav Karasi,FW,starting,goal,away,2170,44695,Jan Tomaszewski,GK,home,2170
+44043,Kazimierz Deyna,MF,starting,penalty,home,2170,53642,Enver Maric,GK,away,2170
+174694,Grzegorz Lato,FW,starting,goal,home,2170,53642,Enver Maric,GK,away,2170
+174694,Grzegorz Lato,FW,starting,goal,away,2167,174597,Ronnie Hellstrom,GK,home,2167
+44679,Andrzej Szarmach,FW,starting,goal,home,2129,44786,Dino Zoff,GK,away,2129
+174455,Fabio Capello,MF,starting,goal,away,2129,44695,Jan Tomaszewski,GK,home,2129
+44043,Kazimierz Deyna,MF,starting,goal,home,2129,44786,Dino Zoff,GK,away,2129
+44560,Johnny Rep,FW,starting,goal,away,2098,174744,Ladislao Mazurkiewicz,GK,home,2098
+44043,Kazimierz Deyna,MF,starting,goal,away,2085,49567,Henry Francillon,GK,home,2085
+174694,Grzegorz Lato,FW,starting,goal,away,2085,49567,Henry Francillon,GK,home,2085
+44679,Andrzej Szarmach,FW,starting,goal,away,2085,49567,Henry Francillon,GK,home,2085
+174569,Jerzy Gorgon,DF,starting,goal,away,2085,49567,Henry Francillon,GK,home,2085
+174347,Pietro Anastasi,FW,sub,goal,home,2083,49567,Henry Francillon,GK,away,2083
+57537,Emmanuel Sanon,FW,starting,goal,away,2083,44786,Dino Zoff,GK,home,2083
+44571,Gianni Rivera,FW,starting,goal,home,2083,49567,Henry Francillon,GK,away,2083
+44571,Gianni Rivera,MF,starting,goal,home,2083,49567,Henry Francillon,GK,away,2083
+174389,Romeo Benetti,MF,starting,goal,home,2083,49567,Henry Francillon,GK,away,2083
+174796,Johan Neeskens,MF,starting,goal,away,2067,48073,Juergen Croy,GK,home,2067
+44559,Rob Rensenbrink,FW,starting,goal,away,2067,48073,Juergen Croy,GK,home,2067
+174428,Paul Breitner,MF,starting,goal,away,2066,53642,Enver Maric,GK,home,2066
+174790,Gerd Mueller,FW,starting,goal,away,2066,53642,Enver Maric,GK,home,2066
+174428,Paul Breitner,DF,starting,goal,away,2066,53642,Enver Maric,GK,home,2066
+174612,Uli Hoeness,MF,starting,penalty,home,2065,174597,Ronnie Hellstrom,GK,away,2065
+57506,Roland Sandberg,FW,starting,goal,away,2065,37989,Sepp Maier,GK,home,2065
+174573,Juergen Grabowski,FW,sub,goal,home,2065,174597,Ronnie Hellstrom,GK,away,2065
+174828,Wolfgang Overath,MF,starting,goal,home,2065,174597,Ronnie Hellstrom,GK,away,2065
+174515,Ralf Edstrom,FW,starting,goal,away,2065,37989,Sepp Maier,GK,home,2065
+174415,Rainer Bonhof,MF,starting,goal,home,2065,174597,Ronnie Hellstrom,GK,away,2065
+174790,Gerd Mueller,FW,starting,goal,away,2064,44695,Jan Tomaszewski,GK,home,2064
+174790,Gerd Mueller,FW,starting,goal,away,2063,174643,Jan Jongbloed,GK,home,2063
+174796,Johan Neeskens,MF,starting,penalty,home,2063,37989,Sepp Maier,GK,away,2063
+174428,Paul Breitner,MF,starting,penalty,away,2063,174643,Jan Jongbloed,GK,home,2063
+174428,Paul Breitner,DF,starting,penalty,away,2063,174643,Jan Jongbloed,GK,home,2063
+44652,Juergen Sparwasser,MF,starting,goal,home,2062,37989,Sepp Maier,GK,away,2062
+50945,Martin Hoffmann,FW,starting,goal,away,2004,59370,Leopoldo Vallejos,GK,home,2004
+174914,Sergio Ahumada,FW,starting,goal,home,2004,48073,Juergen Croy,GK,away,2004
+174428,Paul Breitner,DF,starting,goal,home,2003,59370,Leopoldo Vallejos,GK,away,2003
+174428,Paul Breitner,MF,starting,goal,home,2003,59370,Leopoldo Vallejos,GK,away,2003
+174414,Hristo Bonev,MF,starting,goal,home,1996,174744,Ladislao Mazurkiewicz,GK,away,1996
+56020,Ricardo Pavoni,DF,starting,goal,away,1996,50147,Rumen Goranov,GK,home,1996
+44560,Johnny Rep,FW,starting,goal,away,1990,58366,Stefan Staikov,GK,home,1990
+174796,Johan Neeskens,MF,starting,penalty,away,1990,58366,Stefan Staikov,GK,home,1990
+69596,Theo De Jong,DF,sub,goal,away,1990,58366,Stefan Staikov,GK,home,1990
+63879,Jairzinho,FW,starting,goal,away,1987,51986,Kazadi Muamba,GK,home,1987
+63905,Valdomiro,FW,sub,goal,away,1987,51986,Kazadi Muamba,GK,home,1987
+63896,Rivelino,MF,starting,goal,away,1987,51986,Kazadi Muamba,GK,home,1987
+174694,Grzegorz Lato,FW,starting,goal,away,1984,63902,Leao,GK,home,1984
+174796,Johan Neeskens,MF,starting,goal,home,1983,63902,Leao,GK,away,1983
+1043,Johan Cruyff,FW,starting,goal,home,1983,63902,Leao,GK,away,1983
+63896,Rivelino,MF,starting,goal,home,1982,48073,Juergen Croy,GK,away,1982
+44670,Joachim Streich,FW,starting,goal,home,1955,56781,Jack Reilly,GK,away,1955
+48110,Bernd Cullmann,MF,starting,goal,away,1954,56781,Jack Reilly,GK,home,1954
+174828,Wolfgang Overath,MF,starting,goal,away,1954,56781,Jack Reilly,GK,home,1954
+174790,Gerd Mueller,FW,starting,goal,away,1954,56781,Jack Reilly,GK,home,1954
+48110,Bernd Cullmann,DF,starting,goal,away,1954,56781,Jack Reilly,GK,home,1954
+50792,Ramon Heredia,DF,starting,goal,away,1952,44695,Jan Tomaszewski,GK,home,1952
+44679,Andrzej Szarmach,FW,starting,goal,home,1952,47314,Daniel Carnevali,GK,away,1952
+174949,Carlos Babington,FW,starting,goal,away,1952,44695,Jan Tomaszewski,GK,home,1952
+174694,Grzegorz Lato,FW,starting,goal,home,1952,47314,Daniel Carnevali,GK,away,1952
+174617,Rene Houseman,MF,starting,goal,home,1949,44786,Dino Zoff,GK,away,1949
+174617,Rene Houseman,FW,starting,goal,home,1949,44786,Dino Zoff,GK,away,1949
+1043,Johan Cruyff,FW,starting,goal,home,1948,47314,Daniel Carnevali,GK,away,1948
+44560,Johnny Rep,FW,starting,goal,home,1948,47314,Daniel Carnevali,GK,away,1948
+174681,Ruud Krol,DF,starting,goal,home,1948,47314,Daniel Carnevali,GK,away,1948
+60138,Hector Yazalde,FW,starting,goal,home,1947,49567,Henry Francillon,GK,away,1947
+174362,Ruben Ayala,FW,starting,goal,home,1947,49567,Henry Francillon,GK,away,1947
+57537,Emmanuel Sanon,FW,starting,goal,away,1947,47314,Daniel Carnevali,GK,home,1947
+174617,Rene Houseman,FW,starting,goal,home,1947,49567,Henry Francillon,GK,away,1947
+174617,Rene Houseman,MF,starting,goal,home,1947,49567,Henry Francillon,GK,away,1947
+44670,Joachim Streich,FW,starting,goal,away,1946,44105,Ubaldo Fillol,GK,home,1946
+174617,Rene Houseman,MF,starting,goal,home,1946,48073,Juergen Croy,GK,away,1946
+174617,Rene Houseman,FW,starting,goal,home,1946,48073,Juergen Croy,GK,away,1946
+63896,Rivelino,MF,starting,goal,away,1945,47314,Daniel Carnevali,GK,home,1945
+63879,Jairzinho,FW,starting,goal,away,1945,47314,Daniel Carnevali,GK,home,1945
+46956,Miguel Brindisi,MF,starting,goal,home,1945,63902,Leao,GK,away,1945
+174527,Victor Esparrago,MF,sub,goal,home,1925,51974,Anzor Kavazashvili,GK,away,1925
+50192,Ove Grahn,MF,sub,goal,home,1922,174744,Ladislao Mazurkiewicz,GK,away,1922
+50192,Ove Grahn,FW,sub,goal,home,1922,174744,Ladislao Mazurkiewicz,GK,away,1922
+56196,Ladislav Petras,FW,starting,goal,away,1919,44981,Stere Adamache,GK,home,1919
+174511,Florea Dumitrache,FW,starting,penalty,home,1919,59549,Alexander Vencel,GK,away,1919
+55013,Alexandru Neagu,MF,starting,goal,home,1919,59549,Alexander Vencel,GK,away,1919
+174483,Teofilo Cubillas,MF,starting,goal,home,1893,51936,Allal Ben Kassou,GK,away,1893
+174483,Teofilo Cubillas,FW,starting,goal,home,1893,51936,Allal Ben Kassou,GK,away,1893
+47480,Roberto Challe,MF,starting,goal,home,1893,51936,Allal Ben Kassou,GK,away,1893
+174505,Angelo Domenghini,FW,starting,goal,home,1883,174597,Ronnie Hellstrom,GK,away,1883
+50119,Jose Gonzalez,MF,starting,goal,away,1882,174332,Enrico Albertosi,GK,home,1882
+50119,Jose Gonzalez,DF,starting,goal,away,1882,174332,Enrico Albertosi,GK,home,1882
+44571,Gianni Rivera,FW,sub,goal,home,1882,174448,Ignacio Calderon,GK,away,1882
+44571,Gianni Rivera,MF,sub,goal,home,1882,174448,Ignacio Calderon,GK,away,1882
+44569,Gigi Riva,FW,starting,goal,home,1882,174448,Ignacio Calderon,GK,away,1882
+54679,Juan Mujica,DF,starting,goal,home,1881,59673,Itzhak Vissoker,GK,away,1881
+53557,Ildo Maneiro,MF,starting,goal,home,1881,59673,Itzhak Vissoker,GK,away,1881
+59219,Tom Turesson,FW,starting,goal,home,1880,59673,Itzhak Vissoker,GK,away,1880
+58341,Mordechai Spiegler,FW,starting,goal,away,1880,52771,Sven-gunnar Larsson,GK,home,1880
+174828,Wolfgang Overath,MF,starting,goal,home,1843,174744,Ladislao Mazurkiewicz,GK,away,1843
+174483,Teofilo Cubillas,FW,starting,goal,away,1840,37989,Sepp Maier,GK,home,1840
+174483,Teofilo Cubillas,MF,starting,goal,away,1840,37989,Sepp Maier,GK,home,1840
+174790,Gerd Mueller,FW,starting,goal,home,1840,57187,Luis Rubinos,GK,away,1840
+51467,Houmane Jarir,FW,starting,goal,away,1839,37989,Sepp Maier,GK,home,1839
+57776,Uwe Seeler,FW,starting,goal,home,1839,51936,Allal Ben Kassou,GK,away,1839
+174790,Gerd Mueller,FW,starting,goal,home,1839,51936,Allal Ben Kassou,GK,away,1839
+44571,Gianni Rivera,MF,sub,goal,home,1838,37989,Sepp Maier,GK,away,1838
+174438,Tarcisio Burgnich,DF,starting,goal,home,1838,37989,Sepp Maier,GK,away,1838
+174790,Gerd Mueller,FW,starting,goal,away,1838,174332,Enrico Albertosi,GK,home,1838
+44571,Gianni Rivera,FW,sub,goal,home,1838,37989,Sepp Maier,GK,away,1838
+174416,Roberto Boninsegna,FW,starting,goal,home,1838,37989,Sepp Maier,GK,away,1838
+44612,Karl-heinz Schnellinger,DF,starting,goal,away,1838,174332,Enrico Albertosi,GK,home,1838
+44569,Gigi Riva,FW,starting,goal,home,1838,37989,Sepp Maier,GK,away,1838
+47121,Anatoly Bishovets,FW,starting,goal,home,1823,53393,Raul Magana,GK,away,1823
+46274,Juan Ignacio Basaguren,FW,sub,goal,home,1820,53393,Raul Magana,GK,away,1820
+59342,Javier Valdivia,FW,starting,goal,home,1820,53393,Raul Magana,GK,away,1820
+49563,Javier Fragoso,FW,starting,goal,home,1820,53393,Raul Magana,GK,away,1820
+47813,Allan Clarke,FW,starting,penalty,home,1813,59615,Ivo Viktor,GK,away,1813
+174623,Geoff Hurst,FW,starting,goal,home,1812,44981,Stere Adamache,GK,away,1812
+174852,Martin Peters,FW,starting,goal,away,1811,37989,Sepp Maier,GK,home,1811
+57776,Uwe Seeler,FW,starting,goal,home,1811,174413,Peter Bonetti,GK,away,1811
+54712,Alan Mullery,MF,starting,goal,away,1811,37989,Sepp Maier,GK,home,1811
+174790,Gerd Mueller,FW,starting,goal,home,1811,174413,Peter Bonetti,GK,away,1811
+174852,Martin Peters,MF,starting,goal,away,1811,37989,Sepp Maier,GK,home,1811
+25113,Franz Beckenbauer,MF,starting,goal,home,1811,174413,Peter Bonetti,GK,away,1811
+25113,Franz Beckenbauer,DF,starting,goal,home,1811,174413,Peter Bonetti,GK,away,1811
+174414,Hristo Bonev,MF,starting,goal,away,1780,57187,Luis Rubinos,GK,home,1780
+48445,Dinko Dermendzhiev,MF,starting,goal,away,1780,57187,Luis Rubinos,GK,home,1780
+47758,Hector Chumpitaz,DF,starting,goal,home,1780,58050,Simeon Simeonov,GK,away,1780
+174483,Teofilo Cubillas,FW,starting,goal,home,1780,58050,Simeon Simeonov,GK,away,1780
+174483,Teofilo Cubillas,MF,starting,goal,home,1780,58050,Simeon Simeonov,GK,away,1780
+48445,Dinko Dermendzhiev,FW,starting,goal,away,1780,57187,Luis Rubinos,GK,home,1780
+174552,Alberto Gallardo,FW,starting,goal,home,1780,58050,Simeon Simeonov,GK,away,1780
+69831,Mahjoub Ghazouani,FW,starting,goal,away,1779,60181,Stoyan Yordanov,GK,home,1779
+26237,Todor Kolev,MF,starting,goal,away,1774,37989,Sepp Maier,GK,home,1774
+57776,Uwe Seeler,FW,starting,goal,home,1774,58050,Simeon Simeonov,GK,away,1774
+174790,Gerd Mueller,FW,starting,penalty,home,1774,58050,Simeon Simeonov,GK,away,1774
+174790,Gerd Mueller,FW,starting,goal,home,1774,58050,Simeon Simeonov,GK,away,1774
+55162,Asparukh Nikodimov,DF,starting,goal,away,1774,37989,Sepp Maier,GK,home,1774
+55162,Asparukh Nikodimov,MF,starting,goal,away,1774,37989,Sepp Maier,GK,home,1774
+53015,Stan Libuda,FW,starting,goal,home,1774,58050,Simeon Simeonov,GK,away,1774
+63896,Rivelino,MF,starting,goal,home,1771,174744,Ladislao Mazurkiewicz,GK,away,1771
+63879,Jairzinho,FW,starting,goal,home,1771,174744,Ladislao Mazurkiewicz,GK,away,1771
+47842,Clodoaldo,MF,starting,goal,home,1771,174744,Ladislao Mazurkiewicz,GK,away,1771
+48099,Luis Cubilla,FW,starting,goal,away,1771,63890,Felix,GK,home,1771
+48099,Luis Cubilla,MF,starting,goal,away,1771,63890,Felix,GK,home,1771
+63879,Jairzinho,FW,starting,goal,home,1770,59615,Ivo Viktor,GK,away,1770
+63869,Pelé,FW,starting,goal,home,1770,59615,Ivo Viktor,GK,away,1770
+63896,Rivelino,MF,starting,goal,home,1770,59615,Ivo Viktor,GK,away,1770
+56196,Ladislav Petras,FW,starting,goal,away,1770,63890,Felix,GK,home,1770
+63869,Pelé,FW,starting,goal,home,1769,44981,Stere Adamache,GK,away,1769
+63879,Jairzinho,FW,starting,goal,home,1769,44981,Stere Adamache,GK,away,1769
+174511,Florea Dumitrache,FW,starting,goal,away,1769,63890,Felix,GK,home,1769
+48413,Emerich Dembrovschi,MF,starting,goal,away,1769,63890,Felix,GK,home,1769
+63881,Tostao,MF,starting,goal,home,1768,57187,Luis Rubinos,GK,away,1768
+63879,Jairzinho,FW,starting,goal,home,1768,57187,Luis Rubinos,GK,away,1768
+63896,Rivelino,MF,starting,goal,home,1768,57187,Luis Rubinos,GK,away,1768
+174552,Alberto Gallardo,FW,starting,goal,away,1768,63890,Felix,GK,home,1768
+174483,Teofilo Cubillas,MF,starting,goal,away,1768,63890,Felix,GK,home,1768
+174483,Teofilo Cubillas,FW,starting,goal,away,1768,63890,Felix,GK,home,1768
+63891,Carlos Alberto,DF,starting,goal,home,1765,174332,Enrico Albertosi,GK,away,1765
+63880,Gerson,MF,starting,goal,home,1765,174332,Enrico Albertosi,GK,away,1765
+174416,Roberto Boninsegna,FW,starting,goal,away,1765,63890,Felix,GK,home,1765
+63879,Jairzinho,FW,starting,goal,home,1765,174332,Enrico Albertosi,GK,away,1765
+63869,Pelé,FW,starting,goal,home,1765,174332,Enrico Albertosi,GK,away,1765
+63879,Jairzinho,FW,starting,goal,home,1764,174372,Gordon Banks,GK,away,1764
+52706,Raoul Lambert,FW,starting,goal,away,1753,51974,Anzor Kavazashvili,GK,home,1753
+69799,Vitali Khmelnitski,FW,starting,goal,home,1753,174863,Christian Piot,GK,away,1753
+45842,Kakhi Asatiani,MF,starting,goal,home,1753,174863,Christian Piot,GK,away,1753
+47121,Anatoly Bishovets,FW,starting,goal,home,1753,174863,Christian Piot,GK,away,1753
+174845,Gustavo Pena,DF,starting,penalty,home,1752,174863,Christian Piot,GK,away,1752
+52706,Raoul Lambert,FW,starting,penalty,home,1747,53393,Raul Magana,GK,away,1747
+59429,Wilfried Van Moer,MF,starting,goal,home,1747,53393,Raul Magana,GK,away,1747
+61638,Eduard Malofeyev,FW,starting,goal,home,1710,52994,Lee Chang Myung,GK,away,1710
+174371,Anatoli Banishevski,FW,starting,goal,home,1710,52994,Lee Chang Myung,GK,away,1710
+61699,Jose Torres,FW,starting,goal,home,1709,174638,Lev Yashin,GK,away,1709
+61638,Eduard Malofeyev,FW,starting,goal,away,1709,197841,Jose Pereira,GK,home,1709
+39547,Eusebio,FW,starting,penalty,home,1709,174638,Lev Yashin,GK,away,1709
+60119,Yang Seung Kook,FW,starting,goal,away,1702,197841,Jose Pereira,GK,home,1702
+52997,Li Dong Woon,DF,starting,goal,away,1702,197841,Jose Pereira,GK,home,1702
+174360,Jose Augusto,FW,starting,goal,home,1702,52994,Lee Chang Myung,GK,away,1702
+55826,Pak Seung Zin,FW,starting,goal,away,1702,197841,Jose Pereira,GK,home,1702
+39547,Eusebio,FW,starting,penalty,home,1702,52994,Lee Chang Myung,GK,away,1702
+39547,Eusebio,FW,starting,goal,home,1702,52994,Lee Chang Myung,GK,away,1702
+47679,Igor Chislenko,FW,starting,goal,home,1682,174332,Enrico Albertosi,GK,away,1682
+174832,Pak Doo Ik,MF,starting,goal,home,1679,174332,Enrico Albertosi,GK,away,1679
+56397,Valeriy Porkuyan,FW,starting,goal,home,1676,49855,Jozsef Gelei,GK,away,1676
+174388,Ferenc Bene,FW,starting,goal,away,1676,174638,Lev Yashin,GK,home,1676
+47679,Igor Chislenko,FW,starting,goal,home,1676,49855,Jozsef Gelei,GK,away,1676
+174360,Jose Augusto,FW,starting,goal,home,1675,58661,Antal Szentimihalyi,GK,away,1675
+61699,Jose Torres,FW,starting,goal,home,1675,58661,Antal Szentimihalyi,GK,away,1675
+174388,Ferenc Bene,FW,starting,goal,away,1675,47354,Carvalho,GK,home,1675
+25113,Franz Beckenbauer,MF,starting,goal,home,1660,174744,Ladislao Mazurkiewicz,GK,away,1660
+25113,Franz Beckenbauer,DF,starting,goal,home,1660,174744,Ladislao Mazurkiewicz,GK,away,1660
+57776,Uwe Seeler,FW,starting,goal,home,1660,174744,Ladislao Mazurkiewicz,GK,away,1660
+174590,Helmut Haller,MF,starting,goal,home,1660,174744,Ladislao Mazurkiewicz,GK,away,1660
+25113,Franz Beckenbauer,DF,starting,goal,home,1659,174638,Lev Yashin,GK,away,1659
+25113,Franz Beckenbauer,MF,starting,goal,home,1659,174638,Lev Yashin,GK,away,1659
+174590,Helmut Haller,MF,starting,goal,home,1659,174638,Lev Yashin,GK,away,1659
+56397,Valeriy Porkuyan,FW,starting,goal,away,1659,58970,Hans Tilkowski,GK,home,1659
+174590,Helmut Haller,MF,starting,goal,home,1656,49029,Charly Elsener,GK,away,1656
+174590,Helmut Haller,MF,starting,penalty,home,1656,49029,Charly Elsener,GK,away,1656
+25113,Franz Beckenbauer,MF,starting,goal,home,1656,49029,Charly Elsener,GK,away,1656
+50746,Sigi Held,FW,starting,goal,home,1656,49029,Charly Elsener,GK,away,1656
+25113,Franz Beckenbauer,DF,starting,goal,home,1656,49029,Charly Elsener,GK,away,1656
+44576,Pedro Rocha,FW,starting,goal,home,1653,45919,Marcel Aubour,GK,away,1653
+48288,Hector De Bourgoing,FW,starting,penalty,away,1653,174744,Ladislao Mazurkiewicz,GK,home,1653
+47998,Julio Cortes,MF,starting,goal,home,1653,45919,Marcel Aubour,GK,away,1653
+44576,Pedro Rocha,MF,starting,goal,home,1653,45919,Marcel Aubour,GK,away,1653
+174134,Enrique Borja,FW,starting,goal,away,1650,45919,Marcel Aubour,GK,home,1650
+50708,Gerard Hausser,FW,starting,goal,home,1650,174448,Ignacio Calderon,GK,away,1650
+198018,Manuel Sanchis,DF,starting,goal,home,1641,49029,Charly Elsener,GK,away,1641
+174346,Amancio,FW,starting,goal,home,1641,49029,Charly Elsener,GK,away,1641
+56509,Rene-pierre Quentin,FW,starting,goal,away,1641,51280,Jose Iribar,GK,home,1641
+57776,Uwe Seeler,FW,starting,goal,home,1637,51280,Jose Iribar,GK,away,1637
+49660,Jose Maria Fuste,FW,starting,goal,away,1637,58970,Hans Tilkowski,GK,home,1637
+174521,Lothar Emmerich,FW,starting,goal,home,1637,51280,Jose Iribar,GK,away,1637
+39547,Eusebio,FW,starting,penalty,away,1635,174372,Gordon Banks,GK,home,1635
+43993,Bobby Charlton,MF,starting,goal,home,1635,197841,Jose Pereira,GK,away,1635
+43993,Bobby Charlton,FW,starting,goal,home,1635,197841,Jose Pereira,GK,away,1635
+174622,Roger Hunt,FW,starting,goal,home,1634,174448,Ignacio Calderon,GK,away,1634
+43993,Bobby Charlton,FW,starting,goal,home,1634,174448,Ignacio Calderon,GK,away,1634
+43993,Bobby Charlton,MF,starting,goal,home,1634,174448,Ignacio Calderon,GK,away,1634
+174852,Martin Peters,MF,starting,goal,home,1633,58970,Hans Tilkowski,GK,away,1633
+174590,Helmut Haller,MF,starting,goal,away,1633,174372,Gordon Banks,GK,home,1633
+44749,Wolfgang Weber,DF,starting,goal,away,1633,174372,Gordon Banks,GK,home,1633
+174623,Geoff Hurst,FW,starting,goal,home,1633,58970,Hans Tilkowski,GK,away,1633
+174852,Martin Peters,FW,starting,goal,home,1633,58970,Hans Tilkowski,GK,away,1633
+174622,Roger Hunt,FW,starting,goal,home,1632,45919,Marcel Aubour,GK,away,1632
+56397,Valeriy Porkuyan,FW,starting,goal,home,1610,55526,Juan Olivares,GK,away,1610
+53632,Ruben Marcos,MF,starting,goal,away,1610,51974,Anzor Kavazashvili,GK,home,1610
+55826,Pak Seung Zin,FW,starting,goal,home,1609,55526,Juan Olivares,GK,away,1609
+53632,Ruben Marcos,MF,starting,penalty,away,1609,52994,Lee Chang Myung,GK,home,1609
+174377,Paolo Barison,FW,starting,goal,home,1608,55526,Juan Olivares,GK,away,1608
+174745,Sandro Mazzola,MF,starting,goal,home,1608,55526,Juan Olivares,GK,away,1608
+39547,Eusebio,FW,starting,goal,home,1602,54914,Georgi Naidenov,GK,away,1602
+61699,Jose Torres,FW,starting,goal,home,1602,54914,Georgi Naidenov,GK,away,1602
+174357,Georgi Asparukhov,FW,starting,goal,away,1599,49855,Jozsef Gelei,GK,home,1599
+61644,Kalman Meszoly,DF,starting,goal,home,1599,58050,Simeon Simeonov,GK,away,1599
+174388,Ferenc Bene,FW,starting,goal,home,1599,58050,Simeon Simeonov,GK,away,1599
+58057,Antonio Simoes,FW,starting,goal,home,1598,63882,Manga,GK,away,1598
+39547,Eusebio,FW,starting,goal,home,1598,63882,Manga,GK,away,1598
+63885,Rildo,DF,starting,goal,away,1598,197841,Jose Pereira,GK,home,1598
+61644,Kalman Meszoly,DF,starting,penalty,home,1597,63860,Gilmar,GK,away,1597
+174388,Ferenc Bene,FW,starting,goal,home,1597,63860,Gilmar,GK,away,1597
+49270,Janos Farkas,FW,starting,goal,home,1597,63860,Gilmar,GK,away,1597
+63881,Tostao,MF,starting,goal,away,1597,49855,Jozsef Gelei,GK,home,1597
+63868,Garrincha,FW,starting,goal,home,1596,54914,Georgi Naidenov,GK,away,1596
+63869,Pelé,FW,starting,goal,home,1596,54914,Georgi Naidenov,GK,away,1596
+55600,Erminio Onega,FW,starting,goal,home,1582,48886,Leo Eichmann,GK,away,1582
+45828,Luis Artime,FW,starting,goal,home,1582,48886,Leo Eichmann,GK,away,1582
+45828,Luis Artime,FW,starting,goal,home,1578,51280,Jose Iribar,GK,away,1578
+63875,Pirri,MF,starting,goal,away,1578,57085,Antonio Roma,GK,home,1578
+63875,Pirri,DF,starting,goal,away,1578,57085,Antonio Roma,GK,home,1578
+174623,Geoff Hurst,FW,starting,goal,home,1577,57085,Antonio Roma,GK,away,1577
+174551,Milan Galic,FW,starting,goal,home,1564,198017,Roberto Eduardo Sosa,GK,away,1564
+51536,Drazen Jerkovic,FW,starting,goal,home,1564,198017,Roberto Eduardo Sosa,GK,away,1564
+58132,Josip Skoblar,FW,starting,penalty,home,1564,198017,Roberto Eduardo Sosa,GK,away,1564
+47146,Angel Ruben Cabrera,MF,starting,goal,away,1564,58280,Milutin Soskic,GK,home,1564
+182129,Valentin Ivanov,FW,starting,goal,home,1563,58280,Milutin Soskic,GK,away,1563
+56380,Viktor Ponedelnik,FW,starting,goal,home,1563,58280,Milutin Soskic,GK,away,1563
+57608,Jose Sasia,FW,starting,goal,away,1562,174638,Lev Yashin,GK,home,1562
+182129,Valentin Ivanov,FW,starting,goal,home,1562,198017,Roberto Eduardo Sosa,GK,away,1562
+53537,Aleksei Mamykin,FW,starting,goal,home,1562,198017,Roberto Eduardo Sosa,GK,away,1562
+51536,Drazen Jerkovic,FW,starting,goal,away,1559,44615,Viliam Schrojf,GK,home,1559
+57678,Adolf Scherer,FW,starting,penalty,home,1559,58280,Milutin Soskic,GK,away,1559
+57678,Adolf Scherer,FW,starting,goal,home,1559,58280,Milutin Soskic,GK,away,1559
+51753,Josef Kadraba,FW,starting,goal,home,1559,58280,Milutin Soskic,GK,away,1559
+48526,Isidoro Diaz,MF,starting,goal,home,1544,44615,Viliam Schrojf,GK,away,1544
+50818,Hector Hernandez,FW,starting,penalty,home,1544,44615,Viliam Schrojf,GK,away,1544
+48365,Alfredo Del Aguila,FW,starting,goal,home,1544,44615,Viliam Schrojf,GK,away,1544
+48526,Isidoro Diaz,FW,starting,goal,home,1544,44615,Viliam Schrojf,GK,away,1544
+53770,Vaclav Masek,FW,starting,goal,away,1544,174456,Antonio Carbajal,GK,home,1544
+174436,Giacomo Bulgarelli,MF,starting,goal,home,1532,49029,Charly Elsener,GK,away,1532
+174436,Giacomo Bulgarelli,FW,starting,goal,home,1532,49029,Charly Elsener,GK,away,1532
+174781,Bruno Mora,FW,starting,goal,home,1532,49029,Charly Elsener,GK,away,1532
+57678,Adolf Scherer,FW,starting,goal,home,1525,174578,Gyula Grosics,GK,away,1525
+56563,Petar Radakovic,MF,starting,goal,home,1511,49220,Wolfgang Fahrian,GK,away,1511
+57776,Uwe Seeler,FW,starting,goal,home,1510,49029,Charly Elsener,GK,away,1510
+47000,Albert Bruells,MF,starting,goal,home,1510,49029,Charly Elsener,GK,away,1510
+57710,Heinz Schneiter,DF,starting,goal,away,1510,49220,Wolfgang Fahrian,GK,home,1510
+58444,Josef Stibranyi,MF,starting,goal,home,1498,57772,Carmelo,GK,away,1498
+174844,Joaquin Peiro,FW,starting,goal,home,1497,174456,Antonio Carbajal,GK,away,1497
+49497,Ron Flowers,MF,starting,penalty,away,1490,174578,Gyula Grosics,GK,home,1490
+174330,Florian Albert,FW,starting,goal,home,1490,58351,Ron Springett,GK,away,1490
+44689,Lajos Tichy,FW,starting,goal,home,1490,58351,Ron Springett,GK,away,1490
+51536,Drazen Jerkovic,FW,starting,goal,home,1480,57486,Efrain Sanchez,GK,away,1480
+54059,Vojislav Melic,FW,starting,goal,home,1480,57486,Efrain Sanchez,GK,away,1480
+174551,Milan Galic,FW,starting,goal,home,1480,57486,Efrain Sanchez,GK,away,1480
+60405,Francisco Zuluaga,DF,starting,penalty,away,1479,198017,Roberto Eduardo Sosa,GK,home,1479
+48099,Luis Cubilla,MF,starting,goal,home,1479,57486,Efrain Sanchez,GK,away,1479
+48099,Luis Cubilla,FW,starting,goal,home,1479,57486,Efrain Sanchez,GK,away,1479
+57608,Jose Sasia,FW,starting,goal,home,1479,57486,Efrain Sanchez,GK,away,1479
+47883,Marcos Coll,MF,starting,goal,away,1478,174638,Lev Yashin,GK,home,1478
+182129,Valentin Ivanov,FW,starting,goal,home,1478,57486,Efrain Sanchez,GK,away,1478
+44945,German Aceros,FW,starting,goal,away,1478,174638,Lev Yashin,GK,home,1478
+47679,Igor Chislenko,FW,starting,goal,home,1478,57486,Efrain Sanchez,GK,away,1478
+56559,Antonio Rada,FW,starting,goal,away,1478,174638,Lev Yashin,GK,home,1478
+56380,Viktor Ponedelnik,FW,starting,goal,home,1478,57486,Efrain Sanchez,GK,away,1478
+52277,Marino Klinger,FW,starting,goal,away,1478,174638,Lev Yashin,GK,home,1478
+44579,Eladio Rojas,MF,starting,goal,home,1475,58280,Milutin Soskic,GK,away,1475
+47679,Igor Chislenko,FW,starting,goal,away,1474,49124,Misael Escuti,GK,home,1474
+44596,Leonel Sanchez,FW,starting,goal,home,1474,174638,Lev Yashin,GK,away,1474
+44579,Eladio Rojas,MF,starting,goal,home,1474,174638,Lev Yashin,GK,away,1474
+44596,Leonel Sanchez,MF,starting,goal,home,1474,174638,Lev Yashin,GK,away,1474
+56653,Jaime Ramirez,FW,starting,goal,home,1473,49029,Charly Elsener,GK,away,1473
+44596,Leonel Sanchez,MF,starting,goal,home,1473,49029,Charly Elsener,GK,away,1473
+60065,Rolf Wuethrich,MF,starting,goal,away,1473,49124,Misael Escuti,GK,home,1473
+44596,Leonel Sanchez,FW,starting,goal,home,1473,49029,Charly Elsener,GK,away,1473
+59050,Jorge Toro,MF,starting,goal,home,1472,53853,Carlo Mattrel,GK,away,1472
+56653,Jaime Ramirez,FW,starting,goal,home,1472,53853,Carlo Mattrel,GK,away,1472
+57776,Uwe Seeler,FW,starting,goal,home,1471,49124,Misael Escuti,GK,away,1471
+58681,Horst Szymaniak,MF,starting,penalty,home,1471,49124,Misael Escuti,GK,away,1471
+174330,Florian Albert,FW,starting,goal,home,1470,54914,Georgi Naidenov,GK,away,1470
+58211,Georgi Sokolov,FW,starting,goal,away,1470,51220,Istvan Ilku,GK,home,1470
+44689,Lajos Tichy,FW,starting,goal,home,1470,54914,Georgi Naidenov,GK,away,1470
+58243,Erno Solymosi,DF,starting,goal,home,1470,54914,Georgi Naidenov,GK,away,1470
+174738,Josef Masopust,MF,starting,goal,away,1463,63860,Gilmar,GK,home,1463
+63866,Vava,FW,starting,goal,home,1463,44615,Viliam Schrojf,GK,away,1463
+63873,Amarildo,FW,starting,goal,home,1463,44615,Viliam Schrojf,GK,away,1463
+63867,Zito,MF,starting,goal,home,1463,44615,Viliam Schrojf,GK,away,1463
+63869,Pelé,FW,starting,goal,home,1461,174456,Antonio Carbajal,GK,away,1461
+61571,Mario Zagallo,FW,starting,goal,home,1461,174456,Antonio Carbajal,GK,away,1461
+63873,Amarildo,FW,starting,goal,home,1460,174353,Jose Araquistain,GK,away,1460
+56999,Adelardo,FW,starting,goal,away,1460,63860,Gilmar,GK,home,1460
+56999,Adelardo,DF,starting,goal,away,1460,63860,Gilmar,GK,home,1460
+63868,Garrincha,FW,starting,goal,home,1459,58351,Ron Springett,GK,away,1459
+63866,Vava,FW,starting,goal,home,1459,58351,Ron Springett,GK,away,1459
+174607,Gerry Hitchens,FW,starting,goal,away,1459,63860,Gilmar,GK,home,1459
+44596,Leonel Sanchez,MF,starting,penalty,away,1458,63860,Gilmar,GK,home,1458
+63868,Garrincha,FW,starting,goal,home,1458,49124,Misael Escuti,GK,away,1458
+44596,Leonel Sanchez,FW,starting,penalty,away,1458,63860,Gilmar,GK,home,1458
+63866,Vava,FW,starting,goal,home,1458,49124,Misael Escuti,GK,away,1458
+59050,Jorge Toro,MF,starting,goal,away,1458,63860,Gilmar,GK,home,1458
+174575,Jimmy Greaves,FW,starting,goal,home,1450,57085,Antonio Roma,GK,away,1450
+43993,Bobby Charlton,MF,starting,goal,home,1450,57085,Antonio Roma,GK,away,1450
+49497,Ron Flowers,MF,starting,penalty,home,1450,57085,Antonio Roma,GK,away,1450
+43993,Bobby Charlton,FW,starting,goal,home,1450,57085,Antonio Roma,GK,away,1450
+57526,Jose Sanfilippo,FW,starting,goal,away,1450,58351,Ron Springett,GK,home,1450
+49203,Hector Facundo,FW,starting,goal,home,1447,54914,Georgi Naidenov,GK,away,1447
+174591,Kurt Hamrin,FW,starting,goal,home,1437,174638,Lev Yashin,GK,away,1437
+58070,Agne Simonsson,FW,starting,goal,home,1437,174638,Lev Yashin,GK,away,1437
+69955,Jimmy Murray,FW,starting,goal,away,1434,46339,Vladimir Beara,GK,home,1434
+56175,Aleksandar Petakovic,FW,starting,goal,home,1434,60196,Tommy Younger,GK,away,1434
+55962,Jose Parodi,FW,starting,goal,home,1426,46339,Vladimir Beara,GK,away,1426
+45056,Juan Aguero,FW,starting,goal,home,1426,46339,Vladimir Beara,GK,away,1426
+57103,Jorge Romero,FW,starting,goal,home,1426,46339,Vladimir Beara,GK,away,1426
+59577,Toza Veselinovic,FW,starting,goal,away,1426,174901,Samuel Aguilar,GK,home,1426
+56618,Zdravko Rajkov,FW,starting,goal,away,1426,174901,Samuel Aguilar,GK,home,1426
+47886,Bobby Collins,FW,starting,goal,away,1423,174901,Samuel Aguilar,GK,home,1423
+55962,Jose Parodi,FW,starting,goal,home,1423,60196,Tommy Younger,GK,away,1423
+54653,Jackie Mudie,FW,starting,goal,away,1423,174901,Samuel Aguilar,GK,home,1423
+61675,Cayetano Re,FW,starting,goal,home,1423,60196,Tommy Younger,GK,away,1423
+45056,Juan Aguero,FW,starting,goal,home,1423,60196,Tommy Younger,GK,away,1423
+60355,Zdenek Zikan,FW,starting,goal,away,1422,59274,Norman Uprichard,GK,home,1422
+53996,Peter Mcparland,FW,starting,goal,home,1422,48653,Bretislav Dolejsi,GK,away,1422
+48131,Wilbur Cush,FW,starting,goal,home,1421,48653,Bretislav Dolejsi,GK,away,1421
+174336,Ivor Allchurch,FW,starting,goal,away,1418,174456,Antonio Carbajal,GK,home,1418
+46396,Jaime Belmonte,FW,starting,goal,home,1418,52026,Jack Kelsey,GK,away,1418
+58070,Agne Simonsson,FW,starting,goal,home,1415,174456,Antonio Carbajal,GK,away,1415
+174705,Nils Liedholm,MF,starting,penalty,home,1415,174456,Antonio Carbajal,GK,away,1415
+44689,Lajos Tichy,FW,starting,goal,away,1408,52026,Jack Kelsey,GK,home,1408
+174336,Ivor Allchurch,FW,starting,goal,home,1408,174578,Gyula Grosics,GK,away,1408
+54016,Terry Medwin,FW,starting,goal,home,1408,174578,Gyula Grosics,GK,away,1408
+43991,John Charles,FW,starting,goal,away,1407,174578,Gyula Grosics,GK,home,1407
+43940,Jozsef Bozsik,MF,starting,goal,home,1407,52026,Jack Kelsey,GK,away,1407
+174591,Kurt Hamrin,FW,starting,goal,home,1406,174578,Gyula Grosics,GK,away,1406
+44689,Lajos Tichy,FW,starting,goal,away,1406,58618,Kalle Svensson,GK,home,1406
+57518,Karoly Sandor,FW,starting,goal,home,1403,174456,Antonio Carbajal,GK,away,1403
+44689,Lajos Tichy,FW,starting,goal,home,1403,174456,Antonio Carbajal,GK,away,1403
+46433,Jozsef Bencsis,FW,starting,goal,home,1403,174456,Antonio Carbajal,GK,away,1403
+44545,Helmut Rahn,FW,starting,goal,home,1392,52529,Srboljub Krivokuca,GK,away,1392
+44545,Helmut Rahn,FW,starting,goal,home,1391,48653,Bretislav Dolejsi,GK,away,1391
+57659,Hans Schaefer,FW,starting,goal,home,1391,48653,Bretislav Dolejsi,GK,away,1391
+60355,Zdenek Zikan,FW,starting,goal,away,1391,50798,Fritz Herkenrath,GK,home,1391
+48813,Milan Dvorak,FW,starting,penalty,away,1391,50798,Fritz Herkenrath,GK,home,1391
+57659,Hans Schaefer,FW,starting,goal,away,1390,58618,Kalle Svensson,GK,home,1390
+174576,Gunnar Gren,MF,starting,goal,home,1390,50798,Fritz Herkenrath,GK,away,1390
+174591,Kurt Hamrin,FW,starting,goal,home,1390,50798,Fritz Herkenrath,GK,away,1390
+57776,Uwe Seeler,FW,starting,goal,home,1389,50227,Harry Gregg,GK,away,1389
+44545,Helmut Rahn,FW,starting,goal,home,1389,50227,Harry Gregg,GK,away,1389
+53996,Peter Mcparland,FW,starting,goal,away,1389,50798,Fritz Herkenrath,GK,home,1389
+56175,Aleksandar Petakovic,FW,starting,goal,home,1388,56802,Francois Remetter,GK,away,1388
+59577,Toza Veselinovic,FW,starting,goal,home,1388,56802,Francois Remetter,GK,away,1388
+29875,Just Fontaine,FW,starting,goal,away,1388,46339,Vladimir Beara,GK,home,1388
+29875,Just Fontaine,FW,starting,goal,home,1387,46992,Bill Brown,GK,away,1387
+174677,Raymond Kopa,FW,starting,goal,home,1387,46992,Bill Brown,GK,away,1387
+46087,Sammy Baird,MF,starting,goal,away,1387,44810,Claude Abbes,GK,home,1387
+45517,Florencio Amarilla,FW,starting,penalty,away,1386,56802,Francois Remetter,GK,home,1386
+61704,Jean Vincent,FW,starting,goal,home,1386,53893,Ramon Mayeregger,GK,away,1386
+45517,Florencio Amarilla,FW,starting,goal,away,1386,56802,Francois Remetter,GK,home,1386
+174677,Raymond Kopa,FW,starting,goal,home,1386,53893,Ramon Mayeregger,GK,away,1386
+29875,Just Fontaine,FW,starting,goal,home,1386,53893,Ramon Mayeregger,GK,away,1386
+174861,Roger Piantoni,FW,starting,goal,home,1386,53893,Ramon Mayeregger,GK,away,1386
+44760,Maryan Wisnieski,FW,starting,goal,home,1386,53893,Ramon Mayeregger,GK,away,1386
+57103,Jorge Romero,FW,starting,goal,away,1386,56802,Francois Remetter,GK,home,1386
+174861,Roger Piantoni,FW,starting,goal,home,1385,50227,Harry Gregg,GK,away,1385
+29875,Just Fontaine,FW,starting,goal,home,1385,50227,Harry Gregg,GK,away,1385
+44760,Maryan Wisnieski,FW,starting,goal,home,1385,50227,Harry Gregg,GK,away,1385
+174677,Raymond Kopa,FW,starting,penalty,home,1382,52614,Heinz Kwiatkowski,GK,away,1382
+44545,Helmut Rahn,FW,starting,goal,away,1382,44810,Claude Abbes,GK,home,1382
+47780,Hans Ciesclarczyk,FW,starting,goal,away,1382,44810,Claude Abbes,GK,home,1382
+29875,Just Fontaine,FW,starting,goal,home,1382,52614,Heinz Kwiatkowski,GK,away,1382
+48710,Yvon Douis,FW,starting,goal,home,1382,52614,Heinz Kwiatkowski,GK,away,1382
+57659,Hans Schaefer,FW,starting,goal,away,1382,44810,Claude Abbes,GK,home,1382
+174630,Anatoli Ilyin,FW,starting,goal,home,1373,53944,Colin Mc Donald,GK,away,1373
+49427,Tom Finney,FW,starting,penalty,away,1372,174638,Lev Yashin,GK,home,1372
+52071,Derek Kevan,FW,starting,goal,away,1372,174638,Lev Yashin,GK,home,1372
+51336,Aleksandr Ivanov,FW,starting,goal,home,1372,53944,Colin Mc Donald,GK,away,1372
+63869,Pelé,FW,starting,goal,home,1345,52026,Jack Kelsey,GK,away,1345
+63866,Vava,FW,starting,goal,home,1344,174638,Lev Yashin,GK,away,1344
+58070,Agne Simonsson,FW,starting,goal,away,1343,63860,Gilmar,GK,home,1343
+61571,Mario Zagallo,FW,starting,goal,home,1343,58618,Kalle Svensson,GK,away,1343
+63866,Vava,FW,starting,goal,home,1343,58618,Kalle Svensson,GK,away,1343
+174705,Nils Liedholm,MF,starting,goal,away,1343,63860,Gilmar,GK,home,1343
+63869,Pelé,FW,starting,goal,home,1343,58618,Kalle Svensson,GK,away,1343
+63855,Didi,MF,starting,goal,home,1340,44810,Claude Abbes,GK,away,1340
+63866,Vava,FW,starting,goal,home,1340,44810,Claude Abbes,GK,away,1340
+63869,Pelé,FW,starting,goal,home,1340,44810,Claude Abbes,GK,away,1340
+174861,Roger Piantoni,FW,starting,goal,away,1340,63860,Gilmar,GK,home,1340
+29875,Just Fontaine,FW,starting,goal,away,1340,63860,Gilmar,GK,home,1340
+174630,Anatoli Ilyin,FW,starting,goal,home,1332,57698,Kurt Schmied,GK,away,1332
+182129,Valentin Ivanov,FW,starting,goal,home,1332,57698,Kurt Schmied,GK,away,1332
+50717,John Haynes,FW,starting,goal,home,1327,58652,Rudolf Szanwald,GK,away,1327
+52394,Alfred Koerner,FW,starting,goal,away,1327,53944,Colin Mc Donald,GK,home,1327
+52071,Derek Kevan,FW,starting,goal,home,1327,58652,Rudolf Szanwald,GK,away,1327
+52347,Karl Koller,MF,starting,goal,away,1327,53944,Colin Mc Donald,GK,home,1327
+44604,Nilton Santos,DF,starting,goal,home,1326,58652,Rudolf Szanwald,GK,away,1326
+174341,Jose Altafini,FW,starting,goal,home,1326,58652,Rudolf Szanwald,GK,away,1326
+60355,Zdenek Zikan,FW,starting,goal,home,1325,47338,Amadeo Carrizo,GK,away,1325
+49393,Jiri Feureisl,FW,starting,goal,home,1325,47338,Amadeo Carrizo,GK,away,1325
+51038,Vaclav Hovorka,FW,starting,goal,home,1325,47338,Amadeo Carrizo,GK,away,1325
+48813,Milan Dvorak,FW,starting,goal,home,1325,47338,Amadeo Carrizo,GK,away,1325
+47957,Oreste Omar Corbatta,FW,starting,penalty,away,1325,48653,Bretislav Dolejsi,GK,home,1325
+47957,Oreste Omar Corbatta,FW,starting,penalty,home,1324,50227,Harry Gregg,GK,away,1324
+45952,Ludovico Avio,FW,starting,goal,home,1324,50227,Harry Gregg,GK,away,1324
+54112,Norberto Menendez,FW,starting,goal,home,1324,50227,Harry Gregg,GK,away,1324
+53996,Peter Mcparland,FW,starting,goal,away,1324,47338,Amadeo Carrizo,GK,home,1324
+44545,Helmut Rahn,FW,starting,goal,away,1323,47338,Amadeo Carrizo,GK,home,1323
+57776,Uwe Seeler,FW,starting,goal,away,1323,47338,Amadeo Carrizo,GK,home,1323
+47957,Oreste Omar Corbatta,FW,starting,goal,home,1323,50798,Fritz Herkenrath,GK,away,1323
+44609,Juan Schiaffino,FW,starting,goal,home,1315,56797,Theodor Reimann,GK,away,1315
+54212,Oscar Miguez,FW,starting,goal,home,1315,56797,Theodor Reimann,GK,away,1315
+46791,Carlos Borges,FW,starting,goal,home,1313,53704,Fred Martin,GK,away,1313
+43802,Julio Abbadie,FW,starting,goal,home,1313,53704,Fred Martin,GK,away,1313
+54212,Oscar Miguez,FW,starting,goal,home,1313,53704,Fred Martin,GK,away,1313
+49105,Erol Keskin,FW,starting,goal,home,1304,50984,Hong Dook Jong,GK,away,1304
+52892,Lefter Kucukandonyadis,FW,starting,goal,home,1304,50984,Hong Dook Jong,GK,away,1304
+47074,Buhran Sargun,FW,starting,goal,home,1304,50984,Hong Dook Jong,GK,away,1304
+58524,Suat Mamat,FW,starting,goal,home,1304,50984,Hong Dook Jong,GK,away,1304
+49289,Jackie Fatton,FW,starting,goal,home,1301,59663,Giovanni Viola,GK,away,1301
+174370,Robert Ballaman,FW,starting,goal,home,1301,59663,Giovanni Viola,GK,away,1301
+51087,Sepp Huegi,FW,starting,goal,home,1301,59663,Giovanni Viola,GK,away,1301
+55058,Fulvio Nesti,MF,starting,goal,away,1301,55958,Eugene Parlier,GK,home,1301
+174417,Giampiero Boniperti,FW,starting,goal,away,1300,55958,Eugene Parlier,GK,home,1300
+174370,Robert Ballaman,FW,starting,goal,home,1300,174558,Giorgio Ghezzi,GK,away,1300
+51087,Sepp Huegi,FW,starting,goal,home,1300,174558,Giorgio Ghezzi,GK,away,1300
+174603,Nandor Hidegkuti,FW,starting,goal,home,1295,174739,Roque Maspoli,GK,away,1295
+174669,Sandor Kocsis,FW,starting,goal,home,1295,174739,Roque Maspoli,GK,away,1295
+174485,Zoltan Czibor,FW,starting,goal,home,1295,174739,Roque Maspoli,GK,away,1295
+50957,Juan Hohberg,FW,starting,goal,away,1295,174578,Gyula Grosics,GK,home,1295
+174485,Zoltan Czibor,FW,starting,goal,home,1294,50984,Hong Dook Jong,GK,away,1294
+55850,Peter Palotas,FW,starting,goal,home,1294,50984,Hong Dook Jong,GK,away,1294
+174690,Mihaly Lantos,DF,starting,goal,home,1294,50984,Hong Dook Jong,GK,away,1294
+174886,Ferenc Puskas,FW,starting,goal,home,1294,50984,Hong Dook Jong,GK,away,1294
+174669,Sandor Kocsis,FW,starting,goal,home,1294,50984,Hong Dook Jong,GK,away,1294
+44545,Helmut Rahn,FW,starting,goal,home,1285,46339,Vladimir Beara,GK,away,1285
+57659,Hans Schaefer,FW,starting,goal,home,1284,58548,Sukru Ersoy,GK,away,1284
+49107,Mustafa Ertan,DF,starting,goal,away,1284,59218,Toni Turek,GK,home,1284
+59793,Ottmar Walter,FW,starting,goal,home,1284,58548,Sukru Ersoy,GK,away,1284
+44747,Fritz Walter,MF,starting,goal,home,1284,58548,Sukru Ersoy,GK,away,1284
+174784,Max Morlock,FW,starting,goal,home,1284,58548,Sukru Ersoy,GK,away,1284
+52892,Lefter Kucukandonyadis,FW,starting,goal,away,1284,59218,Toni Turek,GK,home,1284
+52280,Berni Klodt,FW,starting,goal,home,1283,59220,Turgay Seren,GK,away,1283
+57659,Hans Schaefer,FW,starting,goal,home,1283,59220,Turgay Seren,GK,away,1283
+174784,Max Morlock,FW,starting,goal,home,1283,59220,Turgay Seren,GK,away,1283
+58524,Suat Mamat,FW,starting,goal,away,1283,59218,Toni Turek,GK,home,1283
+59793,Ottmar Walter,FW,starting,goal,home,1283,59220,Turgay Seren,GK,away,1283
+174784,Max Morlock,FW,starting,goal,home,1278,174578,Gyula Grosics,GK,away,1278
+44545,Helmut Rahn,FW,starting,goal,home,1278,174578,Gyula Grosics,GK,away,1278
+174485,Zoltan Czibor,FW,starting,goal,away,1278,59218,Toni Turek,GK,home,1278
+174886,Ferenc Puskas,FW,starting,goal,away,1278,59218,Toni Turek,GK,home,1278
+229609,Jozsef Toth,FW,starting,goal,home,1277,52614,Heinz Kwiatkowski,GK,away,1277
+174603,Nandor Hidegkuti,FW,starting,goal,home,1277,52614,Heinz Kwiatkowski,GK,away,1277
+174669,Sandor Kocsis,FW,starting,goal,home,1277,52614,Heinz Kwiatkowski,GK,away,1277
+56221,Alfred Pfaff,FW,starting,goal,away,1277,174578,Gyula Grosics,GK,home,1277
+174886,Ferenc Puskas,FW,starting,goal,home,1277,52614,Heinz Kwiatkowski,GK,away,1277
+44545,Helmut Rahn,FW,starting,goal,away,1277,174578,Gyula Grosics,GK,home,1277
+50849,Richard Herrmann,FW,starting,goal,away,1277,174578,Gyula Grosics,GK,home,1277
+174770,Milos Milutinovic,FW,starting,goal,home,1276,56802,Francois Remetter,GK,away,1276
+61704,Jean Vincent,FW,starting,goal,home,1275,174456,Antonio Carbajal,GK,away,1275
+46122,Tomas Balcazar,FW,starting,goal,away,1275,56802,Francois Remetter,GK,home,1275
+174677,Raymond Kopa,FW,starting,penalty,home,1275,174456,Antonio Carbajal,GK,away,1275
+52703,Jose Lamadrid,FW,starting,goal,away,1275,56802,Francois Remetter,GK,home,1275
+44609,Juan Schiaffino,FW,starting,goal,home,1264,54136,Gilbert Merrick,GK,away,1264
+53136,Nat Lofthouse,FW,starting,goal,away,1264,174739,Roque Maspoli,GK,home,1264
+45523,Javier Ambrois,FW,starting,goal,home,1264,54136,Gilbert Merrick,GK,away,1264
+44727,Obdulio Varela,MF,starting,goal,home,1264,54136,Gilbert Merrick,GK,away,1264
+49427,Tom Finney,FW,starting,goal,away,1264,174739,Roque Maspoli,GK,home,1264
+46791,Carlos Borges,FW,starting,goal,home,1264,54136,Gilbert Merrick,GK,away,1264
+54702,Jimmy Mullen,FW,starting,goal,home,1263,55958,Eugene Parlier,GK,away,1263
+70047,Dennis Wilshaw,FW,starting,goal,home,1263,55958,Eugene Parlier,GK,away,1263
+63855,Didi,MF,starting,goal,home,1252,46339,Vladimir Beara,GK,away,1252
+44777,Branko Zebec,MF,starting,goal,away,1252,47382,Castilho,GK,home,1252
+63859,Pinga,FW,starting,goal,home,1249,54569,Salvador Mota,GK,away,1249
+63854,Julinho,FW,starting,goal,home,1249,54569,Salvador Mota,GK,away,1249
+63855,Didi,MF,starting,goal,home,1249,54569,Salvador Mota,GK,away,1249
+63850,Baltazar,FW,starting,goal,home,1249,54569,Salvador Mota,GK,away,1249
+44603,Djalma Santos,DF,starting,penalty,away,1248,174578,Gyula Grosics,GK,home,1248
+174603,Nandor Hidegkuti,FW,starting,goal,home,1248,47382,Castilho,GK,away,1248
+174669,Sandor Kocsis,FW,starting,goal,home,1248,47382,Castilho,GK,away,1248
+174690,Mihaly Lantos,DF,starting,penalty,home,1248,47382,Castilho,GK,away,1248
+63854,Julinho,FW,starting,goal,away,1248,174578,Gyula Grosics,GK,home,1248
+44119,Amleto Frignani,FW,starting,goal,home,1243,49888,Leopold Gernaey,GK,away,1243
+174716,Benito Lorenzi,FW,starting,goal,home,1243,49888,Leopold Gernaey,GK,away,1243
+45671,Leopold Anoul,FW,starting,goal,away,1243,174558,Giorgio Ghezzi,GK,home,1243
+49719,Carlo Galli,FW,starting,goal,home,1243,49888,Leopold Gernaey,GK,away,1243
+55865,Egisto Pandolfini,FW,starting,penalty,home,1243,49888,Leopold Gernaey,GK,away,1243
+46963,Ivor Broadis,FW,starting,goal,home,1240,49888,Leopold Gernaey,GK,away,1240
+45671,Leopold Anoul,FW,starting,goal,away,1240,54136,Gilbert Merrick,GK,home,1240
+47955,Rik Coppens,FW,starting,penalty,away,1240,54136,Gilbert Merrick,GK,home,1240
+53136,Nat Lofthouse,FW,starting,goal,home,1240,49888,Leopold Gernaey,GK,away,1240
+174813,Ernst Ocwirk,MF,starting,goal,home,1239,174739,Roque Maspoli,GK,away,1239
+50957,Juan Hohberg,FW,starting,goal,away,1239,57698,Kurt Schmied,GK,home,1239
+44666,Ernst Stojaspal,FW,starting,penalty,home,1239,174739,Roque Maspoli,GK,away,1239
+56458,Erich Probst,FW,starting,goal,home,1238,58360,Imrich Stacho,GK,away,1238
+44666,Ernst Stojaspal,FW,starting,goal,home,1238,58360,Imrich Stacho,GK,away,1238
+59761,Theodor Wagner,FW,starting,goal,home,1237,55958,Eugene Parlier,GK,away,1237
+52394,Alfred Koerner,FW,starting,goal,home,1237,55958,Eugene Parlier,GK,away,1237
+174370,Robert Ballaman,FW,starting,goal,away,1237,57698,Kurt Schmied,GK,home,1237
+56458,Erich Probst,FW,starting,goal,home,1237,55958,Eugene Parlier,GK,away,1237
+174813,Ernst Ocwirk,MF,starting,goal,home,1237,55958,Eugene Parlier,GK,away,1237
+51087,Sepp Huegi,FW,starting,goal,away,1237,57698,Kurt Schmied,GK,home,1237
+56458,Erich Probst,FW,starting,goal,home,1236,53704,Fred Martin,GK,away,1236
+59793,Ottmar Walter,FW,starting,goal,home,1233,44778,Walter Zeman,GK,away,1233
+56458,Erich Probst,FW,starting,goal,away,1233,59218,Toni Turek,GK,home,1233
+174784,Max Morlock,FW,starting,goal,home,1233,44778,Walter Zeman,GK,away,1233
+57659,Hans Schaefer,FW,starting,goal,home,1233,44778,Walter Zeman,GK,away,1233
+44747,Fritz Walter,MF,starting,penalty,home,1233,44778,Walter Zeman,GK,away,1233
+174559,Alcides Ghiggia,FW,starting,goal,home,1231,58618,Kalle Svensson,GK,away,1231
+55844,Karl-erik Palmer,FW,starting,goal,away,1231,56025,Anibal Paz,GK,home,1231
+54212,Oscar Miguez,FW,starting,goal,home,1231,58618,Kalle Svensson,GK,away,1231
+58582,Stig Sundqvist,FW,starting,goal,away,1231,56025,Anibal Paz,GK,home,1231
+174771,Rajko Mitic,FW,starting,goal,home,1230,58501,Georges Stuber,GK,away,1230
+59027,Kosta Tomasevic,FW,starting,goal,home,1230,58501,Georges Stuber,GK,away,1230
+58582,Stig Sundqvist,FW,starting,goal,home,1228,59469,Marcelino Vargas,GK,away,1228
+55844,Karl-erik Palmer,FW,starting,goal,home,1228,59469,Marcelino Vargas,GK,away,1228
+53162,Atilio Lopez,FW,starting,goal,away,1228,58618,Kalle Svensson,GK,home,1228
+53163,Cesar Lopez Fretes,FW,starting,goal,away,1228,58618,Kalle Svensson,GK,home,1228
+55669,Hector Ortiz,MF,starting,penalty,away,1225,54627,Srdjan Mrkusic,GK,home,1225
+59027,Kosta Tomasevic,FW,starting,goal,home,1225,174456,Antonio Carbajal,GK,away,1225
+174410,Stjepan Bobek,FW,starting,goal,home,1225,174456,Antonio Carbajal,GK,away,1225
+47774,Zeljko Cajkovski,FW,starting,goal,home,1225,174456,Antonio Carbajal,GK,away,1225
+46042,Rene Bader,FW,starting,goal,home,1222,174456,Antonio Carbajal,GK,away,1222
+174351,Kiki Antenen,FW,starting,goal,home,1222,174456,Antonio Carbajal,GK,away,1222
+69786,Horacio Casarin,FW,starting,goal,away,1222,51079,Adolphe Hug,GK,home,1222
+54647,Ermes Muccinelli,FW,starting,goal,away,1219,58618,Kalle Svensson,GK,home,1219
+47284,Riccardo Carapellese,FW,starting,goal,away,1219,58618,Kalle Svensson,GK,home,1219
+51531,Hans Jeppsson,FW,starting,goal,home,1219,44627,Lucidio Sentimenti,GK,away,1219
+45607,Sune Andersson,DF,starting,goal,home,1219,44627,Lucidio Sentimenti,GK,away,1219
+47284,Riccardo Carapellese,FW,starting,goal,home,1218,59469,Marcelino Vargas,GK,away,1218
+55865,Egisto Pandolfini,FW,starting,goal,home,1218,59469,Marcelino Vargas,GK,away,1218
+55936,Gino Pariani,FW,starting,goal,away,1208,48900,Ignacio Eizaguirre,GK,home,1208
+46285,Estanislao Basora,FW,starting,goal,home,1208,46793,Frank Borghi,GK,away,1208
+60291,Zarra,FW,starting,goal,home,1208,46793,Frank Borghi,GK,away,1208
+51194,Silvestre Igoa,FW,starting,goal,home,1208,46793,Frank Borghi,GK,away,1208
+44727,Obdulio Varela,MF,starting,goal,home,1207,44546,Antonio Ramallets,GK,away,1207
+46285,Estanislao Basora,FW,starting,goal,away,1207,174739,Roque Maspoli,GK,home,1207
+174559,Alcides Ghiggia,FW,starting,goal,home,1207,44546,Antonio Ramallets,GK,away,1207
+55844,Karl-erik Palmer,FW,starting,goal,home,1206,48900,Ignacio Eizaguirre,GK,away,1206
+58582,Stig Sundqvist,FW,starting,goal,home,1206,48900,Ignacio Eizaguirre,GK,away,1206
+54060,Bror Mellberg,FW,starting,goal,home,1206,48900,Ignacio Eizaguirre,GK,away,1206
+60291,Zarra,FW,starting,goal,away,1206,58618,Kalle Svensson,GK,home,1206
+49674,Joe Gaetjens,FW,starting,goal,home,1202,59948,Bert Williams,GK,away,1202
+60291,Zarra,FW,starting,goal,home,1199,59948,Bert Williams,GK,away,1199
+56883,Fernando Riera,FW,starting,goal,home,1194,46793,Frank Borghi,GK,away,1194
+56449,Andres Prieto,FW,starting,goal,home,1194,46793,Frank Borghi,GK,away,1194
+59780,Frank Wallace,FW,starting,goal,away,1194,53111,Sergio Livingstone,GK,home,1194
+53336,Joe Maca,DF,starting,penalty,away,1194,53111,Sergio Livingstone,GK,home,1194
+56974,Jorge Robledo,FW,starting,goal,home,1194,46793,Frank Borghi,GK,away,1194
+48048,Atilio Cremaschi,FW,starting,goal,home,1194,46793,Frank Borghi,GK,away,1194
+46285,Estanislao Basora,FW,starting,goal,home,1193,53111,Sergio Livingstone,GK,away,1193
+60291,Zarra,FW,starting,goal,home,1193,53111,Sergio Livingstone,GK,away,1193
+53572,Wilf Mannion,FW,starting,goal,home,1192,53111,Sergio Livingstone,GK,away,1192
+174786,Stan Mortensen,FW,starting,goal,home,1192,53111,Sergio Livingstone,GK,away,1192
+45005,Ademir,FW,starting,goal,home,1191,54627,Srdjan Mrkusic,GK,away,1191
+63844,Zizinho,MF,starting,goal,home,1191,54627,Srdjan Mrkusic,GK,away,1191
+174559,Alcides Ghiggia,FW,starting,goal,home,1190,46218,Barbosa,GK,away,1190
+44609,Juan Schiaffino,FW,starting,goal,home,1190,46218,Barbosa,GK,away,1190
+49608,Friaca,FW,starting,goal,away,1190,174739,Roque Maspoli,GK,home,1190
+63847,Chico,FW,starting,goal,home,1189,58618,Kalle Svensson,GK,away,1189
+45005,Ademir,FW,starting,goal,home,1189,58618,Kalle Svensson,GK,away,1189
+45607,Sune Andersson,DF,starting,penalty,away,1189,46218,Barbosa,GK,home,1189
+63849,Maneca,FW,starting,goal,home,1189,58618,Kalle Svensson,GK,away,1189
+63850,Baltazar,FW,starting,goal,home,1188,58501,Georges Stuber,GK,away,1188
+49289,Jackie Fatton,FW,starting,goal,away,1188,46218,Barbosa,GK,home,1188
+69792,Alfredo Ii,FW,starting,goal,home,1188,58501,Georges Stuber,GK,away,1188
+63850,Baltazar,FW,starting,goal,home,1187,174456,Antonio Carbajal,GK,away,1187
+63846,Jair,FW,starting,goal,home,1187,174456,Antonio Carbajal,GK,away,1187
+45005,Ademir,FW,starting,goal,home,1187,174456,Antonio Carbajal,GK,away,1187
+51194,Silvestre Igoa,FW,starting,goal,away,1186,46218,Barbosa,GK,home,1186
+63847,Chico,FW,starting,goal,home,1186,44546,Antonio Ramallets,GK,away,1186
+63846,Jair,FW,starting,goal,home,1186,44546,Antonio Ramallets,GK,away,1186
+45005,Ademir,FW,starting,goal,home,1186,44546,Antonio Ramallets,GK,away,1186
+63844,Zizinho,MF,starting,goal,home,1186,44546,Antonio Ramallets,GK,away,1186
+56123,Julio Perez,FW,starting,goal,home,1185,50381,Eduardo Gutierrez,GK,away,1185
+44609,Juan Schiaffino,FW,starting,goal,home,1185,50381,Eduardo Gutierrez,GK,away,1185
+44733,Ernesto Vidal,FW,starting,goal,home,1185,50381,Eduardo Gutierrez,GK,away,1185
+54212,Oscar Miguez,FW,starting,goal,home,1185,50381,Eduardo Gutierrez,GK,away,1185
+174559,Alcides Ghiggia,FW,starting,goal,home,1185,50381,Eduardo Gutierrez,GK,away,1185
+44100,Pietro Ferraris,FW,starting,goal,home,1179,51585,Henry Johansen,GK,away,1179
+47007,Arne Brustad,FW,starting,goal,away,1179,174818,Aldo Olivieri,GK,home,1179
+174862,Silvio Piola,FW,starting,goal,home,1179,51585,Henry Johansen,GK,away,1179
+44605,Gyorgy Sarosi,FW,starting,goal,home,1176,44920,Henock Abrahamsson,GK,away,1176
+55350,Arne Nyberg,FW,starting,goal,away,1176,58646,Antal Szabo,GK,home,1176
+44788,Gyula Zsengeller,FW,starting,goal,home,1176,44920,Henock Abrahamsson,GK,away,1176
+44693,Pal Titkos,FW,starting,goal,home,1176,44920,Henock Abrahamsson,GK,away,1176
+44788,Gyula Zsengeller,FW,starting,goal,home,1175,51070,Willy Huber,GK,away,1175
+44605,Gyorgy Sarosi,FW,starting,goal,home,1175,51070,Willy Huber,GK,away,1175
+44605,Gyorgy Sarosi,FW,starting,goal,away,1174,174818,Aldo Olivieri,GK,home,1174
+174862,Silvio Piola,FW,starting,goal,home,1174,58646,Antal Szabo,GK,away,1174
+44693,Pal Titkos,FW,starting,goal,away,1174,174818,Aldo Olivieri,GK,home,1174
+174474,Gino Colaussi,FW,starting,goal,home,1174,58646,Antal Szabo,GK,away,1174
+52327,Vilmos Kohut,FW,starting,goal,home,1173,182319,Mo Heng Tan,GK,away,1173
+59017,Geza Toldi,FW,starting,goal,home,1173,182319,Mo Heng Tan,GK,away,1173
+44788,Gyula Zsengeller,FW,starting,goal,home,1173,182319,Mo Heng Tan,GK,away,1173
+44605,Gyorgy Sarosi,FW,starting,goal,home,1173,182319,Mo Heng Tan,GK,away,1173
+174799,Oldrich Nejedly,FW,starting,goal,home,1172,59426,Adriaan Van Male,GK,away,1172
+174679,Josef Kostalek,MF,starting,goal,home,1172,59426,Adriaan Van Male,GK,away,1172
+60322,Josef Zeman,FW,starting,goal,home,1172,59426,Adriaan Van Male,GK,away,1172
+291616,Willhelm Hahnemann,\"\",starting,goal,away,1166,51070,Willy Huber,GK,home,1166
+174322,Andre Abegglen,FW,starting,goal,home,1166,56589,Rudolf Raftl,GK,away,1166
+59783,Eugen Walaschek,FW,starting,goal,home,1166,56589,Rudolf Raftl,GK,away,1166
+46574,Fredy Bickel,FW,starting,goal,home,1166,56589,Rudolf Raftl,GK,away,1166
+174322,Andre Abegglen,FW,starting,goal,home,1165,56589,Rudolf Raftl,GK,away,1165
+49822,Josef Gauchel,FW,starting,goal,away,1165,51070,Willy Huber,GK,home,1165
+174862,Silvio Piola,FW,starting,goal,home,1164,48494,Laurent Di Lorto,GK,away,1164
+174474,Gino Colaussi,FW,starting,goal,home,1164,48494,Laurent Di Lorto,GK,away,1164
+50742,Oscar Heisserer,MF,starting,goal,away,1164,174818,Aldo Olivieri,GK,home,1164
+59912,Gustav Wetterstrom,FW,starting,goal,home,1158,47349,Benito Carvajales,GK,away,1158
+52017,Tore Keller,FW,starting,goal,home,1158,47349,Benito Carvajales,GK,away,1158
+55350,Arne Nyberg,FW,starting,goal,home,1158,47349,Benito Carvajales,GK,away,1158
+45598,Harry Andersson,FW,starting,goal,home,1158,47349,Benito Carvajales,GK,away,1158
+58197,Hector Socorro,FW,starting,goal,home,1157,57296,Robert Sadowsky,GK,away,1157
+49358,Tomas Fernandez,MF,starting,goal,home,1157,57296,Robert Sadowsky,GK,away,1157
+48634,Stefan Dobay,FW,starting,goal,away,1157,45980,Juan Ayra,GK,home,1157
+46209,Iuliu Baratky,FW,starting,goal,away,1156,47349,Benito Carvajales,GK,home,1156
+46605,Silviu Bindea,FW,starting,goal,away,1156,47349,Benito Carvajales,GK,home,1156
+69663,Jose Magrina,FW,starting,goal,home,1156,56018,Dumitru Pavlovici,GK,away,1156
+58197,Hector Socorro,FW,starting,goal,home,1156,56018,Dumitru Pavlovici,GK,away,1156
+48634,Stefan Dobay,FW,starting,goal,away,1156,47349,Benito Carvajales,GK,home,1156
+56956,Roberto,FW,starting,goal,home,1153,47079,Karel Burkert,GK,away,1153
+174678,Vlastimil Kopecky,MF,starting,goal,away,1153,63830,Walter Goulart,GK,home,1153
+63829,Leonidas,FW,starting,goal,home,1153,47079,Karel Burkert,GK,away,1153
+63829,Leonidas,FW,starting,goal,home,1152,174865,Frantisek Planicka,GK,away,1152
+174799,Oldrich Nejedly,FW,starting,penalty,away,1152,63830,Walter Goulart,GK,home,1152
+56091,Peracio,FW,starting,goal,home,1151,44920,Henock Abrahamsson,GK,away,1151
+63836,Romeu,FW,starting,goal,home,1151,44920,Henock Abrahamsson,GK,away,1151
+51569,Sven Jonasson,FW,starting,goal,away,1151,69613,Batatais,GK,home,1151
+63829,Leonidas,FW,starting,goal,home,1151,44920,Henock Abrahamsson,GK,away,1151
+55350,Arne Nyberg,FW,starting,goal,away,1151,69613,Batatais,GK,home,1151
+58666,Fryedryk Szerfke,FW,starting,penalty,away,1150,69613,Batatais,GK,home,1150
+63829,Leonidas,FW,starting,goal,home,1150,53370,Edward Madejski,GK,away,1150
+44754,Ernest Wilimowski,FW,starting,goal,away,1150,69613,Batatais,GK,home,1150
+56091,Peracio,FW,starting,goal,home,1150,53370,Edward Madejski,GK,away,1150
+63836,Romeu,FW,starting,goal,home,1150,53370,Edward Madejski,GK,away,1150
+174761,Giuseppe Meazza,FW,starting,penalty,home,1149,63830,Walter Goulart,GK,away,1149
+63836,Romeu,FW,starting,goal,away,1149,174818,Aldo Olivieri,GK,home,1149
+174474,Gino Colaussi,FW,starting,goal,home,1149,63830,Walter Goulart,GK,away,1149
+174761,Giuseppe Meazza,MF,starting,penalty,home,1149,63830,Walter Goulart,GK,away,1149
+51297,Henri Isemborghs,FW,starting,goal,away,1146,48494,Laurent Di Lorto,GK,home,1146
+59523,Emile Veinante,FW,starting,goal,home,1146,46045,Arnold Badjou,GK,away,1146
+55121,Jean Nicolas,FW,starting,goal,home,1146,46045,Arnold Badjou,GK,away,1146
+59523,Emile Veinante,MF,starting,goal,home,1146,46045,Arnold Badjou,GK,away,1146
+51384,Willy Jaeggi,FW,starting,goal,away,1143,174865,Frantisek Planicka,GK,home,1143
+58193,Jiri Sobotka,FW,starting,goal,home,1143,57765,Frank Sechehaye,GK,away,1143
+174799,Oldrich Nejedly,FW,starting,goal,home,1143,57765,Frank Sechehaye,GK,away,1143
+58627,Frantisek Svoboda,FW,starting,goal,home,1143,57765,Frank Sechehaye,GK,away,1143
+52146,Leopold Kielholz,FW,starting,goal,away,1143,174865,Frantisek Planicka,GK,home,1143
+174884,Antonin Puc,FW,starting,goal,home,1141,60387,William Zombory,GK,away,1141
+48634,Stefan Dobay,FW,starting,goal,away,1141,174865,Frantisek Planicka,GK,home,1141
+174799,Oldrich Nejedly,FW,starting,goal,home,1141,60387,William Zombory,GK,away,1141
+174825,Raimundo Orsi,FW,starting,goal,home,1135,50912,Julius Hjulian,GK,away,1135
+48676,Aldo Donelli,FW,starting,goal,away,1135,44013,Giampiero Combi,GK,home,1135
+174537,Giovanni Ferrari,MF,starting,goal,home,1135,50912,Julius Hjulian,GK,away,1135
+174761,Giuseppe Meazza,FW,starting,goal,home,1135,50912,Julius Hjulian,GK,away,1135
+174761,Giuseppe Meazza,MF,starting,goal,home,1135,50912,Julius Hjulian,GK,away,1135
+44610,Angelo Schiavio,FW,starting,goal,home,1135,50912,Julius Hjulian,GK,away,1135
+44610,Angelo Schiavio,FW,starting,goal,home,1134,174865,Frantisek Planicka,GK,away,1134
+174825,Raimundo Orsi,FW,starting,goal,home,1134,174865,Frantisek Planicka,GK,away,1134
+174884,Antonin Puc,FW,starting,goal,away,1134,44013,Giampiero Combi,GK,home,1134
+52146,Leopold Kielholz,FW,starting,goal,home,1133,59388,Gejus Van Der Meulen,GK,away,1133
+174322,Andre Abegglen,FW,starting,goal,home,1133,59388,Gejus Van Der Meulen,GK,away,1133
+58166,Kick Smit,FW,starting,goal,away,1133,57765,Frank Sechehaye,GK,home,1133
+59550,Leen Vente,FW,starting,goal,away,1133,57765,Frank Sechehaye,GK,home,1133
+174799,Oldrich Nejedly,FW,starting,goal,home,1130,52507,Willibald Kress,GK,away,1130
+55223,Rudolf Noack,FW,starting,goal,away,1130,174865,Frantisek Planicka,GK,home,1130
+48779,Gosta Dunker,FW,starting,goal,away,1129,52507,Willibald Kress,GK,home,1129
+50950,Karl Hohmann,FW,starting,goal,home,1129,57242,Anders Rydberg,GK,away,1129
+174761,Giuseppe Meazza,MF,starting,goal,home,1123,55236,Juan Nogues,GK,away,1123
+174761,Giuseppe Meazza,FW,starting,goal,home,1123,55236,Juan Nogues,GK,away,1123
+56771,Luis Regueiro,FW,starting,goal,away,1122,44013,Giampiero Combi,GK,home,1122
+174537,Giovanni Ferrari,MF,starting,goal,home,1122,44774,Ricardo Zamora,GK,away,1122
+49294,Abdel Rahman Fawzi,FW,starting,goal,away,1119,58646,Antal Szabo,GK,home,1119
+59017,Geza Toldi,FW,starting,goal,home,1119,198087,Kamel Masoud,GK,away,1119
+59658,Jeno Vincze,FW,starting,goal,home,1119,198087,Kamel Masoud,GK,away,1119
+58843,Pal Teleki,FW,starting,goal,home,1119,198087,Kamel Masoud,GK,away,1119
+51276,Iraragorri,MF,starting,goal,home,1111,56049,Pedrosa,GK,away,1111
+63829,Leonidas,FW,starting,goal,away,1111,44774,Ricardo Zamora,GK,home,1111
+51276,Iraragorri,MF,starting,penalty,home,1111,56049,Pedrosa,GK,away,1111
+52723,Isidro Langara,FW,starting,goal,home,1111,56049,Pedrosa,GK,away,1111
+47914,Edmund Conen,FW,starting,goal,home,1108,59389,Andre Van De Weyer,GK,away,1108
+59711,Bernard Voorhoof,FW,starting,goal,away,1108,52507,Willibald Kress,GK,home,1108
+58001,Otto Siffling,FW,starting,goal,home,1108,59389,Andre Van De Weyer,GK,away,1108
+52297,Stanislaus Kobierski,FW,starting,goal,home,1108,59389,Andre Van De Weyer,GK,away,1108
+174579,Enrique Guaita,FW,starting,goal,home,1107,174868,Peter Platzer,GK,away,1107
+44605,Gyorgy Sarosi,FW,starting,penalty,away,1106,174868,Peter Platzer,GK,home,1106
+51009,Johann Horvath,FW,starting,goal,home,1106,58646,Antal Szabo,GK,away,1106
+60365,Karl Zischek,FW,starting,goal,home,1106,58646,Antal Szabo,GK,away,1106
+44631,Karl Sesta,DF,starting,goal,away,1105,51401,Hans Jakob,GK,home,1105
+51009,Johann Horvath,FW,starting,goal,away,1105,51401,Hans Jakob,GK,home,1105
+52908,Ernest Lehner,FW,starting,goal,home,1105,174868,Peter Platzer,GK,away,1105
+47914,Edmund Conen,FW,starting,goal,home,1105,174868,Peter Platzer,GK,away,1105
+44642,Matthias Sindelar,FW,starting,goal,home,1104,58899,Alex Thepot,GK,away,1104
+44608,Toni Schall,FW,starting,goal,home,1104,58899,Alex Thepot,GK,away,1104
+174400,Josef Bican,FW,starting,goal,home,1104,58899,Alex Thepot,GK,away,1104
+59574,Georges Verriest,MF,starting,penalty,away,1104,174868,Peter Platzer,GK,home,1104
+55121,Jean Nicolas,FW,starting,goal,away,1104,174868,Peter Platzer,GK,home,1104
+46383,Ernesto Belis,DF,starting,goal,away,1102,57242,Anders Rydberg,GK,home,1102
+49694,Alberto Galateo,FW,starting,goal,away,1102,57242,Anders Rydberg,GK,home,1102
+51569,Sven Jonasson,FW,starting,goal,home,1102,49606,Hector Freschi,GK,away,1102
+52535,Knut Kroon,FW,starting,goal,home,1102,49606,Hector Freschi,GK,away,1102
+45675,Juan Anselmo,FW,starting,goal,home,1101,51407,Milovan Jaksic,GK,away,1101
+59734,Djordje Vujadinovic,FW,starting,goal,away,1101,46133,Enrique Ballestrero,GK,home,1101
+47419,Pedro Cea,FW,starting,goal,home,1101,51407,Milovan Jaksic,GK,away,1101
+51279,Victoriano Iriarte,FW,starting,goal,home,1101,51407,Milovan Jaksic,GK,away,1101
+47419,Pedro Cea,FW,starting,goal,home,1100,52738,Ion Lapusneanu,GK,away,1100
+45675,Juan Anselmo,FW,starting,goal,home,1100,52738,Ion Lapusneanu,GK,away,1100
+57652,Hector Scarone,FW,starting,goal,home,1100,52738,Ion Lapusneanu,GK,away,1100
+48687,Pablo Dorado,FW,starting,goal,home,1100,52738,Ion Lapusneanu,GK,away,1100
+47398,Hector Castro,FW,starting,goal,home,1099,55932,Jorge Pardon,GK,away,1099
+58384,Constantin Stanciu,FW,starting,goal,home,1098,59343,Juan Valdivieso,GK,away,1098
+58313,Luis Souza,FW,starting,goal,away,1098,52738,Ion Lapusneanu,GK,home,1098
+48467,Adalbert Desu,FW,starting,goal,home,1098,59343,Juan Valdivieso,GK,away,1098
+52463,Nicolae Kovacs,FW,starting,goal,home,1098,59343,Juan Valdivieso,GK,away,1098
+55992,Bert Patenaude,FW,starting,goal,home,1097,48426,Modesto Denis,GK,away,1097
+29657,Lucien Laurent,FW,starting,goal,home,1096,46750,Oscar Bonfiglio,GK,away,1096
+53765,Andre Maschinot,FW,starting,goal,home,1096,46750,Oscar Bonfiglio,GK,away,1096
+47331,Juan Carreno,FW,starting,goal,away,1096,58899,Alex Thepot,GK,home,1096
+52726,Marcel Langiller,FW,starting,goal,home,1096,46750,Oscar Bonfiglio,GK,away,1096
+59596,Carlos Vidal,FW,starting,goal,home,1095,58282,Isidoro Sota,GK,away,1095
+58531,Guillermo Subiabre,FW,starting,goal,home,1094,58899,Alex Thepot,GK,away,1094
+61698,Aleksandar Tirnanic,FW,starting,goal,home,1093,54443,Joel,GK,away,1093
+63823,Preguinho,FW,starting,goal,away,1093,51407,Milovan Jaksic,GK,home,1093
+46364,Ivica Bek,FW,starting,goal,home,1093,54443,Joel,GK,away,1093
+46364,Ivica Bek,FW,starting,goal,home,1092,46508,Jesus Bermudez,GK,away,1092
+59734,Djordje Vujadinovic,FW,starting,goal,home,1092,46508,Jesus Bermudez,GK,away,1092
+53657,Blagoje Marjanovic,FW,starting,goal,home,1092,46508,Jesus Bermudez,GK,away,1092
+59994,Moderato,FW,starting,goal,home,1091,46508,Jesus Bermudez,GK,away,1091
+63823,Preguinho,FW,starting,goal,home,1091,46508,Jesus Bermudez,GK,away,1091
+49494,Tom Florie,FW,starting,goal,home,1090,46045,Arnold Badjou,GK,away,1090
+53957,Bart Mcghee,FW,starting,goal,home,1090,46045,Arnold Badjou,GK,away,1090
+55992,Bert Patenaude,FW,starting,goal,home,1090,46045,Arnold Badjou,GK,away,1090
+56077,Luis Vargas Pena,FW,starting,penalty,home,1089,46045,Arnold Badjou,GK,away,1089
+174854,Carlos Peucelle,FW,starting,goal,home,1088,48705,Jimmy Douglas,GK,away,1088
+61693,Guillermo Stabile,FW,starting,goal,home,1088,48705,Jimmy Douglas,GK,away,1088
+46989,Jim Brown,FW,starting,goal,away,1088,46831,Juan Botasso,GK,home,1088
+57749,Alejandro Scopelli,FW,starting,goal,home,1088,48705,Jimmy Douglas,GK,away,1088
+174777,Luis Monti,MF,starting,goal,home,1088,48705,Jimmy Douglas,GK,away,1088
+61693,Guillermo Stabile,FW,starting,goal,away,1087,46133,Enrique Ballestrero,GK,home,1087
+51279,Victoriano Iriarte,FW,starting,goal,home,1087,46831,Juan Botasso,GK,away,1087
+47398,Hector Castro,FW,starting,goal,home,1087,46831,Juan Botasso,GK,away,1087
+48687,Pablo Dorado,FW,starting,goal,home,1087,46831,Juan Botasso,GK,away,1087
+174854,Carlos Peucelle,FW,starting,goal,away,1087,46133,Enrique Ballestrero,GK,home,1087
+47419,Pedro Cea,FW,starting,goal,home,1087,46831,Juan Botasso,GK,away,1087
+60407,Adolfo Zumelzu,DF,starting,goal,home,1086,46750,Oscar Bonfiglio,GK,away,1086
+44726,Francisco Varallo,FW,starting,goal,home,1086,46750,Oscar Bonfiglio,GK,away,1086
+49834,Roberto Gayon,FW,starting,goal,away,1086,46826,Angel Bossio,GK,home,1086
+57131,Manuel Rosas,DF,starting,goal,away,1086,46826,Angel Bossio,GK,home,1086
+57131,Manuel Rosas,DF,starting,penalty,away,1086,46826,Angel Bossio,GK,home,1086
+61693,Guillermo Stabile,FW,starting,goal,home,1086,46750,Oscar Bonfiglio,GK,away,1086
+174777,Luis Monti,MF,starting,goal,home,1085,58899,Alex Thepot,GK,away,1085
+61693,Guillermo Stabile,FW,starting,goal,home,1084,47995,Roberto Cortes,GK,away,1084
+58531,Guillermo Subiabre,FW,starting,goal,away,1084,46826,Angel Bossio,GK,home,1084
+49179,Mario Evaristo,FW,starting,goal,home,1084,47995,Roberto Cortes,GK,away,1084
+44651,Graeme Souness,MF,starting,goal,away,1071,174487,Rinat Dasaev,GK,home,1071
+57932,Ramaz Shengelia,FW,starting,goal,home,1071,57159,Alan Rough,GK,away,1071
+174645,Joe Jordan,FW,starting,goal,away,1071,174487,Rinat Dasaev,GK,home,1071
+47683,Aleksandre Chivadze,DF,starting,goal,home,1071,57159,Alan Rough,GK,away,1071
+174694,Grzegorz Lato,FW,starting,goal,home,1055,44542,Ramon Quiroga,GK,away,1055
+47055,Andrzej Buncol,MF,starting,goal,home,1055,44542,Ramon Quiroga,GK,away,1055
+160825,Zbigniew Boniek,FW,starting,goal,home,1055,44542,Ramon Quiroga,GK,away,1055
+44647,Wlodimierz Smolarek,FW,starting,goal,home,1055,44542,Ramon Quiroga,GK,away,1055
+47789,Wlodzimierz Ciolek,MF,sub,goal,home,1055,44542,Ramon Quiroga,GK,away,1055
+52634,Guillermo La Rosa,FW,starting,goal,away,1055,174772,Jozef Mlynarczyk,GK,home,1055
+174409,Oleg Blokhin,FW,starting,goal,home,1054,59414,Frank Van Hattum,GK,away,1054
+49828,Yuri Gavrilov,MF,starting,goal,home,1054,59414,Frank Van Hattum,GK,away,1054
+46145,Sergei Baltacha,DF,starting,goal,home,1054,59414,Frank Van Hattum,GK,away,1054
+59816,John Wark,MF,starting,goal,home,1051,59414,Frank Van Hattum,GK,away,1051
+181332,John Robertson,FW,starting,goal,home,1051,59414,Frank Van Hattum,GK,away,1051
+60039,Steve Wooddin,FW,starting,goal,away,1051,57159,Alan Rough,GK,home,1051
+45752,Steve Archibald,FW,sub,goal,home,1051,59414,Frank Van Hattum,GK,away,1051
+58575,Steve Sumner,MF,starting,goal,away,1051,57159,Alan Rough,GK,home,1051
+174486,Kenny Dalglish,FW,starting,goal,home,1051,59414,Frank Van Hattum,GK,away,1051
+174835,Antonin Panenka,MF,starting,penalty,home,1012,45327,Ahmed Al Tarabulsi,GK,away,1012
+2204,Faisal Al Dakhil,FW,starting,goal,away,1012,51058,Zdenek Hruska,GK,home,1012
+44582,Paolo Rossi,FW,starting,goal,away,996,174772,Jozef Mlynarczyk,GK,home,996
+174477,Bruno Conti,MF,starting,goal,home,994,44542,Ramon Quiroga,GK,away,994
+174477,Bruno Conti,FW,starting,goal,home,994,44542,Ramon Quiroga,GK,away,994
+48535,Ruben Diaz,DF,starting,goal,away,994,44786,Dino Zoff,GK,home,994
+56207,Vladimir Petrovic,MF,starting,penalty,away,962,45837,Julio Cesar Arzu,GK,home,962
+45793,Gerry Armstrong,FW,starting,goal,away,959,45837,Julio Cesar Arzu,GK,home,959
+52681,Eduardo Laing,FW,sub,goal,home,959,174639,Pat Jennings,GK,away,959
+44684,Marco Tardelli,MF,starting,goal,home,923,57737,Harald Schumacher,GK,away,923
+174428,Paul Breitner,MF,starting,goal,away,923,44786,Dino Zoff,GK,home,923
+44582,Paolo Rossi,FW,starting,goal,home,923,57737,Harald Schumacher,GK,away,923
+174342,Alessandro Altobelli,FW,sub,goal,home,923,57737,Harald Schumacher,GK,away,923
+174428,Paul Breitner,DF,starting,goal,away,923,44786,Dino Zoff,GK,home,923
+58116,Didier Six,FW,starting,goal,home,922,58495,Karel Stromsik,GK,away,922
+174835,Antonin Panenka,MF,sub,penalty,away,922,49163,Jean Luc Ettori,GK,home,922
+53454,Stefan Majewski,DF,starting,goal,home,921,47374,Jean Castaneda,GK,away,921
+52583,Janusz Kupcewicz,DF,starting,goal,home,921,47374,Jean Castaneda,GK,away,921
+44679,Andrzej Szarmach,FW,starting,goal,home,921,47374,Jean Castaneda,GK,away,921
+48030,Alain Couriol,FW,starting,goal,away,921,174772,Jozef Mlynarczyk,GK,home,921
+49971,Rene Girard,MF,starting,goal,away,921,174772,Jozef Mlynarczyk,GK,home,921
+44577,Dominique Rocheteau,FW,starting,goal,home,920,174639,Pat Jennings,GK,away,920
+45793,Gerry Armstrong,FW,starting,goal,away,920,49163,Jean Luc Ettori,GK,home,920
+174563,Alain Giresse,MF,starting,goal,home,920,174639,Pat Jennings,GK,away,920
+174423,Maxime Bossis,DF,starting,goal,home,919,45327,Ahmed Al Tarabulsi,GK,away,919
+28528,Michel Platini,MF,starting,goal,home,919,45327,Ahmed Al Tarabulsi,GK,away,919
+58116,Didier Six,FW,starting,goal,home,919,45327,Ahmed Al Tarabulsi,GK,away,919
+174554,Bernard Genghini,MF,starting,goal,home,919,45327,Ahmed Al Tarabulsi,GK,away,919
+45189,Abdulaziz Al Balushi,MF,starting,goal,away,919,49163,Jean Luc Ettori,GK,home,919
+44107,Klaus Fischer,FW,starting,goal,home,914,49163,Jean Luc Ettori,GK,away,914
+28528,Michel Platini,MF,starting,penalty,away,914,57737,Harald Schumacher,GK,home,914
+174563,Alain Giresse,MF,starting,goal,away,914,57737,Harald Schumacher,GK,home,914
+174711,Pierre Littbarski,MF,starting,goal,home,914,49163,Jean Luc Ettori,GK,away,914
+44587,Karl-heinz Rummenigge,FW,sub,goal,home,914,49163,Jean Luc Ettori,GK,away,914
+44701,Marius Tresor,DF,starting,goal,away,914,57737,Harald Schumacher,GK,home,914
+57627,Enrique Saura,MF,sub,goal,home,903,55885,Dragan Pantelic,GK,away,903
+63577,Juanito,FW,starting,penalty,home,903,55885,Dragan Pantelic,GK,away,903
+50281,Ivan Gudelj,MF,starting,goal,away,903,45754,Luis Arconada,GK,home,903
+45793,Gerry Armstrong,FW,starting,goal,home,902,45754,Luis Arconada,GK,away,902
+60317,Hector Zelaya,MF,starting,goal,away,901,45754,Luis Arconada,GK,home,901
+168801,Lopez Ufarte,FW,starting,penalty,home,901,45837,Julio Cesar Arzu,GK,away,901
+60272,Jesus Zamora,MF,starting,goal,away,900,57737,Harald Schumacher,GK,home,900
+174711,Pierre Littbarski,MF,starting,goal,home,900,45754,Luis Arconada,GK,away,900
+44107,Klaus Fischer,FW,starting,goal,home,900,45754,Luis Arconada,GK,away,900
+59088,Jozsef Toth,DF,starting,goal,home,896,50311,Luis Guevara Mora,GK,away,896
+56368,Gabor Poloskei,FW,starting,goal,home,896,50311,Luis Guevara Mora,GK,away,896
+58660,Lazar Szentes,FW,sub,goal,home,896,50311,Luis Guevara Mora,GK,away,896
+44094,Laszlo Fazekas,FW,starting,goal,home,896,50311,Luis Guevara Mora,GK,away,896
+174810,Tibor Nyilasi,MF,starting,goal,home,896,50311,Luis Guevara Mora,GK,away,896
+69419,Laszlo Kiss,FW,sub,goal,home,896,50311,Luis Guevara Mora,GK,away,896
+56661,Luis Ramirez,FW,sub,goal,away,896,54153,Ferenc Meszaros,GK,home,896
+49571,Trevor Francis,FW,starting,goal,home,889,57812,Stanislav Seman,GK,away,889
+49571,Trevor Francis,FW,starting,goal,home,882,45327,Ahmed Al Tarabulsi,GK,away,882
+53649,Paul Mariner,FW,starting,goal,home,878,49163,Jean Luc Ettori,GK,away,878
+44573,Bryan Robson,MF,starting,goal,home,878,49163,Jean Luc Ettori,GK,away,878
+58227,Gerard Soler,FW,starting,goal,away,878,44637,Peter Shilton,GK,home,878
+174574,Francesco Graziani,FW,starting,goal,home,828,174794,Thomas Nkono,GK,away,828
+53311,Gregoire Mbida,MF,starting,goal,away,828,44786,Dino Zoff,GK,home,828
+56785,Uwe Reinders,FW,sub,goal,home,813,55679,Mario Osben,GK,away,813
+44587,Karl-heinz Rummenigge,FW,starting,goal,home,813,55679,Mario Osben,GK,away,813
+54559,Gustavo Moscoso,FW,starting,goal,away,813,57737,Harald Schumacher,GK,home,813
+63651,Eder,MF,starting,goal,home,791,174487,Rinat Dasaev,GK,away,791
+46115,Andrei Bal,MF,starting,goal,away,791,59772,Waldir Peres,GK,home,791
+63627,Socrates,MF,starting,goal,home,791,174487,Rinat Dasaev,GK,away,791
+63650,Zico,MF,starting,goal,home,790,57159,Alan Rough,GK,away,790
+63651,Eder,MF,starting,goal,home,790,57159,Alan Rough,GK,away,790
+54948,David Narey,DF,starting,goal,away,790,59772,Waldir Peres,GK,home,790
+63630,Falcao,MF,starting,goal,home,790,57159,Alan Rough,GK,away,790
+63648,Oscar,DF,starting,goal,home,790,57159,Alan Rough,GK,away,790
+63736,Serginho,FW,starting,goal,home,789,59414,Frank Van Hattum,GK,away,789
+63650,Zico,MF,starting,goal,home,789,59414,Frank Van Hattum,GK,away,789
+63630,Falcao,MF,starting,goal,home,789,59414,Frank Van Hattum,GK,away,789
+63627,Socrates,MF,starting,goal,away,788,44786,Dino Zoff,GK,home,788
+44582,Paolo Rossi,FW,starting,goal,home,788,59772,Waldir Peres,GK,away,788
+63630,Falcao,MF,starting,goal,away,788,44786,Dino Zoff,GK,home,788
+160825,Zbigniew Boniek,FW,starting,goal,home,782,48133,Theo Custers,GK,away,782
+48143,Alex Czerniatynski,FW,starting,goal,home,779,54153,Ferenc Meszaros,GK,away,779
+59460,Jozsef Varga,DF,starting,goal,away,779,174857,Jean Marie Pfaff,GK,home,779
+47861,Ludo Coeck,MF,starting,goal,home,774,50311,Luis Guevara Mora,GK,away,774
+50531,Billy Hamilton,FW,starting,goal,away,771,174674,Friedl Koncilia,GK,home,771
+50899,Reinhold Hintermaier,MF,sub,goal,home,771,56343,Jim Platt,GK,away,771
+174856,Bruno Pezzey,DF,starting,goal,home,771,56343,Jim Platt,GK,away,771
+174619,Horst Hrubesch,FW,starting,goal,home,770,174674,Friedl Koncilia,GK,away,770
+174554,Bernard Genghini,MF,starting,goal,away,767,174674,Friedl Koncilia,GK,home,767
+44607,Walter Schachner,FW,starting,goal,away,764,55679,Mario Osben,GK,home,764
+174840,Daniel Passarella,DF,starting,goal,away,753,44786,Dino Zoff,GK,home,753
+174446,Antonio Cabrini,DF,starting,goal,home,753,44105,Ubaldo Fillol,GK,away,753
+44684,Marco Tardelli,MF,starting,goal,home,753,44105,Ubaldo Fillol,GK,away,753
+174732,Diego Maradona,MF,starting,goal,home,752,54153,Ferenc Meszaros,GK,away,752
+56368,Gabor Poloskei,FW,starting,goal,away,752,44105,Ubaldo Fillol,GK,home,752
+174354,Osvaldo Ardiles,MF,starting,goal,home,752,54153,Ferenc Meszaros,GK,away,752
+174395,Daniel Bertoni,FW,starting,goal,home,752,54153,Ferenc Meszaros,GK,away,752
+174840,Daniel Passarella,DF,starting,penalty,home,751,50311,Luis Guevara Mora,GK,away,751
+174395,Daniel Bertoni,FW,starting,goal,home,751,50311,Luis Guevara Mora,GK,away,751
+63736,Serginho,FW,starting,goal,away,750,44105,Ubaldo Fillol,GK,home,750
+252326,Junior,DF,starting,goal,away,750,44105,Ubaldo Fillol,GK,home,750
+174500,Ramon Diaz,FW,sub,goal,home,750,59772,Waldir Peres,GK,away,750
+63650,Zico,MF,starting,goal,away,750,44105,Ubaldo Fillol,GK,home,750
+44723,Erwin Vandenbergh,FW,starting,goal,away,749,44105,Ubaldo Fillol,GK,home,749
+44587,Karl-heinz Rummenigge,FW,starting,goal,home,741,47436,Mahdi Cerbah,GK,away,741
+43897,Lakhdar Belloumi,MF,starting,goal,away,741,57737,Harald Schumacher,GK,home,741
+53379,Rabah Madjer,FW,starting,goal,away,741,57737,Harald Schumacher,GK,home,741
+55032,Miguel Neira,MF,starting,penalty,away,740,47436,Mahdi Cerbah,GK,home,740
+52964,Juan Letelier,FW,sub,goal,away,740,47436,Mahdi Cerbah,GK,home,740
+45875,Salah Assad,FW,starting,goal,home,740,55679,Mario Osben,GK,away,740
+46465,Tedj Bensaoula,FW,starting,goal,home,740,55679,Mario Osben,GK,away,740
+44607,Walter Schachner,FW,starting,goal,away,739,47436,Mahdi Cerbah,GK,home,739
+52483,Hans Krankl,FW,starting,goal,away,739,47436,Mahdi Cerbah,GK,home,739
+44647,Wlodimierz Smolarek,FW,starting,goal,home,701,69358,Damas,GK,away,701
+57097,Julio Cesar Romero,MF,starting,goal,away,680,52755,Pablo Larios,GK,home,680
+174543,Luis Flores,FW,starting,goal,home,680,63566,Roberto Fernandez,GK,away,680
+52517,Abdelkarim Krimau,FW,starting,goal,away,675,69358,Damas,GK,home,675
+166526,Diamantino,FW,sub,goal,home,675,207356,Badou Zaki,GK,away,675
+52077,Abdelrazzak Khairi,MF,starting,goal,away,675,69358,Damas,GK,home,675
+174342,Alessandro Altobelli,FW,starting,goal,away,643,50921,Oh Yun Kyo,GK,home,643
+44001,Choi Soon Ho,MF,starting,goal,home,643,44125,Giovanni Galli,GK,away,643
+51091,Huh Jung Moo,MF,starting,goal,home,643,44125,Giovanni Galli,GK,away,643
+44001,Choi Soon Ho,FW,starting,goal,home,643,44125,Giovanni Galli,GK,away,643
+57097,Julio Cesar Romero,MF,starting,goal,home,628,57435,Hammoudi Raad,GK,away,628
+56535,Fernando Quirarte,DF,starting,goal,away,627,51476,Insayaf Abdulfattah,GK,home,627
+60106,Pavel Yakovenko,MF,starting,goal,home,610,48605,Peter Disztl,GK,away,610
+44768,Ivan Yaremchuk,MF,starting,goal,home,610,48605,Peter Disztl,GK,away,610
+174334,Serguei Aleinikov,MF,starting,goal,home,610,48605,Peter Disztl,GK,away,610
+56993,Sergei Rodionov,FW,sub,goal,home,610,48605,Peter Disztl,GK,away,610
+174386,Igor Belanov,FW,starting,penalty,home,610,48605,Peter Disztl,GK,away,610
+174339,Klaus Allofs,FW,starting,goal,away,585,174344,Fernando Alvez,GK,home,585
+174345,Antonio Alzamendi,FW,starting,goal,home,585,57737,Harald Schumacher,GK,away,585
+44739,Rudi Voeller,FW,starting,goal,home,580,174701,Jim Leighton,GK,away,580
+58474,Gordon Strachan,MF,starting,goal,away,580,57737,Harald Schumacher,GK,home,580
+174339,Klaus Allofs,FW,starting,goal,home,580,174701,Jim Leighton,GK,away,580
+174742,Lothar Matthaeus,MF,starting,goal,away,574,207356,Badou Zaki,GK,home,574
+174535,Luis Fernandez,MF,starting,goal,home,571,174487,Rinat Dasaev,GK,away,571
+44552,Vasili Rats,MF,starting,goal,away,571,160350,Joel Bats,GK,home,571
+58469,Yannick Stopyra,FW,starting,goal,away,568,44125,Giovanni Galli,GK,home,568
+28528,Michel Platini,MF,starting,goal,away,568,44125,Giovanni Galli,GK,home,568
+58469,Yannick Stopyra,FW,starting,goal,away,567,48605,Peter Disztl,GK,home,567
+44577,Dominique Rocheteau,FW,sub,goal,away,567,48605,Peter Disztl,GK,home,567
+44690,Jean Tigana,MF,starting,goal,away,567,48605,Peter Disztl,GK,home,567
+44739,Rudi Voeller,FW,sub,goal,away,564,160350,Joel Bats,GK,home,564
+174427,Andreas Brehme,DF,starting,goal,away,564,160350,Joel Bats,GK,home,564
+47815,Colin Clarke,FW,starting,goal,home,551,44789,Andoni Zubizarreta,GK,away,551
+44594,Julio Salinas,FW,starting,goal,away,551,174639,Pat Jennings,GK,home,551
+174442,Emilio Butragueno,FW,starting,goal,away,551,174639,Pat Jennings,GK,home,551
+63677,Carlos Manuel,MF,starting,goal,home,538,44637,Peter Shilton,GK,away,538
+174708,Gary Lineker,FW,starting,goal,home,537,174772,Jozef Mlynarczyk,GK,away,537
+174384,Peter Beardsley,FW,starting,goal,home,536,63566,Roberto Fernandez,GK,away,536
+174708,Gary Lineker,FW,starting,goal,home,536,63566,Roberto Fernandez,GK,away,536
+55555,Jesper Olsen,MF,sub,goal,home,522,174344,Fernando Alvez,GK,away,522
+174520,Preben Elkjaer Larsen,FW,starting,goal,home,522,174344,Fernando Alvez,GK,away,522
+44298,Michael Laudrup,MF,starting,goal,home,522,174344,Fernando Alvez,GK,away,522
+189880,Enzo Francescoli,MF,starting,penalty,away,522,56714,Trols Rasmussen,GK,home,522
+52953,Soren Lerby,MF,starting,goal,home,522,174344,Fernando Alvez,GK,away,522
+174520,Preben Elkjaer Larsen,FW,starting,goal,away,517,174701,Jim Leighton,GK,home,517
+49091,John Eriksen,FW,sub,goal,home,512,57737,Harald Schumacher,GK,away,512
+55555,Jesper Olsen,MF,starting,penalty,home,512,57737,Harald Schumacher,GK,away,512
+174442,Emilio Butragueno,FW,starting,goal,away,511,50955,Lars Hogh,GK,home,511
+55555,Jesper Olsen,MF,starting,penalty,home,511,44789,Andoni Zubizarreta,GK,away,511
+166547,Goiko,DF,starting,penalty,away,511,50955,Lars Hogh,GK,home,511
+174442,Emilio Butragueno,FW,starting,penalty,away,511,50955,Lars Hogh,GK,home,511
+44775,Aleksandr Zavarov,MF,sub,goal,home,476,52968,Tino Lettieri,GK,away,476
+174409,Oleg Blokhin,FW,starting,goal,home,476,52968,Tino Lettieri,GK,away,476
+49148,Marton Esterhazy,FW,starting,goal,home,475,52968,Tino Lettieri,GK,away,475
+48469,Lajos Detari,MF,starting,goal,home,475,52968,Tino Lettieri,GK,away,475
+95450,Jean-pierre Papin,FW,starting,goal,away,468,48652,Paul Dolan,GK,home,468
+49898,Plamen Getov,MF,starting,goal,away,460,50921,Oh Yun Kyo,GK,home,460
+58105,Nasko Sirakov,FW,starting,goal,home,459,44125,Giovanni Galli,GK,away,459
+58105,Nasko Sirakov,MF,starting,goal,home,459,44125,Giovanni Galli,GK,away,459
+179502,Edinho,DF,starting,goal,home,444,174772,Jozef Mlynarczyk,GK,away,444
+55528,Careca,FW,starting,penalty,home,444,174772,Jozef Mlynarczyk,GK,away,444
+63548,Josimar,DF,starting,goal,home,444,174772,Jozef Mlynarczyk,GK,away,444
+63627,Socrates,MF,starting,penalty,home,444,174772,Jozef Mlynarczyk,GK,away,444
+55528,Careca,FW,starting,goal,away,441,174639,Pat Jennings,GK,home,441
+63548,Josimar,DF,starting,goal,away,441,174639,Pat Jennings,GK,home,441
+28528,Michel Platini,MF,starting,goal,away,440,63623,Carlos,GK,home,440
+55528,Careca,FW,starting,goal,home,440,160350,Joel Bats,GK,away,440
+63627,Socrates,MF,starting,goal,away,439,44789,Andoni Zubizarreta,GK,home,439
+43988,Jan Ceulemans,MF,starting,goal,away,432,174487,Rinat Dasaev,GK,home,432
+174386,Igor Belanov,FW,starting,penalty,home,432,174857,Jean Marie Pfaff,GK,away,432
+44042,Stephane Demol,DF,starting,goal,away,432,174487,Rinat Dasaev,GK,home,432
+174386,Igor Belanov,FW,starting,goal,home,432,174857,Jean Marie Pfaff,GK,away,432
+44619,Enzo Scifo,MF,starting,goal,away,432,174487,Rinat Dasaev,GK,home,432
+44006,Nico Claesen,FW,starting,goal,away,432,174487,Rinat Dasaev,GK,home,432
+43988,Jan Ceulemans,FW,starting,goal,away,432,174487,Rinat Dasaev,GK,home,432
+47133,Roberto Cabanas,FW,starting,goal,home,429,174857,Jean Marie Pfaff,GK,away,429
+59586,Daniel Veyt,FW,starting,goal,away,429,63566,Roberto Fernandez,GK,home,429
+44728,Frank Vercauteren,MF,starting,goal,away,429,63566,Roberto Fernandez,GK,home,429
+56535,Fernando Quirarte,DF,starting,goal,away,428,174857,Jean Marie Pfaff,GK,home,428
+174153,Hugo Sánchez,FW,starting,goal,away,428,174857,Jean Marie Pfaff,GK,home,428
+44723,Erwin Vandenbergh,FW,starting,goal,home,428,52755,Pablo Larios,GK,away,428
+44619,Enzo Scifo,MF,starting,goal,away,427,57435,Hammoudi Raad,GK,home,427
+200785,Ahmed Radhi,FW,starting,goal,home,427,174857,Jean Marie Pfaff,GK,away,427
+44006,Nico Claesen,FW,starting,penalty,away,427,57435,Hammoudi Raad,GK,home,427
+44006,Nico Claesen,FW,starting,goal,away,422,57230,Albert Rust,GK,home,422
+43988,Jan Ceulemans,MF,starting,goal,away,422,57230,Albert Rust,GK,home,422
+43988,Jan Ceulemans,FW,starting,goal,away,422,57230,Albert Rust,GK,home,422
+49383,Jean-marc Ferreri,MF,starting,goal,home,422,174857,Jean Marie Pfaff,GK,away,422
+45546,Manuel Amoros,DF,starting,penalty,home,422,174857,Jean Marie Pfaff,GK,away,422
+174554,Bernard Genghini,MF,starting,goal,home,422,174857,Jean Marie Pfaff,GK,away,422
+95450,Jean-pierre Papin,FW,starting,goal,home,422,174857,Jean Marie Pfaff,GK,away,422
+43988,Jan Ceulemans,FW,starting,goal,away,421,44789,Andoni Zubizarreta,GK,home,421
+43988,Jan Ceulemans,MF,starting,goal,away,421,44789,Andoni Zubizarreta,GK,home,421
+163644,Juan Antonio Senor,MF,sub,goal,home,421,174857,Jean Marie Pfaff,GK,away,421
+55975,Pedro Pasculli,FW,starting,goal,home,398,174344,Fernando Alvez,GK,away,398
+44585,Oscar Ruggeri,DF,starting,goal,home,395,50921,Oh Yun Kyo,GK,away,395
+44707,Jorge Valdano,FW,starting,goal,home,395,50921,Oh Yun Kyo,GK,away,395
+55941,Park Chang Sun,FW,starting,goal,away,395,174885,Nery Pumpido,GK,home,395
+174342,Alessandro Altobelli,FW,starting,penalty,home,394,174885,Nery Pumpido,GK,away,394
+174732,Diego Maradona,MF,starting,goal,away,394,44125,Giovanni Galli,GK,home,394
+174434,Jose Brown,DF,starting,goal,home,393,57737,Harald Schumacher,GK,away,393
+44587,Karl-heinz Rummenigge,FW,starting,goal,away,393,174885,Nery Pumpido,GK,home,393
+174440,Jorge Burruchaga,MF,starting,goal,home,393,57737,Harald Schumacher,GK,away,393
+44739,Rudi Voeller,FW,sub,goal,away,393,174885,Nery Pumpido,GK,home,393
+44707,Jorge Valdano,FW,starting,goal,home,393,57737,Harald Schumacher,GK,away,393
+174732,Diego Maradona,MF,starting,goal,home,392,44637,Peter Shilton,GK,away,392
+174708,Gary Lineker,FW,starting,goal,away,392,174885,Nery Pumpido,GK,home,392
+174732,Diego Maradona,MF,starting,goal,home,388,174857,Jean Marie Pfaff,GK,away,388
+44752,Norman Whiteside,FW,starting,goal,away,379,52746,Larbi El Hadi,GK,home,379
+60352,Djamel Zidane,MF,starting,goal,home,379,174639,Pat Jennings,GK,away,379
+63581,Eloy,FW,sub,goal,away,378,48732,Nasser Drid,GK,home,378
+159846,Ramon Maria Caldere,MF,starting,goal,away,378,48732,Nasser Drid,GK,home,378
+55528,Careca,FW,starting,goal,home,377,48732,Nasser Drid,GK,away,377
+94432,Ali Thani Jumaa,MF,starting,goal,away,364,252712,Tomislav Ivkovic,GK,home,364
+44677,Safet Susic,MF,starting,goal,home,364,49248,Muhsin Musabah,GK,away,364
+174834,Darko Pancev,FW,starting,goal,home,364,49248,Muhsin Musabah,GK,away,364
+44677,Safet Susic,FW,starting,goal,home,364,49248,Muhsin Musabah,GK,away,364
+174882,Robert Prosinecki,MF,sub,goal,home,364,49248,Muhsin Musabah,GK,away,364
+174719,Milan Luhovy,FW,sub,goal,away,355,174765,Tony Meola,GK,home,355
+44645,Tomas Skuhravy,FW,starting,goal,away,355,174765,Tony Meola,GK,home,355
+174449,Paul Caligiuri,DF,starting,goal,home,355,252261,Jan Stejskal,GK,away,355
+174403,Michal Bilek,DF,starting,penalty,away,355,174765,Tony Meola,GK,home,355
+174594,Ivan Hasek,MF,starting,goal,away,355,174765,Tony Meola,GK,home,355
+174747,Stuart Mccall,MF,starting,goal,away,348,44554,Thomas Ravelli,GK,home,348
+174642,Mo Johnston,FW,starting,penalty,away,348,44554,Thomas Ravelli,GK,home,348
+44672,Glenn Stromberg,MF,sub,goal,home,348,174701,Jim Leighton,GK,away,348
+174687,Marius Lacatus,FW,starting,penalty,away,342,174487,Rinat Dasaev,GK,home,342
+174687,Marius Lacatus,FW,starting,goal,away,342,174487,Rinat Dasaev,GK,home,342
+44115,Daniel Fonseca,FW,sub,goal,away,290,174468,Choi In Young,GK,home,290
+174560,Giuseppe Giannini,MF,starting,goal,home,265,174765,Tony Meola,GK,away,265
+44629,Aldo Serena,FW,sub,goal,home,264,174344,Fernando Alvez,GK,away,264
+44611,Salvatore Schillaci,FW,starting,goal,home,264,174344,Fernando Alvez,GK,away,264
+44611,Salvatore Schillaci,FW,starting,goal,home,263,252261,Jan Stejskal,GK,away,263
+174363,Roberto Baggio,FW,starting,goal,home,263,252261,Jan Stejskal,GK,away,263
+44611,Salvatore Schillaci,FW,starting,goal,home,243,174418,Pat Bonner,GK,away,243
+44540,Niall Quinn,FW,starting,goal,home,228,44713,Hans Van Breukelen,GK,away,228
+174582,Ruud Gullit,MF,starting,goal,away,228,174418,Pat Bonner,GK,home,228
+44739,Rudi Voeller,FW,starting,goal,home,201,252712,Tomislav Ivkovic,GK,away,201
+174742,Lothar Matthaeus,MF,starting,goal,home,201,252712,Tomislav Ivkovic,GK,away,201
+174666,Juergen Klinsmann,FW,starting,goal,home,201,252712,Tomislav Ivkovic,GK,away,201
+44241,Davor Jozic,DF,starting,goal,away,201,174631,Bodo Illgner,GK,home,201
+94471,Khalid Ismail,MF,starting,goal,away,198,174631,Bodo Illgner,GK,home,198
+44739,Rudi Voeller,FW,starting,goal,home,198,49248,Muhsin Musabah,GK,away,198
+174742,Lothar Matthaeus,MF,starting,goal,home,198,49248,Muhsin Musabah,GK,away,198
+174385,Uwe Bein,MF,starting,goal,home,198,49248,Muhsin Musabah,GK,away,198
+174666,Juergen Klinsmann,FW,starting,goal,home,198,49248,Muhsin Musabah,GK,away,198
+174742,Lothar Matthaeus,MF,starting,penalty,home,197,252261,Jan Stejskal,GK,away,197
+174666,Juergen Klinsmann,FW,starting,goal,home,196,44713,Hans Van Breukelen,GK,away,196
+174427,Andreas Brehme,DF,starting,goal,home,196,44713,Hans Van Breukelen,GK,away,196
+174671,Ronald Koeman,DF,starting,penalty,away,196,174631,Bodo Illgner,GK,home,196
+44594,Julio Salinas,FW,starting,goal,home,181,252712,Tomislav Ivkovic,GK,away,181
+44667,Dragan Stojkovic,MF,starting,goal,away,181,44789,Andoni Zubizarreta,GK,home,181
+174625,Hwang Bo Kwan,MF,starting,goal,home,175,44789,Andoni Zubizarreta,GK,away,175
+166466,Michel,MF,starting,goal,away,175,174468,Choi In Young,GK,home,175
+174867,David Platt,MF,starting,goal,away,162,44779,Walter Zenga,GK,home,162
+174363,Roberto Baggio,FW,starting,goal,home,162,44637,Peter Shilton,GK,away,162
+44611,Salvatore Schillaci,FW,starting,penalty,home,162,44637,Peter Shilton,GK,away,162
+174708,Gary Lineker,FW,starting,goal,home,161,174418,Pat Bonner,GK,away,161
+44634,Kevin Sheedy,MF,starting,goal,away,161,44637,Peter Shilton,GK,home,161
+174708,Gary Lineker,FW,starting,goal,away,159,174631,Bodo Illgner,GK,home,159
+174427,Andreas Brehme,DF,starting,goal,home,159,44637,Peter Shilton,GK,away,159
+174321,Magdy Abdelghany,MF,starting,penalty,away,151,44713,Hans Van Breukelen,GK,home,151
+174661,Wim Kieft,FW,sub,goal,home,151,184623,Ahmed Shobeir,GK,away,151
+44764,Mark Wright,DF,starting,goal,home,150,184623,Ahmed Shobeir,GK,away,150
+44645,Tomas Skuhravy,FW,starting,goal,home,129,174379,Hermidio Barrantes,GK,away,129
+94770,Ronald Gonzalez,DF,starting,goal,away,129,252261,Jan Stejskal,GK,home,129
+174683,Lubos Kubik,MF,starting,goal,home,129,174379,Hermidio Barrantes,GK,away,129
+95459,Johnny Ekstrom,FW,starting,goal,home,128,47913,Gabelo Conejo,GK,away,128
+174544,Roger Flores,DF,starting,goal,away,128,44554,Thomas Ravelli,GK,home,128
+174762,Hernan Medford,FW,sub,goal,away,128,44554,Thomas Ravelli,GK,home,128
+174463,Juan Cayasso,FW,starting,goal,home,127,174701,Jim Leighton,GK,away,127
+44241,Davor Jozic,DF,starting,goal,home,120,174606,Rene Higuita,GK,away,120
+44708,Carlos Valderrama,MF,starting,goal,away,119,49248,Muhsin Musabah,GK,home,119
+44555,Bernardo Redin,MF,starting,goal,away,119,49248,Muhsin Musabah,GK,home,119
+174711,Pierre Littbarski,MF,sub,goal,home,114,174606,Rene Higuita,GK,away,114
+154742,Freddy Rincon,FW,starting,goal,away,114,174631,Bodo Illgner,GK,home,114
+154742,Freddy Rincon,MF,starting,goal,away,114,174631,Bodo Illgner,GK,home,114
+174504,Igor Dobrovolskyi,FW,starting,goal,away,111,174794,Thomas Nkono,GK,home,111
+174883,Oleg Protasov,FW,starting,goal,away,111,174794,Thomas Nkono,GK,home,111
+44775,Aleksandr Zavarov,MF,sub,goal,away,111,174794,Thomas Nkono,GK,home,111
+44783,Andrei Zygmantovich,DF,starting,goal,away,111,174794,Thomas Nkono,GK,home,111
+174366,Gavril Balint,FW,sub,goal,away,108,174794,Thomas Nkono,GK,home,108
+79318,Roger Milla,FW,sub,goal,home,108,174720,Silviu Lung,GK,away,108
+174684,Emmanuel Kunde,DF,starting,penalty,away,103,44637,Peter Shilton,GK,home,103
+174867,David Platt,MF,starting,goal,home,103,174794,Thomas Nkono,GK,away,103
+174708,Gary Lineker,FW,starting,penalty,home,103,174794,Thomas Nkono,GK,away,103
+174518,Eugene Ekeke,FW,sub,goal,away,103,44637,Peter Shilton,GK,home,103
+79318,Roger Milla,FW,sub,goal,home,102,174606,Rene Higuita,GK,away,102
+44555,Bernardo Redin,MF,sub,goal,away,102,174794,Thomas Nkono,GK,home,102
+55528,Careca,FW,starting,goal,home,75,44554,Thomas Ravelli,GK,away,75
+174431,Tomas Brolin,FW,starting,goal,away,75,63514,Taffarel,GK,home,75
+63524,Muller,FW,sub,goal,home,74,174701,Jim Leighton,GK,away,74
+63524,Muller,FW,starting,goal,home,73,47913,Gabelo Conejo,GK,away,73
+43988,Jan Ceulemans,FW,starting,goal,home,66,174344,Fernando Alvez,GK,away,66
+44619,Enzo Scifo,MF,starting,goal,home,66,174344,Fernando Alvez,GK,away,66
+43988,Jan Ceulemans,MF,starting,goal,home,66,174344,Fernando Alvez,GK,away,66
+174390,Pablo Bengoechea,MF,sub,goal,away,66,174880,Michel Preudhomme,GK,home,66
+174473,Leo Clijsters,DF,starting,goal,home,66,174344,Fernando Alvez,GK,away,66
+174496,Michel De Wolf,DF,starting,goal,home,57,174468,Choi In Young,GK,away,57
+174490,Marc De Grijse,FW,starting,goal,home,57,174468,Choi In Young,GK,away,57
+166466,Michel,MF,starting,penalty,away,56,174880,Michel Preudhomme,GK,home,56
+166540,Alberto Gorriz,DF,starting,goal,away,56,174880,Michel Preudhomme,GK,home,56
+44731,Patrick Vervoort,DF,starting,goal,home,56,44789,Andoni Zubizarreta,GK,away,56
+174867,David Platt,MF,sub,goal,home,55,174880,Michel Preudhomme,GK,away,55
+174792,Bruce Murray,FW,starting,goal,away,48,174707,Klaus Lindenberger,GK,home,48
+44578,Gerhard Rodax,FW,starting,goal,home,48,174765,Tony Meola,GK,away,48
+174403,Michal Bilek,DF,starting,penalty,away,43,174707,Klaus Lindenberger,GK,home,43
+44611,Salvatore Schillaci,FW,sub,goal,home,42,174707,Klaus Lindenberger,GK,away,42
+174440,Jorge Burruchaga,MF,starting,goal,home,30,44706,Aleksandr Uvarov,GK,away,30
+174779,Pedro Monzon,DF,starting,goal,home,29,174720,Silviu Lung,GK,away,29
+174366,Gavril Balint,FW,starting,goal,away,29,168112,Sergio Goycochea,GK,home,29
+44611,Salvatore Schillaci,FW,starting,goal,home,28,168112,Sergio Goycochea,GK,away,28
+174454,Claudio Caniggia,FW,starting,goal,away,28,44779,Walter Zenga,GK,home,28
+174427,Andreas Brehme,DF,starting,penalty,home,27,168112,Sergio Goycochea,GK,away,27
+174820,Francois Omam-biyik,FW,starting,goal,away,26,174885,Nery Pumpido,GK,home,26
+174454,Claudio Caniggia,FW,starting,goal,away,25,63514,Taffarel,GK,home,25
+212306,Didier Drogba,FW,starting,owngoal,away,300061488,178958,Boubacar Barry,GK,away,300061488
+227846,Daniel Agger,DF,starting,owngoal,away,300061478,177825,Thomas Sorensen,GK,away,300061478
+207761,Park Chuyoung,FW,starting,owngoal,away,300061458,198546,Jung Sungryong,GK,away,300061458
+182197,Petit,MF,sub,owngoal,away,97410063,182194,Ricardo,GK,away,97410063
+4332,Brent Sancho,DF,starting,owngoal,away,97410036,186591,Kelvin Jack,GK,away,97410036
+210192,Cristian Zaccardo,DF,starting,owngoal,home,97410025,159304,Gianluigi Buffon,GK,home,97410025
+158048,Mohamed Kader,FW,starting,owngoal,away,97410014,4299,Kossi Agassa,GK,away,97410014
+212306,Didier Drogba,FW,starting,owngoal,away,97410005,3356,Jean-jacques Tizie,GK,away,97410005
+94915,Carlos Gamarra,DF,starting,owngoal,away,97410003,185338,Justo Villar,GK,away,97410003
+179306,Emre Belozoglu,MF,starting,owngoal,away,43950028,95586,Rustu Recber,GK,away,43950028
+177914,Carles Puyol,DF,starting,owngoal,home,43950022,176644,Iker Casillas,GK,home,43950022
+160555,Jorge Costa,DF,starting,owngoal,away,43950016,160197,Vitor Baia,GK,away,43950016
+158451,Jeff Agoos,DF,starting,owngoal,home,43950016,77525,Brad Friedel,GK,home,43950016
+159282,Georgi Bachev,MF,starting,owngoal,away,8761,154303,Zdravko Zdravkov,GK,away,8761
+158770,Sinisa Mihajlovic,DF,starting,owngoal,away,8753,158768,Ivica Kralj,GK,away,8753
+44789,Andoni Zubizarreta,GK,starting,owngoal,home,8731,44789,Andoni Zubizarreta,GK,home,8731
+170641,Pierre Issa,DF,starting,owngoal,away,8730,163966,Hans Vonk,GK,away,8730
+181656,Youssef Chippo,MF,starting,owngoal,home,8725,159293,Driss Ben Zekri,GK,home,8725
+95055,Tom Boyd,DF,starting,owngoal,away,4000,174701,Jim Leighton,GK,away,4000
+174526,Andres Escobar,DF,starting,owngoal,away,3063,170712,Oscar Cordoba,GK,away,3063
+49130,Andranik Eskandarian,DF,starting,owngoal,away,2408,50743,Nasser Hejazi,GK,away,2408
+174426,Ernie Brandts,DF,starting,owngoal,home,2391,44614,Piet Schrijvers,GK,home,2391
+37656,Berti Vogts,DF,starting,owngoal,away,2217,37989,Sepp Maier,GK,away,2217
+46718,Vladislav Bogicevic,DF,starting,owngoal,home,2186,53642,Enver Maric,GK,home,2186
+174681,Ruud Krol,DF,starting,owngoal,away,1990,174643,Jan Jongbloed,GK,away,1990
+48123,Colin Curran,DF,starting,owngoal,away,1955,56781,Jack Reilly,GK,away,1955
+174851,Roberto Perfumo,DF,starting,owngoal,home,1949,47314,Daniel Carnevali,GK,home,1949
+50395,Javier Guzman,DF,starting,owngoal,away,1882,174448,Ignacio Calderon,GK,away,1882
+59743,Ivan Vutsov,DF,starting,owngoal,away,1602,54914,Georgi Naidenov,GK,away,1602
+48261,Ivan Davidov,MF,starting,owngoal,away,1599,58050,Simeon Simeonov,GK,away,1599
+55467,Radivoje Ognjanovic,FW,starting,owngoal,away,1426,46339,Vladimir Beara,GK,away,1426
+44644,Lennart Skoglund,FW,starting,owngoal,home,1390,58618,Kalle Svensson,GK,home,1390
+51007,Ivan Horvat,DF,starting,owngoal,away,1285,46339,Vladimir Beara,GK,away,1285
+61589,Raul Cardenas,MF,starting,owngoal,away,1275,174456,Antonio Carbajal,GK,away,1275
+48545,Jimmy Dickinson,MF,starting,owngoal,home,1240,54136,Gilbert Merrick,GK,home,1240
+48082,Luis Cruz,MF,starting,owngoal,away,1239,174739,Roque Maspoli,GK,away,1239
+55466,Tihomir Ognjanov,FW,starting,owngoal,home,1230,54627,Srdjan Mrkusic,GK,home,1230
+55964,Jose Parra,DF,starting,owngoal,away,1186,44546,Antonio Ramallets,GK,away,1186
+51377,Sven Jacobsson,MF,starting,owngoal,away,1176,44920,Henock Abrahamsson,GK,away,1176
+53131,Ernst Loertscher,MF,starting,owngoal,home,1166,51070,Willy Huber,GK,home,1166
+57131,Manuel Rosas,DF,starting,owngoal,away,1095,58282,Isidoro Sota,GK,away,1095
+46236,Jozef Barmos,DF,starting,owngoal,away,889,57812,Stanislav Seman,GK,away,889
+55462,Khoren Oganesian,MF,starting,owngoal,away,783,174487,Rinat Dasaev,GK,away,783
+47704,Cho Kwang Rae,MF,starting,owngoal,home,643,50921,Oh Yun Kyo,GK,home,643
+48188,Laszlo Dajka,MF,sub,owngoal,away,610,48605,Peter Disztl,GK,away,610
+174815,Andeas Ogris,FW,starting,owngoal,home,48,174707,Klaus Lindenberger,GK,home,48
+44704,Pedro Troglio,MF,starting,owngoal,home,30,174885,Nery Pumpido,GK,home,30

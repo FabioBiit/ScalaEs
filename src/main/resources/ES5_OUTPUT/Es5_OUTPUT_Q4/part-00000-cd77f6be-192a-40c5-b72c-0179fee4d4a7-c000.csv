@@ -1,0 +1,767 @@
+player_id,player_name,dob,country,continent,numero_gol_subiti
+174456,Antonio Carbajal,07/06/1929,Mexico,North America,33
+92722,Mohammed Al Deayea,02/08/1972,Saudi Arabia,Asia,32
+154644,Jacques Songoo,17/03/1964,Cameroon,Africa,28
+174672,Andreas Koepke,12/03/1962,Germany,Europe,28
+52614,Heinz Kwiatkowski,16/07/1926,Germany FR,Europe,28
+174656,Kasey Keller,29/11/1969,USA,North America,26
+37989,Sepp Maier,28/02/1944,Germany FR,Europe,25
+44786,Dino Zoff,28/02/1942,Italy,Europe,24
+77937,Lee Woon Jae,26/04/1973,Korea Republic,Asia,23
+44105,Ubaldo Fillol,21/07/1950,Argentina,South America,23
+174672,Andreas Koepke,12/03/1962,Germany FR,Europe,23
+58050,Simeon Simeonov,26/04/1946,Bulgaria,Europe,22
+58618,Kalle Svensson,11/11/1925,Sweden,Europe,22
+78091,Oliver Kahn,15/06/1969,Germany,Europe,22
+174631,Bodo Illgner,07/04/1967,Germany,Europe,22
+174794,Thomas Nkono,20/07/1956,Cameroon,Africa,21
+174387,Joseph Antoine Bell,08/10/1954,Cameroon,Africa,21
+174638,Lev Yashin,22/10/1929,Soviet Union,Asia,21
+47382,Castilho,27/11/1927,Brazil,South America,20
+44615,Viliam Schrojf,02/08/1931,Czechoslovakia,Europe,20
+174701,Jim Leighton,24/07/1958,Scotland,Europe,20
+54723,Jacques Munaron,08/09/1956,Belgium,Europe,20
+174857,Jean Marie Pfaff,04/12/1953,Belgium,Europe,20
+174765,Tony Meola,21/02/1969,USA,North America,19
+174412,Gilbert Bodart,02/09/1962,Belgium,Europe,19
+190000,Mabrouk Zaid,11/02/1979,Saudi Arabia,Asia,19
+57698,Kurt Schmied,14/06/1926,Austria,Europe,19
+174578,Gyula Grosics,04/02/1926,Hungary,Europe,18
+56802,Francois Remetter,08/08/1928,France,Europe,18
+44789,Andoni Zubizarreta,23/10/1961,Spain,Europe,18
+44810,Claude Abbes,24/05/1927,France,Europe,18
+44542,Ramon Quiroga,23/07/1950,Peru,South America,18
+57159,Alan Rough,25/11/1951,Scotland,Europe,17
+49029,Charly Elsener,13/08/1934,Switzerland,Europe,17
+51231,Eike Immel,27/11/1960,Germany FR,Europe,17
+57737,Harald Schumacher,06/03/1954,Germany FR,Europe,17
+46208,Dominique Baratelli,26/12/1947,France,Europe,17
+58501,Georges Stuber,11/05/1925,Switzerland,Europe,17
+77525,Brad Friedel,18/05/1971,USA,North America,16
+69899,Gunter Sawitzki,22/11/1932,Germany FR,Europe,16
+50984,Hong Dook Jong,05/05/1921,Korea Republic,Asia,16
+156624,Oswaldo Sanchez,21/09/1973,Mexico,North America,16
+156047,Yoshikatsu Kawaguchi,15/08/1975,Japan,Asia,16
+174744,Ladislao Mazurkiewicz,14/02/1945,Uruguay,South America,16
+159481,Seigo Narazaki,15/04/1976,Japan,Asia,16
+182068,Han Heung Chul,17/11/1930,Korea Republic,Asia,16
+174332,Enrico Albertosi,02/11/1939,Italy,Europe,16
+170808,Oscar Perez,01/02/1973,Mexico,North America,16
+48549,Dida,07/10/1973,Brazil,South America,16
+54914,Georgi Naidenov,21/12/1931,Bulgaria,Europe,15
+47245,Jorge Campos,15/10/1966,Mexico,North America,15
+44661,Bogdan Stelea,05/12/1967,Romania,Europe,15
+63860,Gilmar,22/08/1930,Brazil,South America,15
+159304,Gianluigi Buffon,28/01/1978,Italy,Europe,15
+63514,Taffarel,08/05/1966,Brazil,South America,15
+178002,Alvaro Mesen,24/12/1972,Costa Rica,North America,15
+174885,Nery Pumpido,30/07/1957,Argentina,South America,15
+63902,Leao,11/07/1949,Brazil,South America,15
+113570,Edwin Van Der Sar,29/10/1970,Netherlands,Europe,15
+174631,Bodo Illgner,07/04/1967,Germany FR,Europe,15
+170329,Kim Byung Ji,08/04/1970,Korea Republic,Asia,15
+93581,Ali Boumnijel,13/04/1966,Tunisia,Africa,15
+166921,Jens Lehmann,10/11/1969,Germany,Europe,15
+47895,Dominique Colonna,04/09/1928,France,Europe,15
+53066,Torsten Lindberg,14/04/1917,Sweden,Europe,15
+49567,Henry Francillon,26/05/1946,Haiti,North America,14
+51667,Gerard Joseph,22/10/1949,Haiti,North America,14
+51986,Kazadi Muamba,06/03/1947,Zaire,Africa,14
+56316,Wilner Piquant,04/12/1951,Haiti,North America,14
+54153,Ferenc Meszaros,11/04/1950,Hungary,Europe,14
+70008,Heinz Kubsch,20/07/1930,Germany FR,Europe,14
+50798,Fritz Herkenrath,09/09/1928,Germany FR,Europe,14
+52529,Srboljub Krivokuca,14/03/1928,Yugoslavia,Europe,14
+174525,Lars Eriksson,21/09/1965,Sweden,Europe,14
+51770,Kalambay Otepa,12/11/1948,Zaire,Africa,14
+83431,Santiago Canizares,18/12/1969,Spain,Europe,14
+59218,Toni Turek,18/01/1919,Germany FR,Europe,14
+174674,Friedl Koncilia,25/02/1948,Austria,Europe,14
+59191,Tubilandu Ndimbi,15/03/1948,Zaire,Africa,14
+44554,Thomas Ravelli,13/08/1959,Sweden,Europe,14
+174739,Roque Maspoli,12/10/1917,Uruguay,South America,14
+56589,Rudolf Raftl,07/02/1911,Germany,Europe,13
+174344,Fernando Alvez,04/09/1959,Uruguay,South America,13
+46750,Oscar Bonfiglio,05/10/1905,Mexico,North America,13
+58282,Isidoro Sota,04/02/1902,Mexico,North America,13
+51401,Hans Jakob,16/06/1908,Germany,Europe,13
+69421,Julio Hernandez,31/01/1958,El Salvador,North America,13
+118288,Magnus Hedman,19/03/1973,Sweden,Europe,13
+57197,Peter Rufai,24/08/1963,Nigeria,Africa,13
+46339,Vladimir Beara,02/11/1928,Yugoslavia,Europe,13
+174487,Rinat Dasaev,13/06/1957,Soviet Union,Asia,13
+92771,Hussein Al Sadeq,15/10/1973,Saudi Arabia,Asia,13
+44614,Piet Schrijvers,15/12/1946,Netherlands,Europe,13
+50015,Adan Godoy,26/11/1936,Chile,South America,13
+56343,Jim Platt,26/01/1952,Northern Ireland,Europe,13
+174639,Pat Jennings,12/06/1945,Northern Ireland,Europe,13
+155667,Ed De Goey,20/12/1966,Netherlands,Europe,13
+53782,Vladimir Maslachenko,05/03/1936,Soviet Union,Asia,13
+174372,Gordon Banks,30/12/1937,England,Europe,13
+54728,Jose Munguia,28/10/1959,El Salvador,North America,13
+58360,Imrich Stacho,04/11/1931,Czechoslovakia,Europe,13
+50311,Luis Guevara Mora,02/09/1961,El Salvador,North America,13
+47022,Fritz Buchloh,26/11/1909,Germany,Europe,13
+174643,Jan Jongbloed,25/11/1940,Netherlands,Europe,13
+47349,Benito Carvajales,01/01/1913,Cuba,North America,12
+57601,Ottorino Sartor,18/09/1945,Peru,South America,12
+94497,Mark Schwarzer,06/10/1972,Australia,Oceania,12
+49163,Jean Luc Ettori,29/07/1955,France,Europe,12
+69907,Jaime Gomez,29/12/1929,Mexico,North America,12
+48900,Ignacio Eizaguirre,07/11/1920,Spain,Europe,12
+45980,Juan Ayra,01/01/1911,Cuba,North America,12
+197964,Kim Youngkwang,28/06/1983,Korea Republic,Asia,12
+174419,Ivano Bordon,13/04/1951,Italy,Europe,12
+59414,Frank Van Hattum,17/11/1958,New Zealand,Oceania,12
+53893,Ramon Mayeregger,19/02/1934,Paraguay,South America,12
+96043,Peter Kjaer,05/11/1965,Denmark,Europe,12
+174772,Jozef Mlynarczyk,20/09/1953,Poland,Europe,12
+44125,Giovanni Galli,29/04/1958,Italy,Europe,12
+69518,Barry Pickering,12/12/1956,New Zealand,Oceania,12
+252815,Jacek Kazimierski,17/08/1959,Poland,Europe,12
+56589,Rudolf Raftl,07/02/1911,Austria,Europe,12
+44778,Walter Zeman,01/05/1927,Austria,Europe,12
+47374,Jean Castaneda,20/03/1957,France,Europe,12
+58293,Pedro Soto,22/10/1952,Mexico,North America,12
+57557,Miguel Santoro,27/02/1942,Argentina,South America,12
+70017,Franz Pelikan,06/11/1925,Austria,Europe,12
+214386,Vladimir Stojkovic,28/07/1983,Serbia and Montenegro,Europe,12
+59979,Richard Wilson,08/05/1956,New Zealand,Oceania,12
+176634,Mohammed Babkr,15/01/1973,Saudi Arabia,Asia,12
+56841,Jose Reyes,12/10/1955,Mexico,North America,12
+69719,Juan Caceres,27/12/1949,Peru,South America,12
+69767,Juan Acuna,11/01/1923,Spain,Europe,12
+77472,Florin Prunea,08/08/1968,Romania,Europe,12
+174901,Samuel Aguilar,01/01/1934,Paraguay,South America,12
+44546,Antonio Ramallets,04/07/1924,Spain,Europe,12
+46045,Arnold Badjou,25/06/1909,Belgium,Europe,12
+47314,Daniel Carnevali,04/12/1946,Argentina,South America,12
+178420,Tim Howard,06/03/1979,USA,North America,11
+163966,Hans Vonk,30/01/1970,South Africa,Africa,11
+51311,Luis Islas,22/12/1965,Argentina,South America,11
+166562,Plamen Nikolov,20/08/1961,Bulgaria,Europe,11
+49248,Muhsin Musabah,01/01/1964,United Arab Emirates,Asia,11
+63830,Walter Goulart,17/06/1912,Brazil,South America,11
+57486,Efrain Sanchez,26/02/1926,Colombia,South America,11
+69613,Batatais,20/05/1910,Brazil,South America,11
+185338,Justo Villar,30/06/1977,Paraguay,South America,11
+198017,Roberto Eduardo Sosa,14/06/1935,Uruguay,South America,11
+59220,Turgay Seren,15/05/1932,Turkey,Asia,11
+179030,Jesper Christiansen,24/04/1978,Denmark,Europe,11
+55958,Eugene Parlier,13/02/1929,Switzerland,Europe,11
+174597,Ronnie Hellstrom,21/02/1949,Sweden,Europe,11
+174495,Filip De Wilde,05/07/1964,Belgium,Europe,11
+50929,Alan Hodgkinson,16/08/1936,England,Europe,11
+174773,Hassan Abdulqader,15/04/1962,United Arab Emirates,Asia,11
+187757,Marcus Hahnemann,15/06/1972,USA,North America,11
+69415,Hector Baley,16/11/1950,Argentina,South America,11
+177825,Thomas Sorensen,12/06/1976,Denmark,Europe,11
+174468,Choi In Young,05/03/1962,Korea Republic,Asia,11
+58548,Sukru Ersoy,14/01/1934,Turkey,Asia,11
+59296,Francisco Urruticoechea,17/02/1952,Spain,Europe,11
+54469,Abdullah Musa,02/03/1958,United Arab Emirates,Asia,11
+70041,Walter Eich,27/05/1925,Switzerland,Europe,11
+57562,Hector Santos,29/10/1944,Uruguay,South America,11
+44695,Jan Tomaszewski,09/01/1948,Poland,Europe,11
+176644,Iker Casillas,20/05/1981,Spain,Europe,11
+69937,Roy Rea,01/01/1933,Northern Ireland,Europe,10
+69477,Renato Bizzozero,01/01/1912,Switzerland,Europe,10
+63623,Carlos,04/03/1956,Brazil,South America,10
+59274,Norman Uprichard,20/04/1928,Northern Ireland,Europe,10
+170748,Dragoslav Jevric,08/07/1974,Serbia and Montenegro,Europe,10
+70002,Geza Gulyas,23/03/1933,Hungary,Europe,10
+70001,Sandor Geller,12/07/1925,Hungary,Europe,10
+77514,Stanislav Cherchesov,02/09/1963,Russia,Europe,10
+174702,Dragoje Lekovic,21/11/1967,Yugoslavia,Europe,10
+47338,Amadeo Carrizo,12/06/1926,Argentina,South America,10
+77257,Gianluca Pagliuca,18/12/1966,Italy,Europe,10
+45515,Mourad Amara,19/02/1959,Algeria,Africa,10
+49579,Bernd Franke,12/02/1948,Germany FR,Europe,10
+46322,Hubert Baumgartner,25/02/1955,Austria,Europe,10
+122190,Elias Atmatzidis,24/04/1969,Greece,Europe,10
+50227,Harry Gregg,25/10/1932,Northern Ireland,Europe,10
+62210,David James,01/08/1970,England,Europe,10
+76333,Christos Karkamanis,22/09/1969,Greece,Europe,10
+58661,Antal Szentimihalyi,13/06/1939,Hungary,Europe,10
+53562,Manfred Manglitz,08/03/1940,Germany FR,Europe,10
+48644,Pim Doesburg,28/10/1943,Netherlands,Europe,10
+215285,Guillermo Ochoa,13/07/1985,Mexico,North America,10
+44637,Peter Shilton,18/09/1949,England,Europe,10
+51070,Willy Huber,17/12/1913,Switzerland,Europe,10
+49634,Erwin Fuchsbichler,27/03/1952,Austria,Europe,10
+170683,Carlos Germano,14/08/1970,Brazil,South America,10
+217014,Oliver Kovacevic,29/10/1974,Serbia and Montenegro,Europe,10
+60016,Horst Wolter,08/06/1942,Germany FR,Europe,10
+76345,Antonis Minou,04/05/1958,Greece,Europe,10
+168112,Sergio Goycochea,17/10/1963,Argentina,South America,10
+69929,Julio Mussimesi,09/07/1923,Argentina,South America,10
+170232,Richard Kingson,13/06/1978,Ghana,Africa,10
+156904,Abiodun Baruwa,16/11/1974,Nigeria,Africa,9
+166234,Seo Dong Myung,04/05/1974,Korea Republic,Asia,9
+58646,Antal Szabo,04/09/1910,Hungary,Europe,9
+154574,Jiang Jin,07/10/1969,China PR,Asia,9
+58118,Gustav Sjoberg,23/03/1913,Sweden,Europe,9
+60181,Stoyan Yordanov,29/01/1944,Bulgaria,Europe,9
+45642,Jozsef Andrusch,31/03/1956,Hungary,Europe,9
+315892,Georgi Kamenski,03/09/1947,Bulgaria,Europe,9
+70030,Julio Maceiras,22/04/1926,Uruguay,South America,9
+94638,Warren Barrett,07/09/1970,Jamaica,North America,9
+48605,Peter Disztl,30/03/1960,Hungary,Europe,9
+171142,Donovan Ricketts,06/07/1977,Jamaica,North America,9
+69827,Jesus Goyzueta,01/01/1947,Peru,South America,9
+46826,Angel Bossio,05/05/1905,Argentina,South America,9
+44920,Henock Abrahamsson,29/10/1909,Sweden,Europe,9
+84717,Juergen Sommer,27/02/1969,USA,North America,9
+49350,Juan Gualberto Fernandez,12/07/1941,El Salvador,North America,9
+156002,Aaron Lawrence,11/08/1970,Jamaica,North America,9
+123627,Stefan Preda,18/06/1970,Romania,Europe,9
+182194,Ricardo,11/02/1976,Portugal,Europe,9
+95554,Chris Woods,14/11/1959,England,Europe,9
+214425,Wardy Alfaro,31/12/1977,Costa Rica,North America,9
+53393,Raul Magana,24/02/1940,El Salvador,North America,9
+56297,Tomas Pineda,01/01/1939,El Salvador,North America,9
+195809,Jose Porras,08/11/1970,Costa Rica,North America,9
+156918,Willy Okpara,07/05/1968,Nigeria,Africa,9
+186287,Andreas Isaksson,03/10/1981,Sweden,Europe,9
+162977,Viktor Chanov,21/07/1959,Soviet Union,Asia,9
+181025,An Qi,21/06/1981,China PR,Asia,9
+174865,Frantisek Planicka,02/06/1904,Czechoslovakia,Europe,9
+56462,Mario Prosperi,04/08/1945,Switzerland,Europe,9
+154582,Ou Chuliang,26/08/1968,China PR,Asia,9
+52994,Lee Chang Myung,02/01/1947,Korea DPR,Asia,9
+50450,Goran Hagberg,08/11/1947,Sweden,Europe,9
+57187,Luis Rubinos,31/12/1940,Peru,South America,9
+69871,Lee Keun Hak,07/07/1940,Korea DPR,Asia,9
+58659,Jozsef Szendrei,25/04/1954,Hungary,Europe,9
+58351,Ron Springett,22/07/1935,England,Europe,9
+50422,Jozsef Hada,02/03/1911,Hungary,Europe,9
+48886,Leo Eichmann,24/12/1936,Switzerland,Europe,9
+160374,Jose Luis Chilavert,27/07/1965,Paraguay,South America,9
+47984,Ruben Correa,25/07/1941,Peru,South America,9
+46831,Juan Botasso,23/10/1908,Argentina,South America,9
+54569,Salvador Mota,01/01/1923,Mexico,North America,8
+93224,Alioum Boukar,03/01/1972,Cameroon,Africa,8
+51974,Anzor Kavazashvili,19/07/1940,Soviet Union,Asia,8
+69798,Antonio Mota,01/01/1943,Mexico,North America,8
+53704,Fred Martin,13/05/1929,Scotland,Europe,8
+49888,Leopold Gernaey,25/02/1927,Belgium,Europe,8
+49124,Misael Escuti,20/12/1926,Chile,South America,8
+181137,Rodolf Rodriguez,20/01/1956,Uruguay,South America,8
+46793,Frank Borghi,09/04/1925,USA,North America,8
+45889,Manuel Astorga,16/03/1943,Chile,South America,8
+197841,Jose Pereira,15/09/1931,Portugal,Europe,8
+69717,Mohammad Reza Korbekandi,27/01/1953,Iran,Asia,8
+178598,Idriss Kameni,18/02/1984,Cameroon,Africa,8
+181100,Celso Otero,01/02/1958,Uruguay,South America,8
+184599,Maarten Stekelenburg,22/09/1982,Netherlands,Europe,8
+44725,David Vanole,06/02/1963,USA,North America,8
+52771,Sven-gunnar Larsson,10/05/1940,Sweden,Europe,8
+46508,Jesus Bermudez,01/01/1902,Bolivia,South America,8
+170697,Carlos Tejas,04/10/1974,Chile,South America,8
+51220,Istvan Ilku,06/03/1933,Hungary,Europe,8
+174880,Michel Preudhomme,24/01/1959,Belgium,Europe,8
+59993,Oscar Wirth,05/11/1955,Chile,South America,8
+154560,Nelson Tapia,22/09/1966,Chile,South America,8
+94918,Faryd Mondragon,21/06/1971,Colombia,South America,8
+155977,Francesco Toldo,02/12/1971,Italy,Europe,8
+170752,Vladimir Vasilj,06/07/1975,Croatia,Europe,8
+44621,David Seaman,19/09/1963,England,Europe,8
+55679,Mario Osben,14/07/1950,Chile,South America,8
+52462,Laszlo Kovacs,24/04/1951,Hungary,Europe,8
+69891,Antonio Permunian,16/08/1930,Switzerland,Europe,8
+177669,Hans Joerg Butt,28/05/1974,Germany,Europe,8
+69714,Bahram Movadat,30/01/1950,Iran,Asia,8
+69732,Vicente Arraya,25/01/1922,Bolivia,South America,8
+69444,Guido Masetti,22/11/1907,Italy,Europe,8
+154548,Marcelo Ramirez,29/05/1965,Chile,South America,8
+70053,Charles Geerts,29/10/1930,Belgium,Europe,8
+170712,Oscar Cordoba,03/02/1970,Colombia,South America,8
+182073,John Anderson,08/12/1929,Scotland,Europe,8
+58970,Hans Tilkowski,12/07/1935,Germany FR,Europe,8
+174323,Juan Carlos Ablanedo,02/09/1963,Spain,Europe,8
+48363,Ivan Deyanov,16/12/1937,Bulgaria,Europe,8
+50743,Nasser Hejazi,19/12/1949,Iran,Asia,8
+96075,Fabien Barthez,28/06/1971,France,Europe,8
+69892,Kurt Stettler,21/08/1932,Switzerland,Europe,8
+69517,George Wood,26/09/1952,Scotland,Europe,8
+47354,Carvalho,18/04/1937,Portugal,Europe,8
+54136,Gilbert Merrick,26/01/1922,England,Europe,8
+69814,Lido Vieri,16/07/1939,Italy,Europe,8
+50391,Sandor Gujdar,08/11/1951,Hungary,Europe,8
+47976,Marco Cornez,15/10/1957,Chile,South America,8
+69962,Manuel Camacho,29/04/1929,Mexico,North America,8
+70045,Ted Burgin,29/04/1927,England,Europe,8
+182204,Gino Gardassanich,26/11/1922,USA,North America,8
+50381,Eduardo Gutierrez,17/01/1925,Bolivia,South America,8
+70054,Raymond Ausloos,03/02/1930,Belgium,Europe,8
+53159,Americo,06/03/1933,Portugal,Europe,8
+52507,Willibald Kress,13/11/1906,Germany,Europe,8
+157898,Mladen Dabanovic,13/09/1971,Slovenia,Europe,7
+69886,Sergei Kotrikadze,09/08/1936,Soviet Union,Asia,7
+174418,Pat Bonner,24/05/1960,Republic of Ireland,Europe,7
+95172,Mogens Krogh,31/10/1963,Denmark,Europe,7
+69581,Rizah Meskovic,10/08/1947,Yugoslavia,Europe,7
+50912,Julius Hjulian,15/03/1903,USA,North America,7
+51407,Milovan Jaksic,21/09/1909,Yugoslavia,Europe,7
+216714,Bohdan Shust,04/03/1986,Ukraine,Europe,7
+159552,Marko Simeunovic,06/12/1967,Slovenia,Europe,7
+184856,Austine Ejide,08/04/1984,Nigeria,Africa,7
+49061,Bruno Engelmeier,05/09/1927,Austria,Europe,7
+57693,Peter Schmeichel,18/11/1963,Denmark,Europe,7
+49855,Jozsef Gelei,29/06/1938,Hungary,Europe,7
+165090,Franky Vandendriessche,07/04/1971,Belgium,Europe,7
+58622,Tore Svensson,06/12/1927,Sweden,Europe,7
+168393,Frederic Herpoel,16/08/1974,Belgium,Europe,7
+177702,Dejan Nemec,01/03/1977,Slovenia,Europe,7
+174558,Giorgio Ghezzi,10/07/1930,Italy,Europe,7
+177687,Geert De Vlieger,16/10/1971,Belgium,Europe,7
+181856,Rene Llense,14/07/1913,France,Europe,7
+59807,Jozef Wandzik,13/08/1963,Poland,Europe,7
+69519,Friederich Franzl,06/03/1905,Austria,Europe,7
+171141,Tisir Al Antaif,16/02/1974,Saudi Arabia,Asia,7
+55526,Juan Olivares,20/02/1941,Chile,South America,7
+76899,Alan Kelly Jr.,11/08/1968,Republic of Ireland,Europe,7
+59549,Alexander Vencel,08/02/1944,Czechoslovakia,Europe,7
+181277,Waldir Peres,02/01/1951,Brazil,South America,7
+58462,Mirko Stojanovic,11/06/1939,Yugoslavia,Europe,7
+69815,Ado,04/07/1944,Brazil,South America,7
+44779,Walter Zenga,28/04/1960,Italy,Europe,7
+47005,Martin Brunner,23/04/1963,Switzerland,Europe,7
+59615,Ivo Viktor,21/05/1942,Czechoslovakia,Europe,7
+95155,Adam Matysek,19/07/1968,Poland,Europe,7
+58652,Rudolf Szanwald,06/07/1931,Austria,Europe,7
+158389,Oleksandr Shovkovskyi,02/01/1975,Ukraine,Europe,7
+69817,Antonin Flesar,08/05/1944,Czechoslovakia,Europe,7
+178244,Ricardo Tavarelli,02/08/1970,Paraguay,South America,7
+76140,Dany Verlinden,15/08/1963,Belgium,Europe,7
+69912,Pavel Kouba,01/09/1938,Czechoslovakia,Europe,7
+174413,Peter Bonetti,27/09/1941,England,Europe,7
+174448,Ignacio Calderon,13/12/1943,Mexico,North America,7
+56206,Ognjen Petrovic,02/01/1948,Yugoslavia,Europe,7
+69910,Frantisek Schmucker,28/01/1940,Czechoslovakia,Europe,7
+174868,Peter Platzer,29/05/1910,Austria,Europe,7
+45754,Luis Arconada,26/06/1954,Spain,Europe,7
+58406,Ulrich Stein,23/10/1954,Germany FR,Europe,7
+52906,Stephan Lehmann,15/08/1963,Switzerland,Europe,7
+49842,Istvan Geczi,13/06/1944,Hungary,Europe,7
+253390,Andriy Pyatov,28/06/1984,Ukraine,Europe,7
+178965,Jerzy Dudek,23/03/1973,Poland,Europe,7
+48781,George Dunlop,16/01/1956,Northern Ireland,Europe,7
+69921,Nikola Parchanov,19/06/1930,Bulgaria,Europe,7
+53642,Enver Maric,23/04/1948,Yugoslavia,Europe,7
+56797,Theodor Reimann,10/02/1921,Czechoslovakia,Europe,7
+50921,Oh Yun Kyo,25/05/1960,Korea Republic,Asia,7
+166751,Radoslaw Majdan,10/05/1972,Poland,Europe,7
+47687,Cho Byung Duk,26/05/1958,Korea Republic,Asia,7
+69959,Ingemar Haraldsson,03/02/1928,Sweden,Europe,7
+48014,Leonardo Costagliola,27/10/1921,Italy,Europe,7
+200313,Yoichi Doi,25/07/1973,Japan,Asia,7
+63890,Felix,24/12/1937,Brazil,South America,7
+154303,Zdravko Zdravkov,04/10/1970,Bulgaria,Europe,7
+174707,Klaus Lindenberger,28/05/1957,Austria,Europe,7
+58280,Milutin Soskic,31/12/1937,Yugoslavia,Europe,7
+228273,Mohammad Khojah,15/03/1982,Saudi Arabia,Asia,7
+78038,Marco Pascolo,09/05/1966,Switzerland,Europe,7
+166992,Nigel Martyn,11/08/1966,England,Europe,7
+174676,Michael Konsel,06/03/1962,Austria,Europe,7
+59663,Giovanni Viola,20/06/1925,Italy,Europe,7
+170637,Ruud Hesp,31/10/1965,Netherlands,Europe,7
+189300,Vincent Enyeama,29/08/1982,Nigeria,Africa,7
+182142,Tony Sylva,17/05/1975,Senegal,Africa,6
+52415,Zdzislaw Kostrzewa,26/10/1955,Poland,Europe,6
+178788,Rogerio Ceni,22/01/1973,Brazil,South America,6
+51964,Bela Katzirz,27/07/1953,Hungary,Europe,6
+4104,Omar Diallo,28/09/1972,Senegal,Africa,6
+44944,Eusebio Acasuzo,08/04/1952,Peru,South America,6
+185260,Ouro-nimini Tchagnirou,31/12/1977,Togo,Africa,6
+36859,Victor Bannikov,28/04/1938,Soviet Union,Asia,6
+59374,Ilia Valov,29/12/1961,Bulgaria,Europe,6
+182640,Gregory Coupet,31/12/1972,France,Europe,6
+69324,Franco Tancredi,10/01/1955,Italy,Europe,6
+53370,Edward Madejski,11/08/1914,Poland,Europe,6
+157556,Neil Sullivan,24/02/1970,Scotland,Europe,6
+56714,Trols Rasmussen,07/04/1961,Denmark,Europe,6
+48705,Jimmy Douglas,12/01/1898,USA,North America,6
+253614,Adel Nefzi,16/03/1974,Tunisia,Africa,6
+179814,Sammy Adjei,01/09/1980,Ghana,Africa,6
+174379,Hermidio Barrantes,02/09/1964,Costa Rica,North America,6
+170639,Brian Baloyi,16/03/1974,South Africa,Africa,6
+47812,Bobby Clark,26/09/1945,Scotland,Europe,6
+181187,Paulo Sergio,24/07/1954,Brazil,South America,6
+69850,Guenter Bernard,04/11/1939,Germany FR,Europe,6
+252193,Ante Covic,13/06/1975,Australia,Oceania,6
+174663,Kim Poong Jo,01/10/1961,Korea Republic,Asia,6
+46218,Barbosa,27/03/1921,Brazil,South America,6
+182319,Mo Heng Tan,28/02/1913,Dutch East Indies,Asia,6
+59772,Waldir Peres,02/01/1951,Brazil,South America,6
+111322,Norberto Scoponi,13/01/1961,Argentina,South America,6
+47913,Gabelo Conejo,01/01/1960,Costa Rica,North America,6
+174568,Andy Goram,13/04/1964,Scotland,Europe,6
+4299,Kossi Agassa,02/07/1978,Togo,Africa,6
+46068,Jassem Bahman,15/02/1958,Kuwait,Asia,6
+58899,Alex Thepot,30/07/1906,France,Europe,6
+52246,Imre Kiss,10/08/1957,Hungary,Europe,6
+46683,Jimmy Blyth,02/02/1955,Scotland,Europe,6
+252712,Tomislav Ivkovic,11/08/1960,Yugoslavia,Europe,6
+55745,Abdellah Ouriaghli,01/01/1943,Morocco,Africa,6
+169703,Erick Lonnis,09/09/1965,Costa Rica,North America,6
+213172,Vahid Talebloo,26/05/1982,Iran,Asia,6
+154059,Zeljko Kalac,16/12/1972,Australia,Oceania,6
+184419,Tomislav Butina,30/03/1974,Croatia,Europe,6
+183560,Lester Morgan,02/05/1976,Costa Rica,North America,6
+50088,Jose Gonzales Ganoza,10/07/1954,Peru,South America,6
+69342,Philippe Bergeroo,13/01/1954,France,Europe,6
+59426,Adriaan Van Male,07/10/1910,Netherlands,Europe,6
+48653,Bretislav Dolejsi,29/09/1928,Czechoslovakia,Europe,6
+51079,Adolphe Hug,23/09/1923,Switzerland,Europe,6
+170855,Jonathan Gould,18/07/1968,Scotland,Europe,6
+45608,Sven Andersson,06/10/1963,Sweden,Europe,6
+179048,Stipe Pletikosa,08/01/1979,Croatia,Europe,6
+50955,Lars Hogh,14/01/1959,Denmark,Europe,6
+51936,Allal Ben Kassou,01/01/1941,Morocco,Africa,6
+60196,Tommy Younger,10/04/1930,Scotland,Europe,6
+160350,Joel Bats,04/01/1957,France,Europe,6
+175413,Pepe Reina,31/08/1982,Spain,Europe,6
+191172,Timo Hildebrand,05/04/1979,Germany,Europe,6
+153943,German Burgos,16/04/1969,Argentina,South America,6
+183012,George Owu,07/07/1982,Ghana,Africa,6
+77904,Julen Lopetegui,28/08/1966,Spain,Europe,6
+58185,Theo Snelders,07/12/1963,Netherlands,Europe,6
+63566,Roberto Fernandez,09/07/1954,Paraguay,South America,6
+189511,Zafer Ozgultekin,10/03/1975,Turkey,Asia,6
+51086,Philip Hughes,19/11/1964,Northern Ireland,Europe,6
+69493,Cestmir Patzel,02/12/1914,Czechoslovakia,Europe,6
+69594,Gustavo Fernandez,16/02/1952,Uruguay,South America,6
+174821,Fahrudin Omerovic,26/08/1961,Yugoslavia,Europe,6
+44976,Adam Adam,23/09/1957,Kuwait,Asia,6
+214308,Kodjovi Obilale,08/10/1984,Togo,Africa,6
+174640,Jeong Gi Dong,13/05/1961,Korea Republic,Asia,6
+182221,Walter Brom,14/02/1921,Poland,Europe,6
+47990,Eugenio Corrodi,02/07/1922,Switzerland,Europe,6
+50721,Mohamed Hazzaz,01/01/1945,Morocco,Africa,6
+210455,Hassan Roudbarian,06/07/1978,Iran,Asia,6
+189753,Kalidou Cissokho,14/12/1972,Senegal,Africa,6
+53111,Sergio Livingstone,26/03/1920,Chile,South America,6
+212418,Hamdi Kasraoui,18/01/1983,Tunisia,Africa,6
+45327,Ahmed Al Tarabulsi,22/03/1947,Kuwait,Asia,6
+56546,Ole Qvist,25/02/1950,Denmark,Europe,6
+185639,Ebrahim Mirzapour,16/09/1978,Iran,Asia,6
+63882,Manga,26/04/1937,Brazil,South America,6
+46311,Jorge Battaglia,12/05/1960,Paraguay,South America,6
+69338,Julian Coronel,23/10/1958,Paraguay,South America,6
+135599,Ibrahim Al Helwa,18/08/1972,Saudi Arabia,Asia,6
+95586,Rustu Recber,10/05/1973,Turkey,Asia,6
+184048,Choi Eun Sung,05/04/1971,Korea Republic,Asia,6
+52566,Zygmunt Kukla,21/01/1948,Poland,Europe,6
+177724,Omer Catkic,15/10/1974,Turkey,Asia,6
+179038,Julio Cesar,03/09/1979,Brazil,South America,6
+44622,Miguel Segura,02/09/1963,Costa Rica,North America,6
+153951,Pablo Cavallero,13/04/1974,Argentina,South America,6
+46992,Bill Brown,08/10/1931,Scotland,Europe,6
+43652,Paolo Conti,01/04/1950,Italy,Europe,6
+57230,Albert Rust,10/10/1953,France,Europe,6
+52106,Dmitri Kharin,16/08/1968,Russia,Europe,6
+53446,Luis Maidana,24/02/1934,Uruguay,South America,6
+54615,Piotr Mowlik,21/04/1951,Poland,Europe,5
+69401,Samuel Zauber,01/01/1901,Romania,Europe,5
+132866,Said Dghay,14/01/1964,Morocco,Africa,5
+52746,Larbi El Hadi,27/05/1961,Algeria,Africa,5
+189911,Pedro Contreras,07/01/1972,Spain,Europe,5
+44981,Stere Adamache,17/08/1941,Romania,Europe,5
+47436,Mahdi Cerbah,03/01/1953,Algeria,Africa,5
+51778,Zygmunt Kalinowski,02/05/1949,Poland,Europe,5
+57765,Frank Sechehaye,03/11/1907,Switzerland,Europe,5
+155697,Drazen Ladic,01/01/1963,Croatia,Europe,5
+170268,Marjan Mrmic,06/05/1965,Croatia,Europe,5
+51280,Jose Iribar,01/03/1943,Spain,Europe,5
+56783,Miguel Reina,21/01/1946,Spain,Europe,5
+53421,Allan Maher,21/07/1950,Australia,Oceania,5
+69349,Sergei Krakovsky,11/08/1960,Soviet Union,Asia,5
+69699,Rudi Kargus,15/08/1952,Germany FR,Europe,5
+48073,Juergen Croy,19/10/1946,German DR,Europe,5
+69325,Hector Zelada,30/04/1957,Argentina,South America,5
+69994,Veludo,07/08/1930,Brazil,South America,5
+43986,Carlo Ceresoli,14/06/1910,Italy,Europe,5
+188247,Hassen Bejaoui,14/02/1976,Tunisia,Africa,5
+46542,Antonio Betancourt,13/03/1937,Spain,Europe,5
+46468,Yacine Bentala,24/09/1955,Algeria,Africa,5
+47315,Georges Carnus,13/08/1942,France,Europe,5
+123077,Park Chul Woo,29/09/1965,Korea Republic,Asia,5
+188249,Ahmed Jaouachi,13/07/1975,Tunisia,Africa,5
+52738,Ion Lapusneanu,08/12/1908,Romania,Europe,5
+69645,Jozsef Palinkas,01/01/1912,Hungary,Europe,5
+93243,William Andem,14/06/1968,Cameroon,Africa,5
+69995,Cabecao,23/08/1930,Brazil,South America,5
+58366,Stefan Staikov,03/10/1949,Bulgaria,Europe,5
+48652,Paul Dolan,16/04/1966,Canada,North America,5
+177660,Quim,13/11/1975,Portugal,Europe,5
+57085,Antonio Roma,13/07/1932,Argentina,South America,5
+56781,Jack Reilly,27/08/1945,Australia,Oceania,5
+179286,Gustavo Munua,27/01/1978,Uruguay,South America,5
+56025,Anibal Paz,18/02/1918,Uruguay,South America,5
+48732,Nasser Drid,22/01/1957,Algeria,Africa,5
+174818,Aldo Olivieri,02/10/1910,Italy,Europe,5
+46678,Wolfgang Blochwitz,08/02/1941,German DR,Europe,5
+49613,Werner Friese,30/03/1946,German DR,Europe,5
+46537,Jean Paul Bertrand Demanes,13/05/1952,France,Europe,5
+77411,Frode Grodas,24/10/1964,Norway,Europe,5
+167305,Thomas Myhre,16/10/1973,Norway,Europe,5
+181182,Miguel Angel,24/12/1947,Spain,Europe,5
+69602,Andrzej Fischer,15/01/1952,Poland,Europe,5
+69700,Dieter Burdenski,26/11/1950,Germany FR,Europe,5
+162188,Andre Arendse,27/06/1967,South Africa,Africa,5
+174361,Raimond Aumann,12/10/1963,Germany FR,Europe,5
+163350,Paulo Santos,11/12/1972,Portugal,Europe,5
+177879,Christian Abbiati,08/07/1977,Italy,Europe,5
+116025,Luca Bucci,13/03/1969,Italy,Europe,5
+169478,Magnus Kihlstedt,29/02/1972,Sweden,Europe,5
+170725,Mustapha El Chadili,14/02/1973,Morocco,Africa,5
+69810,Walter Corbo,02/05/1949,Uruguay,South America,5
+163713,Peter Paluch,17/02/1958,Czechoslovakia,Europe,5
+50415,Sven Habermann,03/11/1961,Canada,North America,5
+48737,Dominique Dropsy,09/12/1951,France,Europe,5
+69610,Erwin Ballabio,20/10/1918,Switzerland,Europe,5
+69844,Johnny Schuth,07/12/1941,France,Europe,5
+56018,Dumitru Pavlovici,26/04/1912,Romania,Europe,5
+44781,Adolfo Zeoli,02/05/1962,Uruguay,South America,5
+159293,Driss Ben Zekri,31/12/1970,Morocco,Africa,5
+187209,Calvin Marlin,20/04/1976,South Africa,Africa,5
+52968,Tino Lettieri,27/09/1957,Canada,North America,5
+69671,Mircea David,16/10/1914,Romania,Europe,5
+92720,Khalil Azmi,23/08/1964,Morocco,Africa,5
+189767,Federico Elduayen,25/06/1977,Uruguay,South America,5
+189861,Ricardo,30/12/1971,Spain,Europe,5
+57296,Robert Sadowsky,16/08/1914,Romania,Europe,5
+111341,Jose Pazo,04/04/1964,Colombia,South America,5
+50147,Rumen Goranov,17/03/1950,Bulgaria,Europe,5
+195231,Jose Corona,26/01/1981,Mexico,North America,5
+4373,Fabian Carini,26/12/1979,Uruguay,South America,5
+56575,Necula Raducanu,10/05/1946,Romania,Europe,5
+174768,Ludek Miklosko,09/12/1961,Czechoslovakia,Europe,5
+170832,Espen Baardsen,07/12/1977,Norway,Europe,5
+252261,Jan Stejskal,15/01/1962,Czechoslovakia,Europe,5
+48133,Theo Custers,10/08/1950,Belgium,Europe,5
+58712,Walter Taibo,07/03/1931,Uruguay,South America,5
+53944,Colin Mc Donald,15/10/1930,England,Europe,5
+69981,Eddie Hopkinson,29/10/1935,England,Europe,5
+174863,Christian Piot,04/10/1947,Belgium,Europe,5
+69304,Dave Beasant,20/03/1959,England,Europe,5
+170724,Abdelkader El Brazi,05/11/1964,Morocco,Africa,5
+59127,Jean-marie Trappeniers,13/01/1942,Belgium,Europe,5
+54241,Jimmy Milisavljevic,15/04/1951,Australia,Oceania,5
+77250,Luca Marchegiani,22/02/1966,Italy,Europe,5
+48790,Jacques Duquesne,22/04/1940,Belgium,Europe,5
+111362,Zakaria El Achraf,17/06/1966,Morocco,Africa,5
+174848,Eduardo Pereira,21/03/1954,Uruguay,South America,5
+45919,Marcel Aubour,17/06/1940,France,Europe,5
+59389,Andre Van De Weyer,21/06/1909,Belgium,Europe,5
+50158,Gheorghe Gornea,02/08/1944,Romania,Europe,5
+182215,Jean De Bie,18/05/1892,Belgium,Europe,4
+160968,Jaromir Blazek,29/12/1972,Czech Republic,Europe,4
+181189,Victor Chanov,21/07/1959,Soviet Union,Asia,4
+93421,Alloy Agu,12/07/1967,Nigeria,Africa,4
+235273,Cristian Mora,26/08/1979,Ecuador,South America,4
+184549,Daniel Viteri,12/12/1981,Ecuador,South America,4
+216566,Damian Lanza,10/04/1982,Ecuador,South America,4
+189197,Nelson,20/10/1975,Portugal,Europe,4
+174604,Joop Hiele,25/12/1958,Netherlands,Europe,4
+69575,Wolfgang Kleff,16/11/1946,Germany FR,Europe,4
+49394,Herbert Feurer,14/01/1954,Austria,Europe,4
+44706,Aleksandr Uvarov,13/01/1960,Soviet Union,Asia,4
+183588,Marcos,04/08/1973,Brazil,South America,4
+52026,Jack Kelsey,19/11/1929,Wales,Europe,4
+214946,Antonin Kinsky,31/05/1975,Czech Republic,Europe,4
+69629,Julien Darui,16/02/1916,France,Europe,4
+177763,Kim Yongdae,11/10/1979,Korea Republic,Asia,4
+48494,Laurent Di Lorto,01/01/1909,France,Europe,4
+159480,Nima Nakisa,01/05/1975,Iran,Asia,4
+76147,Dario Rojas,20/01/1960,Bolivia,South America,4
+175350,Tomasz Kuszczak,20/03/1982,Poland,Europe,4
+170736,Radhouane Salhi,18/12/1967,Tunisia,Africa,4
+55932,Jorge Pardon,04/03/1905,Peru,South America,4
+51058,Zdenek Hruska,25/07/1954,Czechoslovakia,Europe,4
+59469,Marcelino Vargas,01/01/1921,Paraguay,South America,4
+95589,Tim Flowers,03/02/1967,England,Europe,4
+174806,Eduardo Nino,08/08/1967,Colombia,South America,4
+69693,Ricardo La Volpe,06/02/1952,Argentina,South America,4
+59343,Juan Valdivieso,06/05/1910,Peru,South America,4
+69462,Eivar Widlund,01/01/1906,Sweden,Europe,4
+210045,John Alvbage,10/08/1982,Sweden,Europe,4
+44713,Hans Van Breukelen,04/10/1956,Netherlands,Europe,4
+81751,Adrian Chavez,27/06/1962,Mexico,North America,4
+97252,Ahmed Abedzadeh,25/05/1966,Iran,Asia,4
+57242,Anders Rydberg,03/03/1903,Sweden,Europe,4
+195417,Edwin Villafuerte,12/03/1979,Ecuador,South America,4
+155002,Jose Cevallos,17/04/1971,Ecuador,South America,4
+158768,Ivica Kralj,26/03/1973,Yugoslavia,Europe,4
+178051,Aldo Bobadilla,20/04/1976,Paraguay,South America,4
+186591,Kelvin Jack,29/04/1976,Trinidad and Tobago,North America,4
+170815,Parviz Boromand,11/09/1972,Iran,Asia,4
+60005,Franz Wohlfahrt,01/07/1964,Austria,Europe,4
+180648,Shaka Hislop,22/02/1969,Trinidad and Tobago,North America,4
+69821,Alex Stepney,18/09/1942,England,Europe,4
+55436,Jose Ochotorena,16/01/1961,Spain,Europe,4
+160197,Vitor Baia,15/10/1969,Portugal,Europe,4
+77273,Felix Fernandez,11/01/1967,Mexico,North America,4
+45041,Wilfred Agbonavbare,05/10/1966,Nigeria,Africa,4
+216129,Artur Boruc,20/02/1980,Poland,Europe,4
+57812,Stanislav Seman,08/08/1952,Czechoslovakia,Europe,4
+170675,Jose Molina,08/08/1970,Spain,Europe,4
+182126,Ken Jones,02/01/1936,Wales,Europe,4
+4320,Clayton Ince,13/07/1972,Trinidad and Tobago,North America,4
+174606,Rene Higuita,27/08/1966,Colombia,South America,4
+155021,Giovanni Ibarra,08/09/1969,Ecuador,South America,4
+47392,Francisco Castrejon,11/06/1947,Mexico,North America,4
+69358,Damas,08/10/1947,Portugal,Europe,4
+156049,Nobuyuki Kojima,17/01/1966,Japan,Asia,4
+95133,Stanley Menzo,15/10/1963,Netherlands,Europe,4
+153972,Carlos Roa,15/08/1969,Argentina,South America,4
+45130,Ahmed Jassim,04/05/1960,Iraq,Asia,4
+181328,Renato,05/12/1944,Brazil,South America,4
+69516,Viacheslav Chanov,23/10/1951,Soviet Union,Asia,4
+84494,Marcelo Torrico,11/01/1972,Bolivia,South America,4
+154460,Carlos Trucco,11/08/1957,Bolivia,South America,4
+159428,Wolfgang Knaller,09/10/1961,Austria,Europe,4
+181101,Jorge Martins,22/08/1954,Portugal,Europe,4
+58495,Karel Stromsik,12/04/1958,Czechoslovakia,Europe,4
+178406,Petr Cech,20/05/1982,Czech Republic,Europe,4
+178830,Ruslan Nigmatullin,07/10/1974,Russia,Europe,4
+216931,Lukasz Fabianski,18/04/1985,Poland,Europe,4
+162884,Alexander Filimonov,15/10/1973,Russia,Europe,4
+174453,Fabian Cancelarich,30/12/1965,Argentina,South America,4
+198087,Kamel Masoud,02/08/1914,Egypt,Africa,4
+253195,Rami Shaaban,30/06/1975,Sweden,Europe,4
+57435,Hammoudi Raad,20/04/1958,Iraq,Asia,4
+63675,Bento,25/06/1948,Portugal,Europe,4
+47380,Luciano Castellini,12/12/1945,Italy,Europe,4
+93554,Choukri El Ouaer,15/08/1966,Tunisia,Africa,4
+69574,Norbert Nigbur,08/05/1948,Germany FR,Europe,4
+69968,Gerald Vearncombe,28/03/1934,Wales,Europe,4
+51476,Insayaf Abdulfattah,02/02/1951,Iraq,Asia,4
+171473,Simon Gopane,26/12/1970,South Africa,Africa,3
+174675,Otto Konrad,01/11/1964,Austria,Europe,3
+69491,Leo Halle,26/01/1906,Netherlands,Europe,3
+69531,Robert Defosse,16/06/1909,France,Europe,3
+47995,Roberto Cortes,02/02/1905,Chile,South America,3
+46078,Gary Bailey,09/08/1958,England,Europe,3
+166398,Gheorghe Liliac,22/04/1959,Romania,Europe,3
+181186,Jimmy Steward,09/12/1946,Honduras,North America,3
+57298,Salvador Sadurni,03/04/1941,Spain,Europe,3
+46133,Enrique Ballestrero,18/01/1905,Uruguay,South America,3
+59673,Itzhak Vissoker,18/09/1944,Israel,Asia,3
+54627,Srdjan Mrkusic,26/05/1915,Yugoslavia,Europe,3
+69985,Branko Kralj,10/03/1924,Yugoslavia,Europe,3
+59388,Gejus Van Der Meulen,23/01/1903,Netherlands,Europe,3
+162141,Paul Evans,28/12/1973,South Africa,Africa,3
+93398,Ibrahim Shorunmu,16/10/1967,Nigeria,Africa,3
+44013,Giampiero Combi,20/11/1902,Italy,Europe,3
+174583,Bryan Gunn,22/12/1963,Scotland,Europe,3
+174353,Jose Araquistain,04/03/1937,Spain,Europe,3
+77481,Dumitru Stangaciu,09/08/1964,Romania,Europe,3
+69638,Robert Braet,11/02/1912,Belgium,Europe,3
+69303,Angel Comizzo,27/04/1962,Argentina,South America,3
+56049,Pedrosa,08/07/1913,Brazil,South America,3
+50523,Yechiel Hameiri,20/08/1949,Israel,Asia,3
+54333,Jan Moller,17/09/1953,Sweden,Europe,3
+44774,Ricardo Zamora,21/01/1901,Spain,Europe,3
+59133,Eddy Treijtel,28/05/1946,Netherlands,Europe,3
+54994,Jose Nazar,07/09/1953,Honduras,North America,3
+69557,Germano,14/03/1911,Brazil,South America,3
+48426,Modesto Denis,01/01/1901,Paraguay,South America,3
+69988,Cesar Ruminski,13/06/1924,France,Europe,3
+69443,Giuseppe Cavanna,18/11/1905,Italy,Europe,3
+193986,Leonardo Franco,20/05/1977,Argentina,South America,3
+155823,Shay Given,20/04/1976,Republic of Ireland,Europe,3
+49606,Hector Freschi,22/05/1911,Argentina,South America,3
+177754,Hitoshi Sogahata,02/08/1979,Japan,Asia,3
+198016,Pedro Benitez,12/01/1901,Paraguay,South America,3
+153929,Roberto Abbondanzieri,19/08/1972,Argentina,South America,3
+69740,Giuseppe Casari,10/04/1922,Italy,Europe,3
+57772,Carmelo,06/12/1930,Spain,Europe,3
+174855,Gerald Peyton,20/05/1956,Republic of Ireland,Europe,3
+154198,Philippe Vande Walle,22/12/1961,Belgium,Europe,3
+55268,Yair Nosovski,29/06/1937,Israel,Asia,3
+69366,Andre Tassin,23/02/1902,France,Europe,3
+45837,Julio Cesar Arzu,05/06/1954,Honduras,North America,3
+174720,Silviu Lung,09/09/1956,Romania,Europe,3
+171227,Gilmar Rinaldi,13/01/1959,Brazil,South America,3
+54536,Giuseppe Moro,16/01/1921,Italy,Europe,3
+69409,Miguel Cappuccini,05/01/1904,Uruguay,South America,3
+48668,Rogelio Dominguez,09/03/1931,Argentina,South America,3
+200129,Oscar Ustari,03/07/1986,Argentina,South America,3
+47079,Karel Burkert,01/12/1909,Czechoslovakia,Europe,3
+154713,Miguel Calero,14/04/1971,Colombia,South America,3
+92709,Zetti,10/01/1965,Brazil,South America,3
+69570,Niek Michel,30/09/1912,Netherlands,Europe,3
+55236,Juan Nogues,28/03/1909,Spain,Europe,3
+178305,Joe Didulica,14/10/1977,Croatia,Europe,3
+69847,Javier Vargas,22/11/1941,Mexico,North America,3
+179105,Dean Kiely,10/10/1970,Republic of Ireland,Europe,3
+182021,Mickael Landreau,14/05/1979,France,Europe,3
+177708,Ulrich Rame,19/09/1972,France,Europe,3
+44627,Lucidio Sentimenti,01/07/1920,Italy,Europe,3
+54917,Mokhtar Naili,03/09/1953,Tunisia,Africa,2
+210179,Marco Amelia,02/04/1982,Italy,Europe,2
+56215,Ronny Pettersson,26/04/1940,Sweden,Europe,2
+56471,Ivan Pudar,16/08/1961,Yugoslavia,Europe,2
+69876,Roberto Anzolin,18/04/1938,Italy,Europe,2
+50096,Miguel Angel,24/12/1947,Spain,Europe,2
+44680,Stefano Tacconi,13/05/1957,Italy,Europe,2
+207356,Badou Zaki,02/04/1959,Morocco,Africa,2
+51585,Henry Johansen,21/07/1904,Norway,Europe,2
+57015,Ignacio Rodriguez,12/06/1956,Mexico,North America,2
+214963,Paul Robinson,15/10/1979,England,Europe,2
+155974,Angelo Peruzzi,16/02/1970,Italy,Europe,2
+95456,Bernard Lama,07/04/1963,France,Europe,2
+50917,Salaheddine Hmied,01/09/1961,Morocco,Africa,2
+59370,Leopoldo Vallejos,16/07/1944,Chile,South America,2
+69877,Pierluigi Pizzaballa,14/09/1939,Italy,Europe,2
+44682,Ayman Taher,07/01/1966,Egypt,Africa,2
+157137,Danilo Aceval,15/09/1975,Paraguay,South America,2
+184623,Ahmed Shobeir,28/09/1961,Egypt,Africa,2
+55885,Dragan Pantelic,09/12/1951,Yugoslavia,Europe,2
+60387,William Zombory,11/01/1906,Romania,Europe,2
+238645,Derlis Gomez,02/11/1972,Paraguay,South America,2
+161054,Acacio,20/01/1959,Brazil,South America,2
+53853,Carlo Mattrel,14/04/1937,Italy,Europe,2
+49220,Wolfgang Fahrian,31/05/1941,Germany FR,Europe,2
+170700,Lionel Charbonnier,25/10/1966,France,Europe,2
+51288,Roland Irusta,27/03/1938,Argentina,South America,2
+57212,Ruben Ruiz Diaz,11/11/1969,Paraguay,South America,2
+153940,Roberto Bonano,24/01/1970,Argentina,South America,2
+183238,Lama,01/02/1981,Angola,Africa,2
+59948,Bert Williams,31/01/1920,England,Europe,2
+55252,Sverre Nordby,13/03/1910,Norway,Europe,2
+230740,Henk Timmer,03/12/1971,Netherlands,Europe,2
+69679,Anker Kihle,19/04/1917,Norway,Europe,2
+162685,Joao Ricardo,07/01/1970,Angola,Africa,2
+58543,Ratko Svilar,06/05/1950,Yugoslavia,Europe,2
+69333,Olaf Heredia,19/10/1957,Mexico,North America,2
+197753,Scott Carson,03/09/1985,England,Europe,2
+63820,Velloso,25/09/1908,Brazil,South America,2
+46403,Lamine Ben Aziza,10/11/1952,Tunisia,Africa,2
+174519,Thabet El Batal,16/09/1953,Egypt,Africa,2
+55022,Adolfo Nef,18/01/1946,Chile,South America,2
+51024,Abdelfettah Houdani,30/07/1956,Morocco,Africa,2
+253515,Mario,01/06/1985,Angola,Africa,2
+54443,Joel,01/05/1904,Brazil,South America,2
+52755,Pablo Larios,31/07/1960,Mexico,North America,2
+48606,Ted Ditchburn,24/10/1921,England,Europe,2
+69852,Hugo Gatti,19/08/1944,Argentina,South America,2
+47035,Lorenzo Buffon,19/12/1929,Italy,Europe,2
+69800,Leonid Shmuts,08/10/1948,Soviet Union,Asia,2
+174932,Adalbert Pullock,06/04/1907,Romania,Europe,2
+180664,Ze Carlos,07/02/1962,Brazil,South America,2
+57610,Sadok Sassi,15/11/1945,Tunisia,Africa,2
+58950,Erik Thorstvedt,28/10/1962,Norway,Europe,1
+50635,David Harvey,07/02/1948,Scotland,Europe,1
+196633,Diego Benaglio,08/09/1983,Switzerland,Europe,1
+47989,Joe Corrigan,18/11/1948,England,Europe,1
+47831,Ray Clemence,05/08/1948,England,Europe,1
+47113,Ola By Rise,14/11/1960,Norway,Europe,1
+69586,Thomson Allan,05/10/1946,Scotland,Europe,1
+69587,Jim Stewart,09/03/1954,Scotland,Europe,1
+69346,Paulo Vitor,07/06/1957,Brazil,South America,1
+181176,Simon Tchobang,31/08/1951,Cameroon,Africa,1
+157843,Pascal Zuberbuehler,08/01/1971,Switzerland,Europe,0
+230774,Fabio Coltorti,03/12/1980,Switzerland,Europe,0
