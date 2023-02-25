@@ -50,10 +50,9 @@ object UnionQuestStileGuida extends App {
     lista_cartelle += c /** EFFETTUO IL SALVATAGGIO DELLE SOTTO CARTELLE NELLA LISTA: lista_cartelle */
     numero += 1  /** INCREMENTO L'INDICE AD OGNI CICLO */
 
-    //println(lista_cartelle.toList.toString())
-
     val dir = new File(lista_cartelle.apply(numero).toString)
     val lista_last_id = new ListBuffer[Int]()
+    val lista_tempview = new ListBuffer[String]()
     var num = 0
 
     /**
@@ -80,6 +79,8 @@ object UnionQuestStileGuida extends App {
 
       DF_EX.createOrReplaceTempView("tab" + num.toString)
 
+      lista_tempview += "tab"+num.toString()
+
       /**
        * ESTRAGGO PER OGNI DF, DALLA COLONNA ID_risposta IL VALORE MAX
        * E LO SALVO IN UNA ListBuffer[Int] COSì DA POTER
@@ -96,7 +97,7 @@ object UnionQuestStileGuida extends App {
 
     }
 
-    //println(lista.toList)
+    lista_tempview.dropRight(1).foreach(tab => spark.catalog.dropTempView(tab) )
 
     /**
      * CREO UN DF DI APPOGGIO
@@ -129,8 +130,6 @@ object UnionQuestStileGuida extends App {
       n_domande += 1
       DF_appoggio = DF_appoggio.withColumnRenamed(d, "domanda" + n_domande.toString)
     }
-
-    //DF_EX.show()
 
     n_domande = 0
 
