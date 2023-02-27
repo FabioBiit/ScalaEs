@@ -1,13 +1,12 @@
+import org.apache.spark.sql.{SaveMode, SparkSession}
 import scala.collection.mutable.ListBuffer
-import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
-import org.apache.spark.sql.SaveMode
 
 import java.io.File
 
-/***
+/** *
  *
- *-------------------------------------------LEGGENDA VARIABILI UTILIZZATE----------------------------------------------
+ * -------------------------------------------LEGGENDA VARIABILI UTILIZZATE----------------------------------------------
  *
  * var cartelle ==> PATH DELLA CARTELLA: QuestNuoviAderenti
  * var lista_cartelle ==> NECESSARIA PER SALVARE IL PATH DELLE SOTTO CARTELLE TROVATE IN: QuestNuoviAderenti
@@ -47,8 +46,11 @@ object UnionQuestNuoviAderenti extends App {
 
   for (c <- cartelle.listFiles.filter(_.isDirectory)) {
 
-    lista_cartelle += c /** EFFETTUO IL SALVATAGGIO DELLE SOTTO CARTELLE NELLA LISTA: lista_cartelle */
-    numero += 1  /** INCREMENTO L'INDICE AD OGNI CICLO */
+    lista_cartelle += c
+
+    /** EFFETTUO IL SALVATAGGIO DELLE SOTTO CARTELLE NELLA LISTA: lista_cartelle */
+    numero += 1
+    /** INCREMENTO L'INDICE AD OGNI CICLO */
 
     val dir = new File(lista_cartelle.apply(numero).toString)
     val lista_last_id = new ListBuffer[Int]()
@@ -79,7 +81,7 @@ object UnionQuestNuoviAderenti extends App {
 
       DF_EX.createOrReplaceTempView("tab" + num.toString)
 
-      lista_tempview += "tab"+num.toString()
+      lista_tempview += "tab" + num.toString
 
       /**
        * ESTRAGGO PER OGNI DF, DALLA COLONNA ID_risposta IL VALORE MAX
@@ -97,7 +99,8 @@ object UnionQuestNuoviAderenti extends App {
 
     }
 
-    lista_tempview.dropRight(1).foreach(tab => spark.catalog.dropTempView(tab) )
+    /** ELIMINA TUTTE LE TEMP VIEW ECCETTO L'ULTIMA */
+    lista_tempview.dropRight(1).foreach(tab => spark.catalog.dropTempView(tab))
 
     /**
      * CREO UN DF DI APPOGGIO
@@ -118,6 +121,19 @@ object UnionQuestNuoviAderenti extends App {
          |from tab${num.toString} /** num AVRà IL VALORE DELL'ULTIMA TEMPVIEW, QUELLA DELL'ULTIMO FILE, CHE CONTIENE TUTTI GLI ID */
          |""".stripMargin).withColumn("Data_invio", to_date(lit(data), "yyyyMMdd"))
 
+    /**
+     * CONTROLLA SE ESISTE LA COLONNA "Data invio",
+     * SE TRUE LA ELIMINA, ALTRIMENTI PROCEDE CON L'ALTRO STEP
+     */
+
+    DF_appoggio.columns.foreach(_ => {
+      if (DF_appoggio.columns.contains("Data invio")) {
+        DF_appoggio = DF_appoggio.drop("Data invio")
+      } else {
+        DF_appoggio = DF_appoggio
+      }
+    })
+
     /** ESCLUDO LE 2 COLONNE CHE NON VOGLIO RINOMINARE */
     val domande = DF_appoggio.columns.filter(x => x != "ID_risposta" && x != "Data_invio")
 
@@ -133,45 +149,34 @@ object UnionQuestNuoviAderenti extends App {
 
     n_domande = 0
 
+    /** BISOGNA STARE ATTENTI A GESTIRE OUTOFBOUNDEXCEPTION */ // (FATTO)
+
     /**
-     * CONTROLLA SE ESISTE LA COLONNA "Data invio",
-     * SE TRUE LA ELIMINA, ALTRIMENTI PROCEDE CON L'ALTRO STEP
+     * 4° CICLO FOR:
+     * SUL DF_appoggio APPLICO UN PASSAGGIO DI DATA-PREPARATION
+     * CON WITHCOLUMN, WHEN E OTHERWISE AL FINE DI INSERIRE LE DATE CORRETTE
      */
 
-    if (DF_appoggio.columns.contains("Data invio")) {
-      DF_appoggio.drop("Data invio")
-    } else {
+    for (file <- dir.listFiles) {
 
-      /** BISOGNA STARE ATTENTI A GESTIRE OUTOFBOUNDEXCEPTION */ // (FATTO)
+      elemento1 += 1
+      elemento2 += 1
 
-      /**
-       * 4° CICLO FOR:
-       * SUL DF_appoggio APPLICO UN PASSAGGIO DI DATA-PREPARATION
-       * CON WITHCOLUMN, WHEN E OTHERWISE AL FINE DI INSERIRE LE DATE CORRETTE
-       */
+      if (elemento2 <= out_list.length - 1) { /** MI GARANTISCE CHE L'ELEMENTO 2 NON ECCEDA MAI GLI ELEMENTI DELL'ARRAY */
 
-      for (file <- dir.listFiles) {
+        val ele3 = out_list.apply(elemento1) + 1
+        val ele4 = out_list.apply(elemento2)
 
-        elemento1 += 1
-        elemento2 += 1
+        val nome_file_split = dir.listFiles.apply(elemento2).toString.split("_").toList
+        val data = nome_file_split.apply(5)
 
-        if (elemento2 <= out_list.length - 1) { /** MI GARANTISCE CHE L'ELEMENTO 2 NON ECCEDA MAI GLI ELEMENTI DELL'ARRAY */
+        DF_appoggio = DF_appoggio
+          .withColumn("Data_invio", when(col("ID_risposta") between(ele3, ele4), to_date(lit(data), "yyyyMMdd"))
+            .otherwise(col("Data_invio")))
 
-          val ele3 = out_list.apply(elemento1) + 1
-          val ele4 = out_list.apply(elemento2)
+      } else { /** ALTRIMENTI ESCI DALL'IF */
 
-          val nome_file_split = dir.listFiles.apply(elemento2).toString.split("_").toList
-          val data = nome_file_split.apply(5)
-
-          DF_appoggio = DF_appoggio
-            .withColumn("Data_invio", when(col("ID_risposta") between(ele3, ele4), to_date(lit(data), "yyyyMMdd"))
-              .otherwise(col("Data_invio")))
-
-        } else { /** ALTRIMENTI ESCI DALL'IF */
-
-          println("*********************************DONE***************************************")
-
-        }
+        println("*********************************DONE***************************************")
 
       }
 
@@ -183,7 +188,7 @@ object UnionQuestNuoviAderenti extends App {
         .format("com.crealytics.spark.excel")
         .option("header", true)
         .option("dateFormat", "yyyy-MM-dd")
-        .save("src/main/resources/NewQuest/QuestUnionNuoviAderenti" + (numero + 1).toString() + ".xlsx")
+        .save("src/main/resources/NewQuest/QuestUnionNuoviAderenti" + (numero + 1).toString + ".xlsx")
     } catch {
 
       case e: Exception => println("FILE GIA' ESISTENTI!")
