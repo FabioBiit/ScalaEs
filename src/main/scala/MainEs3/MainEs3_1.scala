@@ -1,4 +1,4 @@
-package scala.MainEs3
+package MainEs3
 
 import org.apache.spark.sql.functions.{col, collect_list, concat_ws}
 import org.apache.spark.sql.{DataFrame, SparkSession}

@@ -1,5 +1,3 @@
-package scala
-
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql._
 import org.apache.spark.sql.functions._
