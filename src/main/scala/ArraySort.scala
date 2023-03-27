@@ -6,6 +6,8 @@ object ArraySort extends App {
 
   val size1 = arr1.length
 
+  //SORT A SCORRIMENTO
+
   for(i <- 0 to size1-1){
 
     val index = i
@@ -27,6 +29,8 @@ object ArraySort extends App {
   }
 
   //arr1.foreach(println)
+
+  //BABBO SORT
 
   var arr = Array(0, 1, 3, 2, 7, 5, 4, 9, 10, 8)
 
